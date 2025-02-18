@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lexikope.TranlationFrm"
+             Title="TranlationFrm">
+    
+    <Grid Padding="0" Margin="0">
+        <!-- Grid sorok definiálása -->
+        <Grid.RowDefinitions>
+            <!-- WebView -->
+            <RowDefinition Height="*" />
+            <!-- Gomb -->
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+ 
+            <!-- WebView a felső sorban -->
+            <WebView x:Name="translateWebView" 
+             Grid.Row="0" 
+            VerticalOptions="FillAndExpand"                   
+             BackgroundColor="{AppThemeBinding Light=White, Dark=Black}"/>
+        
+
+        <!-- Vissza gomb az alsó sorban -->
+        <Button x:Name="Back" 
+                Grid.Row="1"
+                Text="Back" 
+                FontSize="20"
+                Background="Beige"
+                TextColor="black"
+                
+                Clicked="OnBack"/>
+    </Grid>
+</ContentPage>

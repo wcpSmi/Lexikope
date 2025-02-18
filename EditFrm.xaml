@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lexikope.EditFrm"
+             Title="Bejegyzés szerkesztése"
+             BackgroundColor="{AppThemeBinding Light={StaticResource BackgroundLight}, Dark={StaticResource BackgroundDark}}">
+    
+    <Grid RowDefinitions="Auto, *, Auto">
+
+        <!-- Picker és Entry kombinálása -->
+        <VerticalStackLayout Grid.Row="0"
+                     Padding="10"
+                     Spacing="10">
+
+            <Picker x:Name="CategoryPicker"
+                Title="Válassz kategóriát..."
+                HorizontalOptions="FillAndExpand"
+                SelectedIndexChanged="OnCategoryChanged"/>
+
+            <Entry x:Name="CategoryEntry"
+               Placeholder="Vagy írj be újat..."
+               HorizontalOptions="FillAndExpand"/>
+        </VerticalStackLayout>
+
+
+        <!-- Két nagy Entry mező -->
+        <VerticalStackLayout Grid.Row="1"
+                             Padding="20"
+                             Spacing="10">
+
+            <Label Text="Másik nyelv" FontSize="18" FontAttributes="Bold"/>
+            <Entry x:Name="OtherLangEntry"
+                   Placeholder="Írd be a szót/mondatot..."
+                   FontSize="18"
+                   HeightRequest="100"
+                   VerticalOptions="FillAndExpand"/>
+
+            <Label Text="Magyar" FontSize="18" FontAttributes="Bold"/>
+            <Entry x:Name="HunLangEntry"
+                   Placeholder="Írd be a magyar megfelelőjét..."
+                   FontSize="18"
+                   HeightRequest="100"
+                   VerticalOptions="FillAndExpand"/>
+        </VerticalStackLayout>
+
+        <!-- Rögzített gombok alul -->
+        <HorizontalStackLayout Grid.Row="2"
+                               Padding="10"
+                               VerticalOptions="End"
+                               Spacing="20"
+                               HorizontalOptions="Center">
+            <Button x:Name="CancelButton"
+                Text="Mégse"
+                    Clicked="OnCancelClicked"
+                     TextColor="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"
+                    HorizontalOptions="FillAndExpand"/>
+            <Button x:Name="NewSaveButton"
+                Text="Új mentés"
+                    Clicked="OnNewSaveClicked"
+                    TextColor="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"
+                    HorizontalOptions="FillAndExpand"/>
+            <Button x:Name="ModifyButton"
+                Text="Módosít"
+                    Clicked="OnModifySaveClicked"
+                    TextColor="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"
+                    HorizontalOptions="FillAndExpand"/>
+            <Button x:Name="DeletButton"
+                Text="Töröl"
+                    Clicked="OnDeletClicked"
+                    TextColor="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"
+                    HorizontalOptions="FillAndExpand"/>
+        </HorizontalStackLayout>
+
+    </Grid>
+</ContentPage>

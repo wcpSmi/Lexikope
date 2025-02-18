@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="Lexikope.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Lexikope"
+    Shell.FlyoutBehavior="Disabled"
+    Title="Lexikope">
+
+    <ShellContent
+        Title="Dictionary"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" /> 
+    <ShellContent
+        Title="QuizFrm"
+        ContentTemplate="{DataTemplate local:QuizFrm}"
+        Route="QuizFrm" />
+    <ShellContent 
+        Title="TranlationFrm"
+        ContentTemplate="{DataTemplate local:TranlationFrm}" 
+        Route="TranlationFrm"/>
+
+</Shell>

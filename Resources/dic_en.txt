@@ -1,0 +1,3735 @@
+$English - Magyar
+#Az utcán
+
+avenue	sugárút
+bus shelter	autóbuszváróhely
+bus stop	buszmegálló
+high street	főutca
+lamppost	lámpaoszlop
+parking meter	parkoló óra
+pavement, sidewalk	járda
+pedestrian crossing	gyalogosátkelő
+pedestrian subway	aluljáró
+side street	mellékutca
+signpost	jelzőtábla
+square	tér
+street	utca
+taxi rank	taxiállomás
+telephone box vagy telephone booth	telefonfülke
+
+#Család
+
+father (családon belül úgy mondják, hogy dad)	apa
+mother (családon belül úgy mondják, hogy mum)	anya
+son	fiú
+daughter	lány
+parent	szülő
+child (többesszáma: children)	gyermek
+husband	férj
+wife	feleség
+brother	fiútestvér
+sister	lánytestvér
+uncle	nagybácsi
+aunt	nagynéni
+nephew	unokaöcs
+niece	unokahúg
+cousin	unokatestvér
+grandmother, granny, grandma	nagymama, nagyi, nagymami
+grandfather, granddad, grandpa	nagypapa,nagypapi
+grandparents	nagyszülők
+grandson	fiú unoka
+granddaughter	lány unoka
+grandchild, grandchildren	unoka
+boyfriend	barát
+girlfriend	barátnő
+partner	partner
+fiancé	vőlegény
+fiancée	menyasszony
+godfather	keresztapa
+godmother	keresztanya
+godson	keresztfiú
+goddaughter	keresztlány
+stepfather	mostoha apa
+stepmother	mostoha anya
+stepson	mostoha fiú
+stepdaughter	mostoha lány
+stepbrother	mostoha fiútestvér
+stepsister	mostoha lánytestvér
+half-sister	lány féltestvér
+half-brother	fiú féltestvér
+mother-in-law	anyós
+father-in-law	após
+son-in-law	vő
+daughter-in-law	meny
+sister-in-law	sógornő
+brother-in-law	sógor
+relation vagy relative	rokon
+twin	iker
+to be born	megszületni
+to die	meghalni
+to get married	megházasodni
+to get divorced	elválni
+to adopt	örökbefogadni
+adoption	örökbefogadás
+adopted	örökbefogadott
+only child	egyetlen gyermek
+single parent	egyedülálló apuka
+single mother	egyedülálló anyuka
+infant	gyermek, csecsemő
+baby	csecsemő
+toddler	totyogó
+single	egyedülálló
+engaged	jegyes (el van jegyezve)
+married	házas
+separated	külön él
+divorced	elvált
+widow	özvegyasszony
+widower	özvegy úr
+
+#Dátum,Idő és gyakoriság
+
+second	másodperc
+minute	perc
+hour	óra
+day	nap
+week	hét
+fortnight	két hét
+month	hónap
+year	év
+decade	évtized
+century	évszázad
+weekend	hétvége
+leap year	szökőév
+
+#Építés,Szerelés
+
+chisel	véső
+hammer	kalapács
+drill	fúró
+file	reszelő
+ladder	létra
+paint brush	ecset
+pliers	fogó
+ruler	vonalzó
+saw	fűrész
+screwdriver	csavarhúzó
+spanner	csavarkulcs
+spirit level	vízmérték
+stepladder	kétágú létra
+tape measure	mérőszalag
+bolt	csavar
+nail	szög
+nut	anya
+screw	csavarok
+washer	alátét
+brick	tégla
+cement	cement
+paint	festék
+plaster	gipsz
+sandpaper	smirgli
+string	zsinór
+tape	szalag
+tile	csempe
+wallpaper	tapéta
+white spirit	higító
+wire	drót
+pipe	cső
+toolbox	szerszámosláda
+broken	eltörött, elromlott
+rusty	rozsdás
+to build	építeni
+to cut	vágni
+to loosen	meglazítani
+to measure	mérni
+to paint	festeni
+to repair, to mend	javítani, rendbehozni
+to screw in	becsavarni
+to tighten	meghúzni
+to unscrew	kicsavarni
+brick	tégla
+cement	cement
+concrete	beton
+glass	üveg
+gravel	sóder
+marble	márvány
+metal	fém
+plastic	műanyag
+sand	karton
+slate	pala
+stone	kő
+wood	fa
+aluminium	alumínium
+brass	sárgaréz
+bronze	bronz
+copper	réz
+gold	arany
+iron	vas
+lead	ólom
+magnesium	magnézium
+mercury	higany
+nickel	nikkel
+platinum	platina
+silver	ezüst
+steel	acél
+tin	bádog
+uranium	uránium
+zinc	cink
+alloy	ötvözet
+carbon dioxide	szén-dioxid
+helium	hélium
+hydrogen	hidrogén
+nitrogen	nitrogén
+oxygen	oxigén
+cloth	anyag
+cotton	pamut
+lace	csipke
+leather	bőr
+linen	lenvászon
+man-made fibres	mesterséges szövet
+nylon	nejlon
+polyester	műszál
+silk	selyem
+wool	gyapjú
+charcoal	faszén
+coal	szén
+gas	gáz
+oil	olaj
+paraffin	paraffin
+petrol	benzin
+asbestos	azbeszt
+cardboard	karton
+chalk	kréta
+clay	agyag
+dust	por
+fibreglass	üvegszál
+mud	sár
+paper	papír
+rubber	gumi
+smoke	füst
+soil	talaj
+ice	jég
+steam	gőz
+water	víz
+
+#Épületek
+
+apartment block	bérház
+art gallery	galéria
+bank	bank
+bar	bár
+block of flats	lakástömb
+building society	lakásépítő szövetkezet
+café	kávézó
+cathedral	katedrális
+church	templom
+cinema	mozi
+concert hall	koncertterem
+dentists	fogorvosok
+doctors	orvosok
+fire station	tűzoltóság
+garage	autószervíz
+gym	fitness terem
+health centre	egészségügyi központ
+hospital	kórház
+hotel	szálloda
+internet cafe	internetkávézó
+leisure centre vagy sports centre	egészségközpont
+library	könyvtár
+mosque	mecset
+museum	múzeum
+office block	irodaépület
+petrol station	benzinkút
+police station	rendőrőrs
+post office	posta
+pub, public house	kocsma
+restaurant	étterem
+school	iskola
+shopping centre	bevásárlóközpont
+skyscraper	felhőkarcoló
+swimming baths	uszoda
+synagogue	zsinagóga
+theatre	színház
+tower block	toronyház
+town hall	városháza
+university	egyetem
+vets	állatkórház
+wine bar	borozó
+bowling alley	bowlingterem
+bus station	buszállomás
+car park	parkoló
+cemetery	temető
+children's playground	gyermek játszótér
+marketplace	piac
+multi-storey car park	többemeletes parkolóház
+park	park
+skate park	gördeszkapálya
+stadium	stadion
+town square	főtér
+train station	vasútállomás
+zoo	állatkert
+
+#Érzékelés
+
+smell	szaglás
+touch	érintés
+sight	látás
+hearing	hallás
+taste	ízlelés
+to smell	szagolni
+to touch	érinteni
+to see	látni
+to hear	hallani
+to taste	ízlelni
+
+#Érzések, érzelem
+
+happy	boldog
+sad	szomorú
+miserable	boldogtalan
+worried	aggódó
+depressed	depressziós
+excited	izgatott
+bored	unatkozó
+fed up	megcsömörlött
+pleased	örömteli
+delighted	elragadtatott
+surprised	meglepett
+astonished	elámult
+disappointed	csalódott
+enthusiastic	lelkes
+relaxed	relaxált
+stressed	stresszelt
+anxious	szorongó
+tired	fáradt
+weary	elcsigázott
+exhausted	kimerült
+annoyed	bosszús
+angry	mérges
+furious	haragos
+livid	felrobban a haragtól
+disgusted	undorodó
+confident	magabiztos
+sensitive	érzékeny
+calm	nyugodt
+hot-headed	forró fejű
+impulsive	lobbanékony
+cheerful	vidám
+generous	bőkezű
+kind	kedves
+mean	gonosz
+crazy	bolond
+sensible	ésszerű
+serious	komoly
+honest	őszinte
+dishonest	nem becsületes, tisztességtelen
+good-humoured	jó humorú
+bad-tempered	összeférhetetlen
+moody	szeszélyes
+hard-working	szorgalmas
+lazy	lusta
+clever	okos
+intelligent	inteligens
+unintelligent	unintelligens
+arrogant	arogáns
+snobbish	sznob
+happy	boldog
+unhappy	boldogtalan
+stupid	buta
+outgoing	társaságkedvelő
+cautious	óvatos
+adventurous	kalandos
+shy	szégyenlős
+introverted	befelé forduló (introverált)
+extroverted	kifelé forduló (extroverált)
+easy-going	könnyű kijönni vele
+rude	szemtelen
+bad-mannered	rossz modorú
+impolite	tiszteletlen
+emotional	érzelgős
+polite	tisztelettudó
+funny	vicces
+witty	szellemes
+boring	unalmas
+patient	türelmes
+impatient	türelmetlen
+sophisticated	kitanult
+crude	bárdolatlan
+cheeky	pimasz
+friendly	barátságos
+unfriendly	barátságtalan
+conceited	beképzelt
+modest	szerény
+brave	bátor
+cowardly	gyáva
+absent-minded	figyelmetlen
+talented	tehetséges
+obedient	szófogadó
+disobedient	engedetlen
+principled	elvekkel bíró
+corrupt	korrupt
+unscrupulous	lelkiismeretlen
+
+#Ház és kert
+
+attic	tetőtér
+bathroom	fűrdőszoba
+bedroom	hálószoba
+cellar	pince
+conservatory	üvegház
+dining room	étkező
+hall	előszoba
+kitchen	konyha
+landing	lépcsőforduló
+lavatory	mosdó
+living room	nappali
+loft	padlás
+lounge	társalgó
+shower room	zuhanyzó helyiség
+study	dolgozó szoba
+sun lounge	napos helyiség
+toilet	toalett
+utility room	mosókonyha
+wc	wc
+back door	hátsó ajtó
+bath	fürdő
+ceiling	plafon
+central heating	központi fűtés
+chimney	kémény
+door	ajtó
+doorbell	ajtócsengő
+drainpipe	esőcsatorna
+double glazing	dupla falú ablaküveg
+fireplace	kandalló
+floor	padló
+front door	bejárati ajtó
+guttering	ereszcsatorna
+roof	tető
+shower	zuhany
+stairs	lépcső
+staircase	lépcső
+wall	fal
+window	ablak
+downstairs	földszint
+upstairs	emelet
+gas bill	gáz számla
+electricity bill	elektromossági számla
+telephone bill	telefon számla
+water bill	víz számla
+to do the housework	elvégezni a házimunkát
+back garden	hátsó kert
+clothes line	ruhaszárító kötél
+drain	csatorna, eresz
+drive	kocsifeljáró
+dustbin	kuka
+fence	kerítés
+flower bed	virágágyás
+flowerpot	virágcserép
+front garden	első kert
+garage	garázs
+garden furniture	kerti bútor
+gate	kapu
+gravel	sóder
+greenhouse	üvegház
+hanging basket	függőkosár
+hedge	sövény
+lawn	gyep
+letterbox	levelesláda
+logs	farönkök
+orchard	gyümölcsös
+path	kerti ösvény
+patio	terasz
+plants	növények
+pond	tavacska, kis tó
+shed	kerti fabódé, kerti szerszámok raktára
+swimming pool	úszómedence
+swing	hinta
+trampoline	trambulin
+vegetable garden	zöldségek
+weeds	gaz
+to mow the lawn	megnyírni a füvet
+axe	balta
+fork	villa, vasvilla
+hoe	kapa
+hose vagy hosepipe	öntözőcső
+lawn mower	fűnyíró
+rake	gereblye
+secateurs	metszőolló
+shears	kerti ollló
+spade	ásó
+trowel	ültetőkanál
+watering can	öntözőkanna
+wheelbarrow	talicska
+fridge, refrigerator	hűtő
+coffee pot	kávéfőző
+cooker	sütő
+dishwasher	mosogatógép
+freezer	fagyasztó
+kettle	vízforraló
+oven	sütő
+stove	tűzhely
+toaster	kenyérpirító
+washing machine	mosógép
+bottle opener	üvegnyitó
+chopping board	vágódeszka
+colander	szűrőedény
+corkscrew	dugóhúzó
+frying pan	serpenyő
+grater, cheese grater	reszelő/sajtreszelő
+juicer	facsaró
+kitchen foil	alufólia
+kitchen scales	konyhai mérleg
+ladle	merőkanál
+mixing bowl	keverőtál
+oven cloth	konyharuha sütőhöz
+oven gloves	sütőkesztyű
+rolling pin	sodrófa
+saucepan	lábos
+scouring pad, scourer	mosogatószivacs, dörzsi
+sieve	szita
+tin opener	konzervnyitó
+tongs	konyhai fogó
+tray	tálca
+whisk	habverő
+wooden spoon	fakanál
+knife	kés
+fork	villa
+spoon	kanál
+dessert spoon	kiskanál
+soup spoon	evőkanál
+tablespoon	evőkanál
+teaspoon	kiskanál
+carving knife	metszőkés
+chopsticks	evőpálcika
+cup	csésze
+bowl	tál
+crockery	étkészlet (tányérok, edények)
+glass	pohár
+jar	befőttes üveg
+jug	kancsó
+mug	bögre
+plate	tányér
+saucer	csészealj
+sugar bowl	cukortartó
+teapot	teáskanna
+wine glass	boros pohár
+bin	szemetes
+cling film, plastic wrap	folpack
+cookery book	szakácskönyv
+dishcloth	szőtt edényalátét
+draining board	csepptálca
+grill	grillsütő
+kitchen roll	konyhai papírtörlő
+plug	lefolyódugó
+tea towel	konyharuha
+shelf	polc
+sink	mosogató
+tablecloth	asztalterítő
+washing-up liquid	mosogatószer
+to do the dishes	elmosogatni
+to do the washing up	elmosogatni
+to clear the table	leszedni az asztalt
+to set the table, to lay the table	megteríteni az asztalt
+armchair	karosszék
+bed	ágy
+bedside table	éjjeliszekrény
+bookcase	könyvesszekrény
+bookshelf	könyvespolc
+chair	szék
+chest of drawers	fiókos szekrény
+clock	óra
+coat stand	fogas
+coffee table	kávézóasztal
+cupboard	fali szekrény
+desk	íróasztal
+double bed	franciaágy
+dressing table	fésülködőasztal
+drinks cabinet	bárszekrény
+filing cabinet	iratszekrény
+mirror	tükör
+piano	zongora
+sideboard	tálaló
+single bed	ágy
+sofa	kanapé
+sofa-bed	rekamié
+stool	támlátlan szék, zsámoly
+table	asztal
+wardrobe	szekrény
+alarm clock	ébresztőóra
+bathroom scales	fürdőszobai mérleg
+blu-ray player	blu-ray lejátszó
+cd player	cd lejátszó
+dvd player	dvd lejátszó
+electric fire	elektromos kandalló
+games console	játékkonzol
+gas fire	gáz kandalló
+hoover, vacuum cleaner	porszívó
+iron	vasaló
+lamp	lámpa
+radiator	radiátor
+radio	rádió
+record player	lemezjátszó
+spin dryer	szárítógép
+stereo	magnó
+telephone	telefon
+washing machine	mosógép
+blanket	pokróc
+blinds	ablakredőny
+carpet	szőnyeg
+curtains	függöny
+cushion	kispárna
+duvet	paplan
+mattress	matrac
+pillow	párna
+pillowcase	párnahuzat
+rug	kisszőnyeg
+sheet	lepedő
+tablecloth	terítő
+towel	törülköző
+wallpaper	tapéta
+bin	szemeteskosár
+broom	partvis
+bucket	vödör
+coat hanger	vállfa
+cold tap	hidegvízcsap
+door handle	ajtókilincs
+door knob	gombkilincs
+doormat	lábtörlő
+dustbin	szemetes
+dustpan and brush	seprű és lapát
+flannel	flanel
+fuse box	biztosítékszekrény
+hot tap	melegvízcsap
+houseplant	szobanövény
+ironing board	vasaló deszka
+lampshade	lámpaernyő
+light switch	villanykapcsoló
+mop	felmosórongy
+ornament	díszítés
+painting	festmény
+picture	kép
+plug	konnektor
+plug	lefolyódugó
+plug socket, power socket	csatlakozó aljzat, konnektor
+plughole	lefolyó
+poster	poszter
+sponge	szivacs
+tap	csap
+torch	zseblámpa
+vase	váza
+waste paper basket	papírkosár
+candle	gyertya
+cotton	vatta
+envelopes	borítékok
+firelighters	gyújtós
+fuse	biztosíték
+glue	ragasztó
+light bulb	villanykörte
+lighter	öngyújtó
+matches	gyufa
+needle	tű
+safety pin	biztosítótű
+scissors	olló
+sellotape	cellux
+stamps	bélyeg
+pen	toll
+pencil	ceruza
+tissues	papírzsebkenő
+toilet paper, toilet roll	wc papír
+toothpaste	fogkrém
+tube of toothpaste	fogkrémes tubus
+writing paper	írólap
+bin bag vagy bin liner	szemeteszsák
+bleach	fehérítő / hipó
+detergent	tisztítószer
+disinfectant	fertőtlenítő
+dustbin bag	szemeteszsák
+duster	porrongy
+fabric softener	öblítő
+floorcloth	felmosórongy
+furniture polish	bútorfényező
+hoover bag	porszívózsák
+shoe polish	cipőkrém / cipőpaszta
+soap	szappan
+washing powder	mosópor
+
+#Időjárás
+
+sun	nap
+sunshine	napsütés
+rain	eső
+snow	hó
+hail	jégeső
+drizzle	szitálás
+sleet	havas eső
+shower	zuhé
+mist	pára
+fog	köd
+cloud	felhő
+rainbow	szivárvány
+wind	szél
+breeze	szellő
+strong winds	erős szél
+thunder	mennydörgés
+lightning	villámlás
+storm	vihar
+thunderstorm	vihar
+gale	erős szél
+tornado	tornádó
+hurricane	hurrikán
+flood	árvíz
+frost	fagy
+ice	jég
+drought	szárazság
+heat wave	melegfront
+windy	szeles
+cloudy	felhős
+foggy	ködös
+misty	párás
+icy	jeges
+frosty	fagyos
+stormy	viharos
+dry	száraz
+wet	nedves
+hot	meleg
+cold	hideg
+chilly	hűvös
+sunny	napos
+rainy	esős
+fine	szép
+dull	szomorkás
+overcast	borús
+humid	nedves
+raindrop	esőcsepp
+snowflake	hópehely
+hailstone	jégesőszem / jégszem
+to melt	olvasztani
+to freeze	fagyni
+to thaw	olvadni
+to snow	havazni
+to rain	esőnek esni
+to hail	jégesőnek esni
+weather forecast	időjárás előrejelzés
+rainfall	csapadék
+temperature	hőmérséklet
+humidity	nedvesség, páratartalom
+thermometer	hőmérő
+high pressure	nagy nyomás
+low pressure	kis nyomás
+barometer	barométer
+degree	fok
+celsius	celsius
+fahrenheit	fahrenheit
+climate	éghajlat
+climate change	éghajlatváltozás
+global warming	globális felmelegedés
+
+#Iskola
+
+school	iskola
+nursery school	óvoda
+primary school	általános iskola
+secondary school	középiskola
+state school	állami iskola
+private school, independent school	privát iskola
+boarding school	bentlakásos iskola
+sixth-form college	a középiskola szabadon választható utolsó általában két éve
+technical college	műszaki főiskola
+vocational college	szakiskola
+art college	képzőművészeti főiskola
+teacher training college	tanárképző főiskola
+university	egyetem
+classroom	osztályterem
+desk	iskolapad
+blackboard	iskolatábla
+whiteboard	fehértábla
+chalk	kréta
+marker pen, marker	filctoll
+pen	toll
+pencil	ceruza
+exercise book	füzet
+lesson	tanóra
+homework	házifeladat
+test	teszt
+term	félév
+half term	félévi iskolai szünet
+class	osztály
+reading	olvasás
+writing	írás
+spelling	betűzés
+to read	olvasni
+to write	írni
+to spell	betűzni
+to teach	tanítani
+head teacher	igazgató
+headmaster	igazgató
+headmistress	igazgatónő
+teacher	tanár
+pupil	tanuló
+head boy	a diákokat kéviselő vezető fiú
+head girl	a diákokat képviselő vezető lány
+prefect	prefektus
+school governor vagy governor	iskolai igazgató
+register	nyilvántartás
+assembly	iskolai gyűlés
+break	szünet
+school holidays	iskolai szünet
+school meals	iskolai étkeztetés
+school dinners	menza
+computer room	számítógépes terem
+cloakroom	ruhatár
+changing room	öltöző
+playground	játszótér
+library	könyvtár
+lecture hall	előadóterem
+laboratory	laboratórium
+hall of residence	kollégium
+locker	öltözőszekrény
+playing field	sportpálya
+sports hall	sportcsarnok
+professor	professzor
+lecturer	előadó
+researcher	kutató
+research	kutatás
+undergraduate	egyetemi hallgató
+graduate	egyetemet végzett
+post-graduate, post-graduate student	posztgraduális hallgató
+masters student	mester hallgató
+phd student	doktorandusz
+master's degree	mesterfokozat
+bachelor's degree	bsc fokozat
+degree	egyetemi diploma
+thesis	tézis
+dissertation	disszertáció
+lecture	előadás
+debate	vita
+higher education	felsőoktatás
+semester	félév
+student loan	diák kölcsön
+student union	hallgatói önkormányzat
+tuition fees	tandíj
+university campus	egyetemi campus
+exam, examination	vizsga
+to sit an exam	vizsgázni
+essay, paper	esszé
+to fail an exam	megbukni a vizsgán
+to pass an exam	levizsgázni
+to study	tanulni
+to learn	megtanulni
+to revise	ismételni
+student	diák
+curriculum	tananyag
+course	kurzus
+subject	tantárgy
+grade	osztályzat
+mark	osztályzat
+exam results	vizsga eredmények
+qualification	végzettség
+certificate	oklevél
+attendance	jelenlévők
+calculator	számológép
+projector	kivetítő
+textbook	tankönyv
+question	kérdés
+answer	válasz
+mistake, error	hiba
+right, correct	jó
+wrong	hibás
+art	művészet
+classics	klasszikusok
+drama	dráma
+fine art	képzőművészet
+history	történelem
+history of art	művészettörténelem
+literature	irodalom
+modern languages	modern nyelvek
+music	zene
+philosophy	filozófia
+theology	teológia
+astronomy	csillagászat
+biology	biológia
+chemistry	kémia
+computer science	számítástechnika
+dentistry	fogászat
+engineering	mérnöki szak
+geology	geológia
+medicine	orvostudomány
+physics	fizika
+science	tudományok
+veterinary medicine	állatorvosi
+archaeology	régészet
+economics	közgazdaságtan
+media studies	média
+politics	politika
+psychology	pszihológia
+social studies	szociológiai szak
+sociology	szociológia
+accountancy	könyvelés
+architecture	építészet
+business studies	kereskedelmi szak
+geography	földrajz
+design and technology	tervezés és technológia
+law	jog
+maths, mathematics)	matek, matematika
+nursing	ápolás
+religious studies	vallástudomány
+sex education	szexuális felvilágosítás
+
+#Jármű
+
+accident	baleset
+breakdown	elromlik
+breathalyser	szonda
+jack	kocsiemelő
+jump leads	indítókábel
+flat tyre	lapos kerék
+fog	köd
+icy road	jeges út
+puncture	gumidefekt
+speeding fine	gyorshajtás büntetés
+spray	permet
+traffic jam	forgalmi dugó
+to crash	összetörik
+to have an accident	balesetet szenved
+to skid	megcsúszni
+to stall	elakadni / lefulladni
+to swerve	elkanyarodni
+driving instructor	autóvezető oktató
+driving lesson	autóvezetői óra
+driving licence	jogosítvány (vezetői engedély)
+driving school	autós-/motorosiskola
+driving test	autóvezetői vizsga
+learner driver	tanulóvezető
+to fail your driving test	megbukni az autóvezetői vizsgán
+to pass your driving test	átmenni az autóvezetői vizsgán
+car park	parkoló
+disabled parking space	mozgássérült parkolóhely
+multi-storey car park	többemeletes parkolóház
+to park	leparkolni
+parking meter	parkoló óra
+parking space	parkolóhely
+parking ticket	parkoló jegy
+traffic warden	parkolási ellenőr
+car wash	autómosó
+diesel	dízel
+oil	olaj
+petrol	benzin
+petrol pump	benzinkút
+petrol station	benzinkút
+bike, bicycle	kerékpár
+camper van	lakóautó
+bus	busz
+car	autó
+caravan	vontatott lakókocsi
+coach	távolsági busz
+lorry	teherautó
+minibus	minibusz
+moped	moped
+motorbike, motorcycle	motorkerékpár
+scooter	robogó
+taxi	taxi
+tractor	traktor
+truck	kamion
+van	furgon
+car hire	autókölcsönzés
+car keys	autókulcsok
+cyclist	kerékpáros
+driver	sofőr
+garage	autószervíz
+mechanic	szerelő
+insurance	biztosítás
+passenger	utas
+pedestrian	gyalogos
+reverse gear	tolatási fokozat
+road map	úti térkép
+second-hand	használt
+speed	sebesség
+traffic	forgalom
+tyre pressure	kerékben való légnyomás
+vehicle	gépjármű
+to accelerate	gyorsulni
+to brake	fékezni
+to change gear	sebességet váltani
+to drive	vezetni
+to overtake	megelőzni
+to reverse	tolatni
+to slow down	lelassulni
+to speed up	gyorsítani
+to steer	kormányozni
+accelerator	gázpedál
+brake pedal	fékpedál
+clutch pedal	kuplungpedál
+fuel gauge	üzemanyagszint-jelző
+gear stick	sebességváltókar
+handbrake	kézifék
+speedometer	sebességmérő
+steering wheel	kormány
+temperature gauge	hőmérséklet mérő
+warning light	figyelmeztető lámpa
+battery	akkumulátor
+brakes	fék
+clutch	kuplung
+engine	motor
+fan belt	ékszíj
+exhaust	kipufogó
+exhaust pipe	kipufogócső
+gear box	sebességváltó
+ignition	gyújtás
+radiator	hűtő (autóban)
+spark plug	gyertya (autóban)
+windscreen wiper	ablaktörlő
+windscreen wipers	ablaktörlők
+air conditioning	légkondicionáló
+automatic	autómata sebváltó
+central locking	központi zár
+manual	manuális sebváltó
+tax disc	gépjárműadó matrica
+brake light	féklámpa
+hazard lights	vészjelző lámpa
+headlamp	első lámpa
+headlamps	fényszórók (első lámpák)
+headlights	fényszórók (első lámák)
+indicator	index
+indicators	indexek
+rear view mirror	visszapillantó tükör
+sidelights	oldalsó lámpa
+wing mirror	oldalsó visszapillantó tükör
+aerial	antenna
+back seat	hátsó ülés
+bonnet	motorháztető
+boot	csomagtartó
+bumper	lökhárító
+child seat	gyermekülés
+cigarette lighter	szivargyújtó
+dashboard	műszerfal
+front seat	első ülés
+fuel tank	üzemanyagtartály
+glove compartment	kesztyűtartó
+glovebox	kesztyűtartó
+heater	fűtő
+number plate	rendszám
+passenger seat	utasülés
+petrol tank	benzintartály
+roof	tető
+roof rack	tetőcsomagtartó
+seatbelt	biztonsági öv
+spare wheel	pótkerék
+tow bar	vontatórúd
+tyre	kerékgumi
+wheel	kerék
+window	ablak
+windscreen	szélvédő
+
+#Kommunikáció
+
+answerphone	üzenetrögzítő
+area code	körzeti hívószám
+battery	elem
+business call	üzleti hívás
+cordless phone	vezeték nélküli telefon
+country code	külföldi hívószám
+directory enquiries	tudakozó
+dialling tone	hívóhang
+engaged	foglalt
+ex-directory	telefonkönyvben nem szereplő
+extension	mellék
+interference	interferencia
+international directory enquiries	nemzetközi tudakozó
+fault	hiba
+message	üzenet
+off the hook	félretéve
+operator	telefonkezelő
+outside line	külső vonal
+personal call	személyes hívás
+phone (a következő rövidítése: telephone)	telefon
+phone book vagy telephone directory	telefonkönyv
+phone box vagy call box	telefonfülke
+phone card	telefonkártya
+phone number	telefonszám
+receiver	telefonkagyló
+switchboard	telefonközpont
+wrong number	rossz szám
+mobile	mobil, mobilszám
+smartphone	okostelefon
+missed call	nem fogadott hívás
+mobile phone charger	mobiltelefon-töltő
+ringtone	csengőhang
+signal	jelzés
+text message	sms
+to call, to phone	hívni
+to be cut off	a vonal megszakadt
+to dial a number	tárcsázni egy számot
+to hang up	lerakni a kagylót
+to leave a message	üzenetet hagyni
+to ring	megcsörgetni
+to call someone back	visszahívni valakit
+to text	szöveges üzenetet küldeni
+to send a text message	szöveges üzenetet küldeni
+to put the phone on loudspeaker	telefont kihangosítani
+
+#Matematika
+
+addition	plusz (meg)
+subtraction	kivonás
+multiplication	szorzás
+division	osztás
+to add	hozzáadni
+to subtract vagy to take away	kivonni
+to multiply	szorozni
+to divide	osztani
+to calculate	számolni
+total	végösszeg
+arithmetic	számtan
+algebra	algebra
+geometry	geometria
+calculus	számítás
+statistics	statisztika
+integer	egész szám
+even number	páros szám
+odd number	páratlan szám
+prime number	prímszám
+fraction	törtszám
+decimal	tizedes
+decimal point	tizedes pont
+percent	százalék
+percentage	százaléka
+theorem	tétel
+proof	bizonyítás
+problem	feladat
+solution	megoldás
+formula	képlet
+equation	egyenlet
+graph	grafikon
+axis	tengely
+average	átlag
+correlation	korreláció
+probability	valószínűség
+dimensions	méretek
+area	terület
+circumference	kerület
+diameter	átmérő
+radius	sugár
+length	hossz
+height	magasság
+width	szélesség
+perimeter	kerület
+angle	szög
+right angle	derékszög
+line	vonal
+straight line	egyenes vonal
+curve	görbe
+parallel	párhuzamos
+tangent	érintő
+volume	térfogat
+circle	kör
+triangle	háromszög
+square	négyzet
+rectangle	téglalap
+pentagon	ötszög
+hexagon	hatszög
+octagon	nyolcszög
+oval	ovális
+star	csillag
+polygon	sokszög
+cone	kúp
+cube	kocka
+cylinder	henger
+pyramid	piramis
+sphere	gömb
+plus	plusz (meg)
+minus	mínusz
+times vagy multiplied by	szorozva
+divided by	osztva
+squared	négyzeten
+cubed	köbön
+square root	gyök
+equals	egyenlő
+
+#Munka
+
+ad, advert, advertisement	reklám
+application form	jelentkezési lap
+appointment	időpont
+cv, curriculum vitae	önéletrajz
+job description	munka leírás
+interview	meghallgatás
+job offer, offer of employment	munkahely felajánlás
+qualifications	végzettségek
+to apply for a job	jelentkezni egy munkahelyre
+to accept an offer	elfogadni egy ajánlatot
+to reject an offer vagy to turn down an offer	elutasítani egy ajánlatot
+to hire	felvenni
+job	munka
+career	karrier
+part-time	fél állás
+full-time	teljes állás
+shift work	váltóműszak
+temporary	átmeneti
+contract	szerződés
+permanent	állandó
+starting date	kezdés dátuma
+notice period	elbocsátási időtartam
+bonus	jutalom
+car allowance	autóhasználati juttatás
+company car	céges autó
+health insurance	egészségügyi biztosítás
+holiday pay	fizetett szabadság
+holiday entitlement	szabadság jogosultság
+maternity leave	anyasági szabadság
+overtime	túlóra
+paternity leave	apasági szabadság
+part-time education	levelező oktatás
+pension scheme vagy pension plan	nyugdíj alap
+promotion	előléptetés
+salary	fizetés
+salary increase	fizetés emelés
+sick pay	betegállomány
+staff restaurant	dolgozók étterme
+training scheme	tréning
+travel expenses	utazási költségek
+wages	bér / munkabér
+working conditions	munkahelyi viszonyok
+working hours	munkahelyen töltött órák
+owner	tulajdonos
+managing director	vezérigazgató
+director	igazgató
+manager	menedzser
+boss	főnök
+colleague	kolléga
+trainee	gyakornok
+apprentice	szakmunkás gyakornok
+volunteer	önkéntes
+to fire	elbocsátani
+to get the sack	kirúgni (bizalmas)
+to resign	lemondani
+to retire	nyugdíjba vonulni
+leaving date	befejezés dátuma
+redundant	redundáns (elbocsátott)
+redundancy	redundancia (elbocsátás)
+redundancy pay	végkielégítés
+retirement age	nyugdíjkorhatár
+apprenticeship	szakmunkás szakmai gyakorlat
+department	osztály / tagozat
+experience	tapasztalat
+factory	gyár
+fire drill	tűzriadó
+health and safety	egészség és biztonság
+internship	irodai szakmai gyakorlat
+meeting	megbeszélés / tárgyalás
+office	iroda
+rate of pay	bérszint
+reception	recepció
+security	biztonsági személyzet
+strike	sztrájk
+switchboard	központ
+timekeeping	időbetartás
+trade union	szakszervezet
+training course	képzési tanfolyam
+work	munka
+work experience	munkatapasztalat
+to go on strike	sztrájkolni menni
+to be off sick	betegszabadságon lenni
+self-employed	magánvállalkozó
+unemployed	munkanélküli
+retired	nyugdíjas
+
+#Napszakok
+
+morning	reggel
+afternoon	délután
+evening	este
+night, night time	éjjel, éjszaka
+midday, noon	dél
+midnight	éjfél
+dawn	hajnal
+dusk	szürkület
+sunrise	napfelkelte
+sunset	naplemente
+now	most
+then	akkor
+immediately, straight away	haladéktalanul, azonnal
+soon	hamarosan
+earlier	korábban
+later	később
+never	soha
+rarely	ritkán
+occasionally	alkalmanként
+sometimes	néha
+often, frequently	sokszor, gyakran
+usually, normally	rendszerint, általában
+always	mindig
+every day, daily	minden nap, naponta
+every week, weekly	minden héten, hetente
+every month, monthly	minden hónapban, havonta
+every year, yearly	minden évben, évente
+monday	hétfő
+tuesday	kedd
+wednesday	szerda
+thursday	csütörtök
+friday	péntek
+saturday	szombat
+sunday	vasárnap
+january	január
+february	február
+march	március
+april	április
+may	május
+june	június
+july	július
+august	augusztus
+september	szeptember
+october	október
+november	november
+december	december
+in january	januárban
+in february	februárban
+in march	márciusban
+in april	áprilisban
+in may	májusban
+in june	júniusban
+in july	júliusban
+in august	augusztusban
+in september	szeptemberben
+in october	októberben
+in november	novemberben
+in december	decemberben
+spring	tavasz
+summer	nyár
+autumn, fall	ősz
+winter	tél
+in spring	tavasszal
+in summer	nyáron
+in autumn, in fall	ősszel
+in winter	télen
+new year's day	új év napja
+april fools' day	április elseje, a bolondok napja
+easter	húsvét
+good friday	nagypéntek
+easter monday	húsvét hétfő
+may day	május 1 - a munka ünnepe
+christmas	karácsony
+christmas eve	szent este
+christmas day	karácsony napja
+boxing day	karácsony másnapja
+new year's eve	szilveszter
+mother's day	anyák napja
+father's day	apák napja
+valentine's day	valentin nap
+bank holiday, public holiday	szabadnap/ünnepnap
+chinese new year	kínai újév
+independence day	függetlenség napja
+thanksgiving	hálaadás
+halloween	halloween
+saint patrick's day	szent patrik napja
+
+#Orvos, egészség
+
+acne	pattanás
+allergic reaction	allergiás reakció
+allergy	allergia
+altitude sickness	hegyibetegség
+amnesia	amnézia
+appendicitis	vakbélgyulladás
+arthritis	arthritisz
+asthma	aszma
+athlete's foot	lábgombásodás
+backache	hátfájás
+bleeding	vérzés
+blister	hólyag
+boil	furunkulus
+broken, broken bone, broken arm, broken leg)	törött (csont / kar / láb)
+bronchitis	hörghurut
+bruise	zúzódás
+cancer	rák
+chest pain	mellkasi fájdalom
+chicken pox	bárányhimlő
+cold	megfázás
+cold sore	szájherpesz
+concussion	agyrázkódás
+conjunctivitis	kötőhártya-gyulladás
+constipation	szorulás
+cramp	görcs
+corn	tyúkszem
+cough	köhögés
+cut	vágás
+dehydration	kiszáradás (dehidráció)
+dementia	demencia
+depression	depresszió
+diabetes	cukorbetegség
+diarrhoea	hasmenés
+disease	betegség
+dizziness	szédülés
+dyslexia	diszlexia
+earache	fülfájás
+eating disorder	táplálkozási rendellenesség
+eczema	ekcéma
+epilepsy	epilepszia
+fatigue	fáradtság
+fever	láz
+flu, influenza	influenza
+food poisoning	ételmérgezés
+fracture	csonttörés
+frostbite	fagyás
+glandular fever	mirigyláz
+gout	köszvény
+graze	horzsolás
+haemophilia	vérzékenység
+hair loss vagy alopecia	hajhullás
+hay fever	szénanátha
+headache	fejfájás
+heart attack	szívroham
+heart disease	szívbetegség
+heartburn	gyomorégés
+heat stroke	napszúrás
+hepatitis	hepatitis
+hernia	sérv
+high blood pressure vagy hypertension	magas vérnyomás
+hiv, human immunodeficiency virus	hiv
+hypothermia	hipotermia
+indigestion	emésztési zavar
+infection	fertőzés
+inflammation	gyulladás
+injury	sérülés
+ingrown toenail	benőtt lábköröm
+insomnia	álmatlanság
+jaundice	sárgaság
+leukaemia	leukémia
+low blood pressure vagy hypotension	alacsony vérnyomás
+lump	daganat
+lung cancer	tüdőrák
+malaria	malária
+measles	kanyaró
+meningitis	agyhártyagyulladás
+migraine	migrén
+miscarriage	vetélés
+morning sickness	terhességi rosszullét
+mumps	mumpsz
+nausea	hányinger
+nosebleed	orrvérzés
+obesity	elhízás
+pneumonia	tüdőgyulladás
+polio	gyermekbénulás
+rabies	veszettség
+rash	kiütés
+rheumatism	reuma
+schizophrenia	skizofrénia
+slipped disc	porckorongsérv
+sore throat	torokfájás
+splinter	szálka
+sprain	ficam
+spots	pattanások
+stomach ache	gyomorfájás
+stress	stressz
+stroke	agyvérzés
+sunburn	leégés
+swelling	duzzadás
+tonsillitis	mandulagyulladás
+tuberculosis	tuberkulózis
+typhoid fever vagy typhoid	tífusz
+ulcer	fekély
+virus	vírus
+wart	szemölcs
+antibiotics	antibiotikum
+prescription	recept
+medicine	orvosság
+pill	pirula
+tablet	tabletta
+doctor	orvos
+gp, practitioner	háziorvos
+consultant	konzulens
+anaesthetist	altatóorvos
+surgeon	sebész
+nurse	nővér
+patient	beteg/páciens
+gynecologist	nőgyógyász
+chiropodist	lábbetegségekre szakosodott orvos
+radiographer	röntgenorvos
+anaesthetic	érzéstelenítő
+drip	infúzió
+hospital	kórház
+operating theatre	műtő
+operation	operáció
+physiotherapy	fizioterápia
+surgery	műtő
+ward	kórterem
+medical insurance	betegségi biztosítás
+waiting room	váróterem
+blood pressure	vérnyomás
+blood sample	vérminta
+pulse	pulzus
+temperature	hőmérséklet
+urine sample	vizeletminta
+x-ray	röntgen
+blind	vak
+deaf	süket
+partially sighted	gyengénlátó
+disabled	fogyatékkal élő
+paralysed	bénült
+asthmatic	asztmás
+epileptic	epilepsziás
+haemophiliac	hemofíliás
+injection	injekció
+vaccination	oltás
+suppository	végbélkúp
+pregnancy	terhesség
+pregnant	terhes
+to give birth	megszülni
+contraception	fogamzásgátlás
+abortion	abortusz
+infected	fertőzött
+inflamed	gyulladt
+septic	szeptikus
+swollen	megduzzadt
+unconscious	eszméletlen
+pain	fájdalom
+painful	fájdalmas
+well	jól van
+unwell	nem érzi jól magát
+ill	beteg
+pus	genny
+scar	heg
+stitches	varrat
+wound	seb
+bandage	kötszer
+crutches	mankó
+hearing aid	hallókészülék
+sling	felkötés
+splint	végtagrögzítő sín
+wheelchair	kerekesszék
+sleep	alvás
+to bleed	vérezni
+to catch a cold	megfázni
+to cough	köhögni
+to be ill	betegnek lenni
+to be sick	nincs jól
+to feel sick	rosszul érezni magát
+to heal	gyógyulni
+to hurt	fájni
+to limp	bicegni
+antiseptic	antiszeptikus anyag
+aspirin	aszpirin
+athlete's foot powder	lábgomba elleni púder
+bandages	kötszerek
+cough mixture	köptető
+diarrhoea tablets	hasmenés elleni tabletta
+eye drops	szemcsepp
+first aid kit	elsősegélykészlet
+hay fever tablets	szénanátha tabletta
+indigestion tablets	tabletta gyomorrontásra
+laxatives	hashajtó
+lip balm vagy lip salve	szájbalzsam
+medicine	orvosság
+nicotine patches	nikotintapaszok
+painkillers	fájdalomcsillapító
+paracetamol	paracetamol
+plasters	tapasz
+pregnancy testing kit	terhességi teszt
+prescription	orvosi recept
+sleeping tablets	altató tabletták
+thermometer	hőmérő
+throat lozenges	torokcukorkák
+tissues	zsebkendők
+travel sickness tablets	utazási betegség elleni tabletták
+vitamin pills	vitamintabletták
+baby foods	babaételek
+baby wipes	babatörlőkendő
+condoms	óvszerek
+contact lens solution	kontaktlencse tisztító
+disposable nappies	eldobható pelenkák
+safety pins	biztosítótű
+sun cream	naptej
+sun block	napozás elleni krém
+
+#Piperecikkek, Kozmetikum
+
+aftershave	borotválkozás utáni arcszesz
+comb	fésű
+conditioner	hajkondicionáló
+dental floss	fogselyem
+deodorant	dezodor
+hairbrush	hajkefe
+mouthwash	szájvíz
+nail file	körömreszelő
+nail scissors	körömvágó olló
+panty liners	tisztasági betét
+perfume	parfüm
+razor	borotva
+razorblade	borotvapenge
+sanitary towels	egészségügyi betét
+shaving brush	borotvapamacs
+shaving cream	borotvakrém
+shaving foam	borotvahab
+shaving gel	borotvagél
+shampoo	sampon
+shower gel	fürdő-gél
+soap	szappan
+tampons	tampon
+toothbrush	fogkefe
+toothpaste	fogkrém
+tweezers	csipesz
+cotton wool	vatta
+eyeliner	szemceruza
+eyeshadow	szemhélyfesték
+face powder	arcpúder
+foundation	alapozó
+hair colouring, hair dye	hajfesték
+hair gel	hajzselé
+hair spray	hajlakk
+hair wax	hajvax
+hand cream	kézkrém
+lip gloss	szájfény
+lipstick	rúzs
+make-up	smink
+mascara	szempillafesték
+moisturising cream	testápoló krém
+nail varnish	körömlakk
+nail varnish remover	körömlakklemosó
+
+#Programozás
+
+object reference not set to an instance of an object	az objektumhivatkozás nincs példányosítva.
+value cannot be null	az érték nem lehet null.
+out of range exception	határértéken kívüli kivétel.
+index was outside the bounds of the array	az index kívül esik a tömb határain.
+method not implemented	a metódus nincs megvalósítva.
+access is denied	a hozzáférés megtagadva.
+could not load file or assembly	nem sikerült betölteni a fájlt vagy szerelvényt.
+specified argument was out of the range of valid values	a megadott argumentum kívül esik az érvényes értékeken.
+the process cannot access the file	a folyamat nem fér hozzá a fájlhoz.
+unauthorized access exception	jogosulatlan hozzáférés kivétel.
+the system cannot find the file specified	a rendszer nem találja a megadott fájlt.
+a circular dependency was detected	körkörös függőséget észleltek.
+cannot implicitly convert type	a típus nem konvertálható implicit módon.
+an item with the same key has already been added	egy azonos kulcsú elem már hozzá lett adva.
+invalid operation exception	érvénytelen művelet kivétel.
+sequence contains no elements	a sorozat nem tartalmaz elemeket.
+the type or namespace name could not be found	a típus vagy névtér neve nem található.
+object does not contain a definition for	az objektum nem tartalmaz definíciót.
+invalid cast exception	érvénytelen típuskonverzió kivétel.
+file already exists	a fájl már létezik.
+divide by zero exception	nullával való osztás kivétel
+stack overflow exception	verem túlcsordulás kivétel
+heap corruption detected	kupac sérülést észleltek
+nullreferenceexception	null hivatkozás kivétel
+format exception	formátum kivétel
+arithmetic overflow exception	aritmetikai túlcsordulás kivétel
+insufficient memory exception	elégtelen memória kivétel
+out of memory exception	nincs elég memória kivétel
+key not found exception	kulcs nem található kivétel
+argument null exception	argumentum null kivétel
+timeout expired	időtúllépés történt
+task canceled exception	feladat megszakítva kivétel
+operation canceled exception	művelet megszakítva kivétel
+end of stream exception	a stream vége kivétel
+file not found exception	a fájl nem található kivétel
+directory not found exception	a könyvtár nem található kivétel
+path too long exception	az útvonal túl hosszú kivétel
+stack empty exception	üres verem kivétel
+invalid data exception	érvénytelen adat kivétel
+objectdisposedexception	az objektum már felszabadított kivétel
+io exception	i/o művelet kivétel
+security exception	biztonsági kivétel
+more performant alternative	hatékonyabb alternativa
+addition, in addition	kiegészítés, ráadásul
+indicates	jelöl, mutat
+data bindings	adatkötések
+means	eszközök, erőforrások
+error	hiba
+exception	kivétel
+debug	hibakeresés
+runtime	futásidő
+compile	fordítás
+build	összeállítás
+deploy	telepítés
+test	teszt
+failure	kudarc
+success	siker
+log	napló
+output	kimenet
+input	bemenet
+operation	művelet
+process	folyamat
+validation	érvényesítés
+authentication	hitelesítés
+authorization	jogosultság
+timeout	időtúllépés
+overflow	túlcsordulás
+underflow	alulcsordulás
+stack	verem
+heap	kupac
+pointer	mutató
+reference	hivatkozás
+variable	változó
+constant	állandó
+parameter	paraméter
+argument	argumentum
+function	függvény
+syntax	szintaxis
+null	null (üres hivatkozás)
+reference	hivatkozás
+dependency	függőség
+missing	hiányzó
+unexpected	váratlan
+invalid	érvénytelen
+supported	támogatott
+deprecated	elavult
+mismatch	eltérés
+type	típus
+conversion	átalakítás
+resolved	megoldott
+unresolved	megoldatlan
+implementation	megvalósítás
+library	könyvtár
+package	csomag
+framework	keretrendszer
+module	modul
+project	projekt
+summary	összefoglalás
+description	leírás
+example	példa
+method	metódus
+property	tulajdonság
+remarks	megjegyzések
+definition	definíció
+usage	használat
+return	visszatérés
+throw	dobás (kivétel)
+overload	túlterhelés
+inheritance	öröklődés
+polymorphism	polimorfizmus
+encapsulation	enkapszuláció
+abstraction	absztrakció
+scope	hatókör
+lifetime	élettartam
+context	kontextus
+thread	szál
+trace	nyomkövetés
+breakpoint	töréspont
+stacktrace	veremkövetés
+watch	figyelés
+inspection	ellenőrzés
+diagnostics	diagnosztika
+assertion	állítás
+failure	meghibásodás
+reproduce	reprodukál
+fix	javítás
+asynchronous	aszinkron
+synchronous	szinkron
+memory	memória
+allocation	foglalás
+deallocation	felszabadítás
+garbage collection	szemétgyűjtés
+performance	teljesítmény
+optimization	optimalizálás
+latency	késleltetés
+bandwidth	sávszélesség
+
+#Rendhagyó igék
+
+bring brought brought	hozni
+buy bought bought	venni
+catch caught caught	elkapni
+feel felt felt	érezni
+find found found	találni
+hear heard heard	hallani
+keep kept kept	tartani
+leave left left	elhagyni
+make made made	készíteni
+meet met met	találkozni
+pay paid paid	fizetni
+sell sold sold	eladni
+send sent sent	küldeni
+sit sat sat	ülni
+sleep slept slept	aludni
+spend spent spent	költeni (időt, pénzt)
+stand stood stood	állni
+teach taught taught	tanítani
+tell told told	mondani, mesélni
+cut cut cut	vágni
+hit hit hit	ütni
+let let let	hagyni
+put put put	tenni, rakni
+read read read	olvasni
+set set set	beállítani
+shut shut shut	becsukni
+think thought thought	gondolni
+win won won	nyerni
+drink drank drunk	inni
+ring rang rung	csörögni, csengeni
+sing sang sung	énekelni
+sink sank sunk	elsüllyedni
+blow blew blown	fújni
+grow grew grown	nőni, termeszteni
+know knew known	tudni, ismerni
+throw threw thrown	dobni
+begin began begun	elkezdeni
+swim swam swum	úszni
+break broke broken	eltörni
+speak spoke spoken	beszélni
+steal stole stolen	lopni
+be was,were been	lenni
+come came come	jönni
+do did done	csinálni
+eat ate eaten	enni
+go went gone	menni
+have had had	birtokolni
+see saw seen	látni
+take took taken	venni, vinni
+
+#Ruházat Személyes tárgyak
+
+anorak	anorák
+apron	kötény
+baseball cap	baseball sapka
+belt	öv
+bikini	bikini
+blazer	blézer
+blouse	blúz
+boots	csizma
+bow tie	csokor nyakkendő
+boxer shorts	boxer alsó
+bra	melltartó
+cardigan	kardigán
+coat	kabát
+dinner jacket	szmoking
+dress	ruha
+dressing gown	fürdőköpeny
+gloves	kesztyű
+hat	sapka
+high heels (a következő rövidítése: high-heeled shoes)	magas sarkú cipő
+jacket	dzseki
+jeans	farmer
+jumper	pulóver
+knickers	bugyi
+leather jacket	bőrdzseki
+miniskirt	miniszoknya
+nightie (a következő rövidítése: nightdress)	pizsama
+overalls	kezeslábas
+overcoat	kabát
+pullover	pulóver
+pyjamas	pizsama
+raincoat	esőkabát
+sandals	szandál
+scarf	sál
+shirt	ing
+shoelace	cipőfűző
+shoes	cipő
+pair of shoes	egy pár cipő
+shorts	rövidnadrág
+skirt	szoknya
+slippers	papucs
+socks	zokni
+stilettos	tűsarkú cipő
+stockings	combfix
+suit	öltöny
+sweater	melegítőfelső
+swimming costume	fűrdőruha
+swimming trunks	úszónadrág
+thong	tanga bugyi
+tie	nyakkendő
+tights	harisnya
+top	felső / top
+tracksuit	melegítő
+trainers	edzőcipő
+trousers	nadrág
+pair of trousers	egy nadrág
+t-shirt	póló
+underpants	alsónadrág
+vest	mellény
+wellingtons	gumicsizma
+bracelet	karkötő
+cufflinks	mandzsetta gomb
+comb	fésű
+earrings	fülbevaló
+engagement ring	kísérő gyűrű / jegygyűrű
+glasses	szemüveg
+handbag	kézitáska
+handkerchief	zsebkendő
+hair tie vagy hair band	hajgumi/hajpánt
+hairbrush	hajkefe
+keys	kulcsok
+keyring	kulcstartó
+lighter	öngyújtó
+lipstick	ajakrúzs
+makeup	smink
+mirror	tükör
+necklace	nyaklánc
+piercing	piercing (testékszer)
+purse	pénztárca
+ring	gyűrű
+sunglasses	napszemüveg
+umbrella	esernyő
+walking stick	sétabot
+wallet	tárca
+watch	óra
+wedding ring	jegygyűrű
+size	méret
+loose	laza
+tight	szoros
+to wear	hordani
+to put on	felvenni
+to take off	levenni
+to get dressed	felöltözni
+to get undressed	levetkőzni
+button	gomb
+pocket	zseb
+zip	cipzár
+to tie	megkötni
+to untie	kioldozni
+to do up	begombol/becsatol
+to undo	kigombol/kicsatol
+
+#Segédigék
+
+can	lehet, -hat/-het, tud
+could	tudott, -hatott/-hetett, udvarias kérés
+may	lehet, -hat/-het, udvarias engedélykérés
+might	esetleg, talán, -hatna/-hetne
+must	kell, muszáj
+shall	fog (jövő idő), ajánlat, javaslat
+should	kellene, tanács, javaslat
+will	fog (jövő idő)
+would	udvarias kérés, feltételes mód (csinálna)
+do	segédige kérdésekhez, tagadáshoz és nyomatékosításhoz
+does	segédige E/3 személyben (he, she, it)
+did	múlt idejű segédige kérdésekhez és tagadáshoz
+have	segédige a befejezett igeidőkhöz
+has	segédige a befejezett igeidőkhöz E/3 személyben
+had	múlt idejű segédige a befejezett múlt
+be	létezni, segédige a folyamatos igeidőkhöz
+am	létige E/1 személyben
+is	létige E/3 személyben
+are	létige többes számban és E/2 személyben
+was	létige múlt idejű E/1 és E/3 személyben
+were	létige múlt idejű többes számban és E/2 személyben
+
+#Shopping
+
+cheap	olcsó
+customer	vásárló
+discount	leárazás
+expensive	drága
+price	ár
+sale	kiárusítás
+shop	üzlet
+shopping bag	bevásárlószatyor/-tasak
+shopping list	bevásárlólista
+special offer	különleges ajánlat
+to buy	vásárolni
+to sell	eladni
+to order	megrendelni
+to go shopping	vásárolni menni
+aisle	áruházi folyosó a polcok között
+basket	kosár
+counter	pult
+fitting room	öltöző
+manager	üzletvezető/menedzser
+shelf	polc
+shop assistant	eladó
+shop window	kirakat
+stockroom	raktár
+trolley	bevásárlókocsi
+cashier	pénztáros
+cash	készpénz
+change	apró
+checkout	fizetés
+complaint	panasz
+credit card	hitelkártya
+in stock	raktáron
+out of stock	nincs raktáron
+plastic bag vagy carrier bag	műanyag szatyor/tasak
+purse	erszény
+queue	sor
+receipt	nyugta
+refund	visszatérítés
+till	pénztár
+wallet	pénztárca
+antique shop	régiségbolt
+bakery	pékség
+barbers	borbély
+beauty salon	szépségszalon
+betting shop vagy bookmakers	fogadóiroda
+bookshop	könyvesbolt
+butchers	hentes
+car showroom	autószalon
+charity shop	segélyszervezeti bolt
+chemists vagy pharmacy	patika
+clothes shop	ruhabolt
+delicatessen	csemegeüzlet
+department store	áruház
+diy store	barkácsbolt
+dress shop	ruha bolt
+dry cleaners	vegytisztító
+electrical shop	elektronikai szaküzlet
+estate agents	ingatlanügynökség
+fishmongers	halkereskedés
+florists	virágárus
+garden centre	kerti centrum
+general store	általános üzlet
+gift shop	ajándékbolt
+greengrocers	zöldséges
+hairdressers	fodrászat
+hardware shop	vaskereskedés
+kiosk	újságosbódé
+launderette	önkiszolgáló mosószalon
+newsagents	újságos
+off licence, liquor store	italbolt (palackozott italok boltja, korlátolt italkimérési engedély)
+second-hand bookshop	antikvárium
+second-hand clothes shop	használtruha-bolt
+shoe repair shop	cipészet
+shoe shop	cipőbolt
+sports shop	sportbolt
+stationers	papír-írószer bolt
+supermarket	szupermarket
+tailors	szabók
+tattoo parlour vagy tattoo studio	tetoválószalon
+toy shop	játékbolt
+
+#Sport, Játék
+
+aerobics	aerobik
+american football	amerikai futball
+archery	íjászat
+athletics	atlétika
+badminton	tollaslabda
+baseball	baseball
+basketball	kosárlabda
+beach volleyball	strandröplabda
+bowls	tekézés
+boxing	boxolás
+canoeing	kenuzás
+climbing	hegymászás
+cricket	krikett
+cycling	kerékpározás
+darts	célbadobós játék / dart
+diving	búvárkodás
+fishing	halászás
+football	futball / foci
+go-karting	gokartozás
+golf	golf
+gymnastics	torna
+handball	kézilabda
+hiking	túrázás
+hockey	hoki
+horse racing	lóverseny
+horse riding	lovaglás
+hunting	vadászat
+ice hockey	jégkorong
+ice skating	korcsolyázás
+inline skating vagy rollerblading	görkorcsolyázás
+jogging	kocogás
+judo	cselgáncs
+karate	karate
+kick boxing	kick-boxolás
+lacrosse	lacrosse
+martial arts	harcművészetek
+motor racing	motorkerékpár versenyzés
+mountaineering	hegymászás
+netball	kézilabda játék
+pool	biliárd szerű játék
+rowing	evezés
+rugby	rögbi
+running	futás
+sailing	vitorlázás
+scuba diving	búvárkodás
+shooting	lövészet
+skateboarding	gördeszkázás
+skiing	síelés
+snooker	biliárd
+snowboarding	snowboardozás
+squash	fallabda / squash
+surfing	szörfözés
+swimming	úszás
+table tennis	asztali tenisz / ping-pong
+ten-pin bowling	bowling / tekézés
+tennis	tenisz
+volleyball	röplabda
+walking	sétálás
+water polo	vízilabda
+water skiing	vízisíelés
+weightlifting	súlyemelés
+windsurfing	széllovaglás
+wrestling	birkózás
+yoga	jóga
+booking	sárga vagy piros lap
+corner kick vagy corner	szöglet (rúgás)
+crossbar vagy bar	keresztrúd
+fan	drukker
+foul	szabálytalanság
+football club	futballkub
+free kick	szabadrúgás
+goal	gól
+goal kick	kirúgás
+goalkeeper	kapus
+goalpost vagy post	kapu
+half-way line	felezővonal
+half-time	félidő
+header	fejes
+linesman	vonalbíró
+net	háló
+offside	les
+pass	passz
+player	játékos
+penalty	tizenegyes
+penalty area	tizenhatos
+penalty spot	büntetőpont
+red card	piros lap
+referee	bíró / játékvezető
+shot	rúgás
+supporter	támogató
+tackle	szerelés
+throw-in	bedobás
+touchline	oldalvonal
+yellow card	sárga lap
+world cup	világbajnokság
+to kick the ball	labdát rúgni
+to head the ball	labdát fejelni
+to pass the ball	passzolni
+to score a goal	gólt rúgni
+to send off	játákból való kiállítás
+to book	sárga vagy piros lapot adni
+to be sent off	kiállított
+to shoot	kapura lőni
+to take a penalty	büntetőt rúg
+boxing ring	boxring
+cricket ground	krikettpálya
+football pitch	futballpálya
+golf course	golfpálya
+gym	edzőterem
+ice rink	jégpálya
+racetrack	versenypálya
+running track	futópálya
+squash court	fallabdapálya
+swimming pool	úszómedence
+tennis court	teniszpálya
+stand	lelátó
+bell	csengő
+bicycle pump	kerékpárpumpa
+brake	fék
+chain	lánc
+gears	fogaskerekek/sebességváltó
+handlebars	kormány
+inner tube	gumibelső
+pedal	pedál
+puncture	defekt
+puncture repair kit	defektjavító készlet
+saddle	nyereg/ülés
+spokes	küllők
+tyre	abroncs
+wheel	kerék
+to have a puncture	defeket kap
+to ride a bicycle / to ride a bike	kerékpározni/biciklizni
+badminton racquet	tollasütő
+ball	labda
+baseball bat	baseball ütő
+cricket bat	krikett ütő
+boxing glove	boxkesztyű
+fishing rod	horgászbot
+football	futball-labda
+football boots	futballcipő
+golf club	golfütő
+hockey stick	hokiütő
+ice skates	jégkorcsolya
+pool cue	dákó
+rugby ball	rögbilabda
+running shoes	futócipő
+skateboard	gördeszka
+skis	síléc
+squash racquet	fallabda ütő / squash ütő
+tennis racquet	teniszütő
+board game	társasjáték
+backgammon	backgammon
+chess	sakk
+dominoes	dominó
+draughts	dámajáték
+go	go
+table football	csocsó
+blackjack	huszonegy
+bridge	bridzs
+poker	póker
+card	kártya
+pack of cards	pakli kártya
+hand	leosztás
+trick	trükk
+to cut the cards	kártyát emelni
+to deal the cards	kártyát osztani
+to shuffle the cards	megkeverni a
+suit	szín
+hearts	kőr
+clubs	treff
+diamonds	káró
+spades	pikk
+ace	ász
+king	király
+queen	dáma
+jack	jumbó
+joker	dzsóker
+your turn!	te jössz!
+chessboard	sakktábla
+piece	bábu
+king	király
+queen	királynő
+bishop	futó
+knight	ló
+rook vagy castle	bástya
+pawn	paraszt
+move	lépés
+check	sakk
+checkmate	sakk-matt
+stalemate	patt
+to take vagy to capture	elfogni
+to castle	sáncolni
+to move	lépni
+to resign	lemondani / feladni
+your move!	te lépésed!
+good move!	ez jó lépés volt!
+discus throw	diszkoszvetés
+hammer throw	kalapácsvetés
+high jump	magasugrás
+hurdles	gátfutás
+javelin throw	gerelyhajítás
+long jump	távolugrás
+marathon	maraton
+pole vault	rúdugrás
+shot put	súlylökés
+triple jump	hármasugrás
+to play	játszani
+to win	nyerni
+to lose	veszíteni
+to draw	döntetlen játék / döntetlen mérkőzés
+to watch	nézni
+game	játék
+fixture	mérkőzés
+match	meccs
+competition	verseny
+league table	bajnoki tabella
+score	eredmény
+result	eredmény
+winner	nyertes
+loser	vesztes
+opponent	ellenfél
+umpire	bíró
+spectator	néző
+win	nyereség
+loss	veszteség
+victory	győzelem
+defeat	vereség
+draw	döntetlen
+to play away	idegenben játszani
+to play at home	hazai pályán játszani
+olympic games	olimpiai játékok
+
+#Számítógép, Informatika
+
+laptop	laptop
+desktop	asztali számítógép
+tablet	táblagép
+pc (personal computer)	pc (személyi számítógép)
+screen	képernyő
+keyboard	billentyűzet
+mouse	egér
+monitor	monitor
+printer	nyomtató
+wireless router	vezeték nélküli útválasztó
+cable	kábel
+hard drive	merevlemez
+speakers	hangszóró/hangfal
+power cable	tápkábel
+email	e-mail (elektronikus levél)
+to email	e-mailezi
+to send an email	küldés
+email address	e-mailcím
+username	felhasználói név
+password	jelszó
+to reply	válasz
+to forward	továbbítás
+new message	új üzenet
+attachment	melléklet
+to plug in	csatlakoztatni
+to unplug	lecsatlakoztatni
+to switch on vagy to turn on	bekapcsolni
+to switch off vagy to turn off	kikapcsolni
+to start up	elindítani
+to shut down	leállítani
+to restart	újraindítani
+the internet	internet
+website	weboldal
+broadband internet vagy broadband	szélessávú internet/szélessáv
+isp (internet service provider)	internet szolgáltató
+firewall	tűzfal
+web hosting	web hosting / web tárhely
+wireless internet vagy wifi	vezeték nélküli internet /wifi
+to download	letölteni
+to browse the internet	az interneten nézelődni
+file	akta
+folder	mappa
+document	dokumentum
+hardware	hardver
+software	szoftver
+network	hálózat
+to scroll up	felgörgetni
+to scroll down	legörgetni
+to log on	bejelentkezés
+to log off	kijelentkezés
+space bar	szóközbillentyű
+virus	vírus
+antivirus software	antivírus szoftver
+processor speed	processzorsebesség
+memory	memória
+word processor	szövegszerkesztő
+database	adatbázis
+spreadsheet	táblázat
+to print	nyomtatás
+to type	gépelni
+lower case letter	kisbetű
+upper case letter vagy capital letter	nagybetű
+
+#Számok
+
+zero	nulla
+nil	nul (amikor sporteredményekről beszélnek)
+nought	nulla (a 0 szám)
+o	nulla ( „o” betűt; különösen telefonszámoknál)
+one	egy
+two	kettő
+three	három
+four	négy
+five	öt
+six	hat
+seven	hét
+eight	nyolc
+nine	kilenc
+ten	tíz
+eleven	tizenegy
+twelve	tizenkettő
+thirteen	tizenhárom
+fourteen	tizennégy
+fifteen	tizenöt
+sixteen	tizenhat
+seventeen	tizenhét
+eighteen	tizennyolc
+nineteen	tizenkilenc
+twenty	húsz
+twenty-one	huszonegy
+twenty-two	huszonkettő
+twenty-three	huszonhárom
+thirty	harminc
+forty	negyven
+fifty	ötven
+sixty	hatvan
+seventy	hetven
+eighty	nyolcvan
+ninety	kilencven
+one hundred, a hundred	száz
+one hundred and one, a hundred and one	százegy
+two hundred	kettőszáz
+three hundred	háromszáz
+one thousand, a thousand	ezer
+two thousand	kétezer
+three thousand	háromezer
+one million, a million	egy millió, egymillió
+one billion, a billion	egy billió, egybillió
+once	egyszer
+twice	kétszer
+three times	háromszor
+four times	négyszer
+five times	ötször
+first	első
+second	második
+third	harmadik
+fourth	negyedik
+fifth	ötödik
+sixth	hatodik
+seventh	hetedik
+eighth	nyolcadik
+ninth	kilencedik
+tenth	tizedik
+eleventh	tizenegyedik
+twelfth	tizenkettedik
+thirteenth	tizenharmadik
+fourteenth	tizennegyedik
+fifteenth	tizenötödik
+sixteenth	tizenhatodik
+seventeenth	tizenhetedik
+eighteenth	tizennyolcadik
+nineteenth	tizenkilencedik
+twentieth	huszadik
+twenty-first	huszonegyedik
+twenty-second	huszonkettedik
+twenty-third	huszonharmadik
+thirtieth	harmincadik
+fortieth	negyvenedik
+fiftieth	ötvenedik
+sixtieth	havanadik
+seventieth	hetvenedik
+eightieth	nyolcvanadik
+ninetieth	kilencvenedik
+hundredth	századik
+about, approximately	mintegy, körülbelül
+over, more than	több mint
+under, less than	kevesebb mint
+
+#Társalgás
+
+hello! / hi!	szia! / üdv!
+good morning!	jó reggelt!
+good afternoon!	jó napot!
+good evening!	jó estét!
+good night!	jó éjszakát!
+goodbye!	viszontlátásra!
+see you later! / see you soon!	később találkozunk! / hamarosan találkozunk!
+excuse me! / sorry!	elnézést!
+please	kérem
+thank you!	köszönöm!
+thank you very much!	nagyon szépen köszönöm!
+you're welcome!	szívesen!
+yes	igen
+no	nem
+maybe	talán
+i don't know!	nem tudom!
+alright! / okay!	rendben!
+i agree!	egyetértek!
+i don't understand!	nem értem!
+can you repeat, please?	megismételné, kérem?
+do you speak english?	beszél angolul?
+i speak only a little italian.	csak egy kicsit beszélek olaszul.
+my name is …	a nevem …
+i am a tourist.	turista vagyok.
+i need help!	segítségre van szükségem!
+where is the bathroom?	hol van a mosdó?
+how much does it cost?	mennyibe kerül?
+can i pay by card?	fizethetek kártyával?
+the bill, please!	a számlát, kérem!
+where is the train station?	hol van a vasútállomás?
+where is the bus stop?	hol van a buszmegálló?
+where is the subway?	hol van a metró?
+i would like a ticket to …	szeretnék egy jegyet …-ba/-be.
+how much is a ticket?	mennyibe kerül egy jegy?
+what time does the train leave?	mikor indul a vonat?
+what time does the bus arrive?	mikor érkezik a busz?
+where is the taxi stand?	hol van a taxiállomás?
+can you take me to …?	el tud vinni …-ba/-be?
+how much does the ride cost to …?	mennyibe kerül az út …-ig?
+can you tell me where to get off?	meg tudja mondani, hol kell leszállnom?
+do you have a free table?	van szabad asztaluk?
+i would like to book a table for two.	szeretnék foglalni egy asztalt két főre.
+the menu, please!	az étlapot, kérem!
+what is the house specialty?	mi a ház specialitása?
+i would like to order …	szeretnék rendelni …-t.
+do you have anything vegetarian?	van valami vegetáriánus étel?
+gluten-free, please!	gluténmentesen, kérem!
+lactose-free, please!	laktózmentesen, kérem!
+a glass of water, please!	egy pohár vizet, kérem!
+a coffee, please!	egy kávét, kérem!
+the bill, please!	a számlát, kérem!
+is the service included?	benne van a szervizdíj?
+something is missing from my order!	hiányzik egy fogás!
+everything was delicious!	minden nagyon finom volt!
+how much does this cost?	mennyibe kerül ez?
+can i try it on?	felpróbálhatom?
+do you have a bigger/smaller size?	van nagyobb/kisebb méret?
+is there a discount?	van valami kedvezmény?
+do you accept credit cards?	elfogadnak bankkártyát?
+can i get a receipt?	kaphatok nyugtát?
+i would like a fiscal receipt.	kérek egy számlát.
+can i pay in cash?	fizethetek készpénzzel?
+help!	segítség!
+call an ambulance!	hívjanak mentőt!
+i am lost.	elvesztem.
+can you help me?	tud segíteni nekem?
+where is the nearest pharmacy?	hol van a legközelebbi gyógyszertár?
+is there a doctor nearby?	van itt egy orvos a közelben?
+i need a doctor.	orvosra van szükségem.
+i don't feel well.	nem érzem jól magam.
+my … was stolen.	ellopták a …-mat.
+i lost my wallet.	elvesztettem a pénztárcámat.
+is there a police station nearby?	van itt a közelben egy rendőrség?
+my phone is dead.	le van merülve a telefonom.
+where is …?	hol található …?
+what are the best places to visit?	melyek a legjobb helyek, amiket érdemes meglátogatni?
+how much is the entrance fee?	mennyibe kerül a belépő?
+is there a tour guide available?	elérhető idegenvezető?
+can i take photos?	készíthetek fényképeket?
+what time does the museum close?	mikor zár a múzeum?
+what’s the weather like today?	milyen az idő ma?
+it’s hot.	meleg van.
+it’s cold.	hideg van.
+it’s raining.	esik az eső.
+it’s sunny.	napos idő van.
+it’s cloudy.	felhős az idő.
+it’s windy.	fúj a szél.
+do you have a free room?	van szabad szobájuk?
+i would like to book a room for two nights.	szeretnék foglalni egy szobát két éjszakára.
+how much is it per night?	mennyibe kerül egy éjszaka?
+is breakfast included?	a reggeli benne van?
+what time is check-in/check-out?	mikor van a bejelentkezés/kijelentkezés?
+my room is not clean.	a szobám nincs kitakarítva.
+could i have another pillow?	kaphatnék egy másik párnát?
+
+#Természet
+
+countryside	vidék
+hill	domb
+mountain	hegy
+valley	völgy
+wood	liget
+forest	erdő
+copse	szigetszerű kis erdő
+field	rét
+meadow	mező
+plain	síkság
+moor	ingovány
+bog	láp
+swamp	mocsár
+hedge	sövény
+path	ösvény
+fence	kerítés
+wall	fal
+ditch	árok
+gate	kapu
+farm	farm
+bridge	híd
+desert	sivatag
+glacier	gleccser
+jungle	dzsungel
+rainforest	esőerdő
+volcano	vulkán
+stream	patak
+river	folyó
+canal	csatorna
+pond	tavacska
+lake	tó
+reservoir	víztártoló / vízgyűjtő
+waterfall	vízesés
+well	forrás
+dam	duzzasztógát
+power station	erőmű
+wind farm	szélfarm
+mine	bánya
+quarry	külfejtés
+agriculture	mezőgazdaság
+barn	csűr
+farmhouse	farm
+crop	termény
+harvest	aratás
+hay	széna
+wheat	búza
+irrigation	öntözés
+livestock	állatállomány
+to plough	szántani
+to harvest	aratni
+ocean	óceán
+sea	tenger
+coast vagy shore	partvidék
+beach	tengerpart
+cliff	szikla
+island	sziget
+peninsula	félsziget
+rock	kő
+tide	árapály
+wave	hullám
+pier	móló
+lighthouse	világítótorony
+harbour	kikötő
+oil rig	olajfúrótorony
+country	vidék
+city	város / belváros
+town	város
+village	falu
+eruption	kitörés
+earthquake	földrengés
+tsunami	cunami
+avalanche	lavina
+landslide	földcsuszamlás
+lava	láva
+capital city vagy capital	főváros
+border	határ
+national park	nemzeti park
+north pole	északi-sark
+south pole	déli-sark
+equator	egyenlítő
+longitude	hosszúság
+latitude	szélesség
+sea level	tengerszint
+erosion	erózió
+pollution	környezetszennyezés
+atmosphere	légkör
+environment	környezet
+population	népesség
+famine	éhínség
+fossil fuel	fosszilis tüzelőanyag
+energy	energia
+unemployment	munkanélküliség
+landscape	táj
+literacy	olvasni tudás
+malnutrition	alultápláltság
+migration	migráció
+radiation	sugárzás
+nuclear energy	nukleáris energia
+crater	kráter
+sand dune	homokdűne
+trade	kereskedelem
+urban	városi
+rural	vidéki
+economy	gazdaság
+poverty	szegénység
+slum	nyomornegyed
+life expectancy	várható élettartam
+dog	kutya
+cat	macska
+rabbit	nyúl
+hamster	hörcsög
+goldfish	aranyhal
+cow	tehén
+sheep, sheep	birka, birkák
+pig	disznó
+horse	ló
+chicken	csirke
+fox	róka
+deer, deer	őz, őzek
+mouse, mice	egér, egerek
+rat	patkány
+frog	béka
+snake	kígyó
+lion	oroszlán
+tiger	tigris
+monkey	majom
+elephant	elefánt
+giraffe	zsiráf
+bear	medve
+pigeon	galamb
+crow	varjú
+dove	gerle
+owl	bagoly
+eagle	sas
+ant	hangya
+fly	légy
+spider	pók
+bee	méhecske
+wasp	darázs
+butterfly	lepke
+cod	tőkehal
+trout	pisztráng, pisztrángok
+salmon	lazac, lazacok
+tuna	tonhal, tonhalak
+shark	cápa
+crab	rák
+tail	farok
+fur	szőrzet
+claw	karom
+paw	mancs
+hoof	pata
+mane	sörény
+trunk	ormány
+snout	pofa
+bracken	páfrány
+brambles	szeder
+bush	bokor / bozót
+cactus, cacti	kaktusz, kaktuszok
+corn	kukorica
+fern	páfrány
+flower	virág
+fungus, fungi	gomba, gombák
+grass	fű
+heather	hanga
+herb	fűszernövény
+ivy	borostyán
+moss	moha
+mushroom	gomba
+nettle	csalán
+shrub	bokor
+thistle	bogáncs
+toadstool	mérgesgomba
+tree	fa
+weed	gaz
+wheat	búza
+wild flower	vadvirág
+bluebell	harangvirág
+buttercup	boglárka
+carnation	szegfű
+chrysanthemum	krizantin
+crocus	krókusz
+daffodil	nárcisz
+dahlia	dália
+daisy	margaréta
+dandelion	gyermekláncfű / pitypang
+forget-me-not	nefelejcs
+foxglove	gyűszűvirág
+geranium	muskátli
+lily	liliom
+orchid	orchidea
+pansy	árvácska
+poppy	pipacs
+primrose	primula / kankalin
+rose	rózsa
+snowdrop	hóvirág
+sunflower	napraforgó
+tulip	tulipán
+waterlily	vízililiom
+bouquet of flowers, flower bouquet	virágcsokor
+bunch of flowers	virágcsokor
+berry	bogyó
+blossom	virág
+bud	bimbó/rügy
+flower	virág
+leaf	levél
+petal	szirom
+pollen	pollen
+root	gyökér
+stalk	szár
+stem	szár
+thorn	tövis
+alder	éger
+ash	kőrisfa, hamu
+beech	bükk
+birch	nyírfa
+cedar	cédrus
+elm	szilfa
+fir	erdei fenyő
+hazel	mogyoró
+hawthorn	galagonya
+holly	magyalfa
+lime	hársfa
+maple	juharfa
+oak	tölgy
+plane	platán
+pine	fenyő
+poplar	nyár
+sycamore	platánfa
+weeping willow	szomorúfűz
+willow	fűzfa
+yew	tiszafa
+apple tree	almafa
+cherry tree	meggy-/cseresznyefa
+chestnut tree	gesztenye
+coconut tree	kókuszpálma
+fig tree	fügefa
+horse chestnut tree	vadgesztenyefa
+olive tree	olajfa
+pear tree	körtefa
+plum tree	szilvafa
+bark	kéreg
+branch	ág
+pine cone	fenyőtoboz
+sap	nedv
+tree stump vagy stump	fatuskó vagy tuskó
+trunk	törzs
+twig	gally
+fruit tree	gyümölcsfa
+palm tree	pálmafa
+evergreen	örökzöld
+coniferous	tűlevelű
+deciduous	lombhullató
+
+#Testrészek
+
+beard	szakáll
+cheek	arc
+chin	áll
+head	fej
+hair	haj
+ear	fül
+eye	szem
+eyebrow	szemöldök
+eardrum	dobhártya
+earlobe	fülcimpa
+eyelash	szempilla
+eyelid	szemhéj
+forehead	homlok
+freckles	szeplők
+jaw	állkapocs
+lip	ajak
+mouth	száj
+nose	orr
+nostril	orrlyuk
+moustache	bajusz
+tongue	nyelv
+tooth (többesszáma: teeth)	fog (fogak)
+wrinkles	rácok
+adam's apple	ádámcsutka
+arm	kar
+armpit	hónalj
+back	hát
+breast	mell
+chest	mellkas
+elbow	könyök
+hand	kéz
+finger	ujj
+fingernail	köröm
+forearm	alkar
+knuckle	ujjizület
+navel vagy belly button	köldök
+neck	nyak
+nipple	mellbimbó
+palm	tenyér
+shoulder	váll
+throat	torok
+thumb	hüvelykujj
+waist	derék
+wrist	csukló
+ankle	boka
+anus	végbélnyílás
+belly	has
+big toe	nagylábujj
+bottom (szleng: bum)	fenék
+buttocks	tompor
+calf	vádli
+foot (többesszáma: feet)	lábfej (lábfejek)
+genitals	nemi szervek
+groin	ágyék
+heel	sarok
+hip	csípő
+knee	térd
+leg	láb
+penis	pénisz
+pubic hair	szeméremszőrzet
+shin	sípcsont
+sole	talp
+testicles	herék
+thigh	comb
+toe	lábujj
+toenail	labujj köröm
+vagina	vagina
+cornea	szaruhártya
+eye socket	szemüreg
+eyeball	szemgolyó
+iris	szivárványhártya
+retina	retina
+pupil	pupilla
+achilles tendon	achilles-ín
+artery	artéria
+appendix	féregnyúlvány
+bladder	húgyhólyag
+blood vessel	vérér
+brain	agy
+cartilage	porc
+colon	vastagbél
+gall bladder vagy gallbladder	epehólyag
+heart	szív
+intestines	belek
+large intestine	vastagbél
+small intestine	vékonybél
+kidneys	vesék
+ligament	ínszalag
+liver	máj
+lungs	tödő
+oesophagus	nyelőcső
+pancreas	hasnyálmirigy
+organ	szerv
+prostate gland vagy prostate	prosztata
+rectum	végbél
+spleen	lép
+stomach	gyomor
+tendon	ín
+tonsils	mandula
+vein	véna
+windpipe	légcső
+womb vagy uterus	méh
+collarbone vagy clavicle	kulcscsont
+thigh bone vagy femur	combcsont
+humerus	felkarcsont
+kneecap	térdkalács
+pelvis	medence
+rib	borda
+rib cage	mellkas
+skeleton	csontváz
+skull	koponya
+spine vagy backbone	gerinc
+vertebra (többesszáma: vertebrae)	csigolya
+bile	epe
+blood	vér
+mucus	nyálka
+phlegm	váladék
+saliva vagy spit	nyál
+semen	ondó
+sweat vagy perspiration	izzadság
+tears	könnyek
+urine	vizelet
+vomit	hányás
+bone	csont
+fat	zsír
+flesh	hús
+gland	mirigy
+joint	izület
+limb	végtag
+muscle	izom
+nerve	ideg
+skin	bőr
+digestive system	emésztőrendszer
+nervous system	idegrendszer
+to breathe	lélegezni
+to cry	sírni
+to hiccup	csuklani
+to have the hiccups	csuklani
+to sneeze	tüsszenteni
+to sweat vagy to perspire	izzadni
+to urinate	vizelni
+to vomit	hányni
+to yawn	ásítani
+
+#Tulajdonságok
+
+white	fehér
+yellow	sárga
+orange	narancssárga
+pink	rózsaszínű
+red	piros
+brown	barna
+green	zöld
+blue	kék
+purple	lila
+grey vagy gray	szürke
+black	fekete
+silver, silver-coloured	ezüst, ezüstszínű
+gold, gold-coloured	arany, aranyszínű
+multicoloured	többszínű
+light brown	világosbarna
+light green	világoszöld
+light blue	világoskék
+dark brown	sötétbarna
+dark green	sötétzöld
+dark blue	sötétkék
+bright red	világospiros
+bright green	világoszöld
+bright blue	világoskék
+tall	magas
+short	alacsony
+slim	karcsú
+thin	vékony
+fat	kövér
+obese	elhízott
+well-built	jó felépítésű
+overweight	túlsúlyos
+medium height	közepes magasságú
+well-dressed	jól öltözött
+smart	sikkes
+scruffy	ápolatlan
+good-looking	jóképű
+attractive	vonzó
+beautiful	gyönyörű
+pretty	szép
+handsome	jóvágású
+ugly	csúnya
+young	fiatal
+middle-aged	középkorú
+bald	kopasz
+bald-headed	kopasz fejű
+beard	szakáll
+moustache	bajusz
+long hair	hosszú haj
+short hair	rövid haj
+straight hair	egyenes haj
+curly hair	göndör haj
+fair-haired	világos hajú
+blond-haired vagy blonde-haired	szőke hajú
+brown-haired	barna hajú
+dark-haired	sötét hajú
+ginger-haired	vörös hajú
+blonde	szőke
+brunette	barna
+redhead	vörös
+big	nagy
+small vagy little	kicsi
+fast	gyors
+slow	lassú
+good	jó
+bad	rossz
+expensive	drága
+cheap	olcsó
+thick	vastag
+thin	vékony
+narrow	keskeny
+wide	széles
+broad	széles (átv)
+loud	hangos
+quiet	halk
+intelligent	intelligens
+stupid	buta
+wet	nedves
+dry	száraz
+heavy	nehéz / súlyos
+light	könnyű
+hard	kemény
+soft	lágy
+shallow	sekély
+deep	mély
+easy	könnyű
+difficult	nehéz
+weak	gyönge
+strong	erős
+rich	gazdag
+poor	szegény
+young	fiatal
+old	idős / öreg
+long	hosszú
+short	rövid
+high	magas
+low	alacsony
+generous	bőkezű
+mean	fukar
+true	igaz
+false	hamis
+beautiful	gyönyörű
+ugly	csúnya
+new	új
+old	régi
+happy	boldog
+sad	szomorú
+safe	biztonságos
+dangerous	veszélyes
+early	korán
+late	későn
+light	világos
+dark	sötét
+open	nyitva
+closed vagy shut	zárva / csukva
+tight	szoros
+loose	laza
+full	teli
+empty	üres
+many	sok
+few	kevés
+alive	élő
+dead	halott
+hot	meleg
+cold	hideg
+interesting	érdekes
+boring	unalmas
+lucky	szerencsés
+unlucky	szerencsétlen
+important	fontos
+unimportant	lényegtelen
+right	jó
+wrong	rossz
+far	messze
+near	közel
+clean	tiszta
+dirty	piszkos
+nice	kedves
+nasty	gonosz
+pleasant	kellemes
+unpleasant	kellemetlen
+excellent	kiváló
+terrible	borzalmas
+fair	méltányos
+unfair	méltánytalan
+normal	normális
+abnormal	nem normális
+
+#Ünnep
+
+christmas card	karácsonyi képeslap
+christmas present	karácsonyi ajándék
+christmas cake	karácsonyi torta
+christmas pudding	angol karácsonyi puding
+christmas crackers	karácsonyi pukkantó
+christmas tree	karácsonyfa
+christmas decorations	karácsonyi díszek
+holly	magyal
+father christmas vagy santa claus	télapó
+birthday card	születésnapi kártya
+birthday present	születésnapi ajándék
+birthday cake	születésnapi torta
+marriage	házasság
+wedding	esküvő
+bride	menyasszony
+bridegroom	vőlegény
+best man	tanu
+bridesmaid	koszorúslány
+wedding day	esküvő napja
+wedding ring	karikagyűrű
+wedding cake	esküvői torta
+wedding dress	menyasszonyi ruha
+honeymoon	nászút
+anniversary, wedding anniversary	évforduló, házassági évforduló
+
+#Utazás
+
+by bicycle	kerékpárral
+by boat	hajóval
+by bus	busszal
+by car	autóval
+by coach	távolsági busszal
+by ferry	komppal
+by motorcycle	motorkerékpárral
+by plane	repülővel
+by train	vonattal
+on foot	gyalog
+ticket office	jegyiroda
+travel agent	utazási iroda
+brochure	brossúra
+price	ár
+fare	útiköltség
+ticket	jegy
+booking	foglalás
+reservation	rezerváció
+passenger	utas
+destination	úti cél
+itinerary	útvonal
+journey	utazás
+travel insurance	utazásbiztosítás
+holiday	szabadság
+sightseeing	városnézés
+business trip	üzleti út
+to book	foglalni
+to cancel a booking	lemondani a foglalást
+to arrive	megérkezni
+to leave	elhagyni
+to depart	eltávozni
+to travel	utazni
+to visit	ellátogatni
+cancellation	törlés
+customs	vám
+delay	késés
+information desk	információspult
+luggage vagy baggage	csomag
+map	térkép
+passport control	útlevél-ellenőrzés
+suitcase	bőrönd
+cancelled	törölt
+delayed	késik
+bypass	elkerülő út
+country lane	vidéki út
+dual carriageway	kétsávos út
+main road	főút
+motorway	autópálya
+one-way street	egyirányú út
+ring road	körút
+road	út
+toll road	vámköteles út
+corner	sarok
+crossroads	útkereszteződés
+kerb	járda
+fork	útelágazás
+hard shoulder	leállósáv
+junction	csomópont
+lay-by	leállósáv
+level crossing	vasúti átjáró
+pavement (amerikai angol: sidewalk)	járda
+pedestrian crossing	gyalogosátkelő
+road sign	közlekedési jelzőtábla
+roadside	országúti
+roadworks	közúti munka
+roundabout	körforgalom
+services	szolgáltatások
+signpost	útjelzőtábla
+speed limit	sebességkorlátozás
+t-junction	t - elágazás
+toll	úthasználati díj
+traffic light	közlekedési jelzőlámpa
+turning	kanyar
+timetable	menetrend
+single (a következő rövidítése: single ticket)	egyirányú
+return (a következő rövidítése: return ticket)	kétirányú
+platform	vágány
+waiting room	váróterem
+ticket office vagy booking office	jegypénztár
+seat	ülés
+seat number	ülésszám
+luggage rack	csomagtér
+first class	első osztály
+second class	másodosztály
+ticket inspector	kalauz
+ticket collector	jegy ellenőr
+penalty fare	büntetés
+buffet car	büféskocsi
+carriage	kocsi
+compartment	fülke
+derailment	kisiklás
+express train	gyorsvonat
+guard	vasutas
+level crossing	vasúti sorompó
+line closure	vasúti pálya lezárás
+live rail	feszültség alatti sín
+railcard	vasúti bérlet
+railway line	vasúti sínpár
+restaurant car	étkezőkocsi
+season ticket	bérlet
+signal	jelző
+sleeper train	alvókocsi
+station	állomás
+railway station	vasútállomás
+train station	vonatállomás
+stopping service	személyvonat
+ticket barrier	jegykezelő kapu
+track	vasúti sín
+train	vonat
+train crash	vasúti baleset
+train driver	mozdonyvezető
+train fare	vasúti menetdíj
+train journey	vasúti utazás
+travelcard	bérlet
+tube station / underground station	metrómegálló
+tunnel	alagút
+to catch a train	felszállni egy vonatra
+to get on the train	felszállni a vonatra
+to get off the train	leszállni a vonatról
+to miss a train	lekésni egy vonatot
+bus	busz
+bus driver	buszvezető
+bus fare	busz
+bus journey	buszos út
+bus stop	busz megálló
+bus lane	buszsáv
+bus station	autóbuszállomás
+coach	távolsági autóbusz
+coach station	távolsági autóbuszállomás
+double-decker bus	emeletes busz
+conductor	ellenőr
+inspector	kalauz
+luggage hold	csomagtér
+the next stop	következő megálló
+night bus	éjszakai buszjárat
+request stop	kívánság szerinti megálló
+route	útvonal
+terminus	végállomás
+to get on the bus	felszállni a buszra
+to get off the bus	leszállni a buszról
+to catch a bus	felszállni egy buszra
+to miss a bus	lekésni egy buszt
+airline	légitársaság
+airport	repülőtér
+baggage allowance, luggage allowance	megengedett poggyász
+connecting flight	csatlakozó járat
+flight	repülőjárat
+flight number	járatszám
+aircraft	repülőgép
+helicopter	helikopter
+jet	sugárhajtású repülőgép
+plane (a következő rövidítése: aeroplane)	repülő
+to fly	repülni
+to land	leszállni
+to miss a flight	lekésni a repülőt
+to take off	felszállni
+landing	leszállás
+take-off	felszállás
+arrivals	érkezések
+baggage reclaim	poggyászfelvétel
+baggage handler	poggyászrakodó
+boarding	beszállás
+boarding card	beszállókártya
+carousel	körhinta / futószalag
+check-in desk	utasfelvételi pult
+departure lounge	induló váróterem
+departures	indulások
+gate	kapu
+hand baggage vagy hand luggage	kézipoggyász
+hold baggage vagy hold luggage	feladandó poggyász
+passport	útlevél
+runway	kifutópálya
+security	biztonsági személyzet
+trolley	poggyászkocsi
+pilot	pilóta
+captain	kapitány
+first officer (más néven co-pilot)	másodpilóta
+flight attendant	légi utaskísérő
+air steward, air stewardess	légi utaskísérő, légi utaskísérőnő
+aisle seat	folyosó melletti ülés
+in-flight entertainment	fedélzeti program
+in-flight meal	repülőn felszolgált étel
+seatbelt	biztonsági öv
+turbulence	örvény (turbulancia)
+window seat	ablak melletti ülés
+aisle	folyosó
+cabin	kabin
+cockpit	pilótafülke
+engine	motor
+landing gear	futómű
+propeller	légcsavar
+wing	szárny
+port	kikőtő
+harbour	kikötő
+ferry terminal	kompkikötő
+cruise	körutazás
+crossing	átkelő
+foot passenger	személy utas
+calm sea	nyugodt tenger
+rough sea	viharos tenger
+seasick	tengeri betegség
+to disembark	hajóról leszállni
+to embark	hajóra szállni
+to sail	vitorlázni
+car ferry	komp
+cruise ship	sétahajó
+ferry	komp
+hovercraft	légpárnás hajó
+yacht	jacht
+captain	kapitány
+crew	személyzet
+crew member	személyzet tagja
+bar	bár
+buffet	büfé
+bureau de change	pénzváltó iroda
+cabin	fülke
+cabin number	kabinszám
+car deck	gépkocsifedélzet
+currency exchange	valuta váltás
+deck	fedélzet
+gangway	hajóhíd
+information desk	információs pult
+restaurant	étterem
+self-service restaurant	önkiszolgáló étterem
+life belt	mentőöv
+life jacket	mentőmellény
+lifeboat	mentőcsónak
+north	észak
+northeast	északkelet
+east	kelet
+southeast	délkelet
+south	dél
+southwest	délnyugat
+west	nyugat
+northwest	északnyugat
+map	térkép
+compass	iránytű
+to read a compass	megnézni iránytűn
+check-in	bejelentkezés
+check-out	kijelentkezés
+reservation	foglalás
+vacancy	üresedés
+to book	foglalni
+to check in	bejelentkezni
+to check out	kijelentkezni
+to pay the bill	kifizetni a számlát
+to stay at a hotel	szállodában megszállni
+hotel	szálloda
+guesthouse	vendégház
+hostel	hostel
+campsite	kempingezőhely
+single room	egyágyas szoba
+double room	kétágyas szoba
+twin room	kétágyas szoba
+triple room	háromágyas szoba
+suite	lakosztály
+air conditioning	légkondicionálás
+bath	fürdőkád
+en-suite bathroom	hálószobából nyíló fürdőszoba
+internet access	internet-hozzáférés
+minibar	minibár
+safe	széf
+shower	zuhany
+car park	parkoló
+corridor	folyosó
+fire escape	tűzkijárat
+games room	játékszoba
+gym	konditerem
+laundry service	mosoda
+lift	lift
+lobby	szállodai aula
+reception	recepció
+restaurant	étterem
+room service	szobaszervíz
+sauna	szauna
+swimming pool	úszómedence
+manager	menedzser
+housekeeper	házvezető
+receptionist	recepciós
+room attendant	szobalány/szobafiú
+chambermaid	szobalány
+doorman	ajtónálló
+porter	portás
+fire alarm	tűzriasztó
+laundry	mosoda
+room key	szobakulcs
+room number	szobaszám
+wake-up call	telefonos ébresztés
+
+#Üzleti élet
+
+accountant	könyvelő
+actuary	biztosítási matematikus
+advertising executive	hirdetési ügyintéző
+bank clerk	banktisztviselő
+bank manager	bank menedzser
+businessman	üzletember
+businesswoman	üzletasszony
+economist	közgazdász
+financial adviser	pénzügyi tanácsadó
+health and safety officer	munkavédelmi felügyelő
+hr manager (a következő rövidítése: human resources manager)	humánerőforrás-menedzser
+insurance broker	biztosítási ügynök
+pa (a következő rövidítése: personal assistant)	személyi titkár
+investment analyst	befektetési elemző
+project manager	projektmenedzser
+marketing director	marketing igazgató
+management consultant	üzletviteli tanácsadó
+manager	menedzser
+office worker	irodai dolgozó
+receptionist	recepciós
+recruitment consultant	fejvadász
+sales rep (a következő rövidítése: sales representative)	üzletkötő
+salesman / saleswoman	eladó / eladónő
+secretary	titkár / titkárnő
+stockbroker	bróker
+telephonist	telefonkezelő
+database administrator	adatbázis adminisztrátor
+programmer	programozó
+software developer	szoftverfejlesztő
+web designer	webtervező
+web developer	webfejlesztő
+antique dealer	régiségkereskedő
+art dealer	műkereskedő
+baker	pék
+barber	borbély
+beautician	kozmetikus
+bookkeeper	könyvelő
+bookmaker	bukméker
+butcher	hentes
+buyer	vevő / vásárló
+cashier	pénztáros
+estate agent	ingatlan ügynök
+fishmonger	halárus
+florist	virágkötő
+greengrocer	zöldség-gyümölcs árus
+hairdresser	fodrász
+sales assistant	eladó aszisztens
+shop assistant	üzleti aszisztens
+shopkeeper	üzletvezető
+store detective	áruházi nyomozó
+store manager	üzlet menedzser
+tailor	szabó
+travel agent	utazási ügynök
+wine merchant	borkereskedő
+carer	gondozó
+counsellor	tanácsos
+dentist	fogorvos
+dental hygienist	dentálhigiénikus
+doctor	orvos
+midwife	szülésznő
+nanny	dada
+nurse	nővér
+optician	szemész
+paramedic	mentős
+pharmacist vagy chemist	gyógyszerész
+physiotherapist	fizikoterápiai szakorvos
+psychiatrist	pszihológus
+social worker	szociális gondozó
+surgeon	sebész
+vet vagy veterinary surgeon	állatorvos
+blacksmith	kovács
+bricklayer	kőműves
+builder	epítő szakember
+carpenter	asztalos / ács
+chimney sweep	kéményseprő
+cleaner	takarító
+decorator	szobafestő
+driving instructor	járművezetési oktató
+electrician	villanyszerelő
+gardener	kertész
+glazier	üveges
+groundsman	pályagondnok
+masseur	masszőr (férfi)
+masseuse	masszőr (nő)
+mechanic	szerelő (autószerelő)
+pest controller	kártevőirtó
+plasterer	vakoló
+plumber	vízvezeték-szerelő
+roofer	tetőfedő
+stonemason	kőfaragó
+tattooist	tetováló
+tiler	hidegburkoló
+tree surgeon	arborista
+welder	hegesztő
+window cleaner	ablaktisztító
+barman	bár pincér
+barmaid	bár pincérnő
+bartender	csapos
+bouncer	kidobóember
+cook	szakács
+chef	főszakács / séf
+hotel manager	szállodai menedzser
+hotel porter	szállodai portás
+pub landlord	kocsmáros
+tour guide vagy tourist guide	idegenvezető
+waiter	pincér
+waitress	pincérnő
+air traffic controller	légiforgalmi irányító
+bus driver	buszvezető
+flight attendant (régebben air steward, air stewardess vagy air hostess néven hívták)	légiutas-kísérő
+lorry driver	kamionsofőr
+sea captain vagy ship's captain	hajóskapitány
+taxi driver	taxisofőr
+train driver	vonatvezető
+pilot	pilóta
+artist	művész
+editor	szerkesztő
+fashion designer	divattervező
+graphic designer	grafikus tervező
+illustrator	illusztrátor
+journalist	újságíró
+painter	festőművész
+photographer	fényképész
+playwright	színműíró / drámaíró
+poet	költő
+sculptor	szobrász
+writer	író
+actor	színész
+actress	színésznő
+comedian	komikus
+composer	dalszerző
+dancer	táncos
+film director	filmrendező
+dj (a következő rövidítése: disc jockey)	lemezlovas
+musician	zenész
+newsreader	hírolvasó
+singer	énekes
+television producer	televíziós producer
+tv presenter	tv-s műsorvezető
+weather forecaster	meterológus
+barrister	peres ügyvéd
+bodyguard	testőr
+customs officer	vámtisztviselő
+detective	nyomozó
+forensic scientist	kriminalisztikai szakértő
+judge	bíró
+lawyer	ügyvéd
+magistrate	magisztrátus
+police officer (régebben policeman vagy policewoman néven hívták)	rendőr
+prison officer	börtönőr
+private detective	magánnyomozó
+security officer	biztonsági őr
+solicitor	közjegyző
+traffic warden	parkolási ellenőr
+choreographer	koreográfus
+dance teacher vagy dance instructor	tánctanár
+fitness instructor	fitneszedző
+martial arts instructor	harcművészeti oktató
+personal trainer	személyi edző
+professional footballer	hivatásos futballista
+sportsman	sportoló (férfi)
+sportswoman	sportoló (nő)
+lecturer	egyetemi tanár / előadó
+music teacher	zenetanár
+teacher	tanár
+teaching assistant	segédtanár
+airman, airwoman	pilóta
+sailor	tengerész
+soldier	katona
+biologist	biológus
+botanist	botanikus
+chemist	vegyész
+laboratory technician	labortechnikus
+meteorologist	meterológus
+physicist	fizikus
+researcher	kutató
+scientist	tudós
+imam	imám
+priest	pap
+rabbi	rabbi
+vicar	plébános
+arms dealer	fegyverkereskedő
+burglar	betörő
+drug dealer	drogkereskedő
+forger	hamisító
+lap dancer	lap dance táncos
+mercenary	zsoldos
+pickpocket	zsebtolvaj
+pimp	kerítő
+prostitute	prostituált
+smuggler	csempész
+stripper	sztriptíztáncos
+thief	tolvaj
+archaeologist	régész
+architect	építészmérnök
+charity worker	jótékonysági munkás
+civil servant	köztisztviselő
+construction manager	építésvezető
+council worker	tanácsnál dolgozó
+diplomat	diplomata
+engineer	mérnök
+factory worker	gyári dolgozó
+farmer	farmer / gazda
+firefighter,	fireman
+fisherman	halász
+housewife	háztartásbeli
+interior designer	belsőépítész
+interpreter	tolmács
+landlord	főbérlő
+librarian	könyvtáros
+miner	bányász
+model	modell
+politician	politikus
+postman	postás
+property developer	ingatlanfejlesztő
+refuse collector, bin man	kukás
+surveyor	földmérő
+temp, temporary worker	ideiglenes alkalmazott
+translator	fordító
+undertaker	temetkezési vállalkozó
+advertising	reklám szakma
+agriculture	mezőgazdaság
+banking	bank szakma
+broadcasting	műsorszórás
+the building trade	epítészeti szakma
+the chemical industry	vegyipar
+the civil service	közigazgatás
+computing	számítógépes szakma
+the construction industry	építési ipar
+the drinks industry	italipar
+engineering	mérnöki szakma
+the entertainment industry	szórakoztatóipar
+farming	állattenyésztés
+financial services	pénzügyi szakma
+the fishing industry	halászati ipar
+healthcare	egészségügy
+hotel and catering	szálloda és vendéglátás
+human resources	hr
+insurance	biztosítás
+it (information technology)	információs technológiai szakma
+the legal profession	jogi pálya
+local government	önkormányzat
+manufacturing	gyártás
+marketing	marketing
+the medical profession	orvosi pálya
+mining	bányászat
+the motor industry	autóipar
+the newspaper industry	újságipar
+the oil industry	olajipar
+the pharmaceutical industry	gyógyszeripar
+publishing	nyomda
+the retail trade	üzleti szakma
+sales	üzletkötés
+the shipping industry	hajóipar
+teaching	tanítás
+telecommunications	távközlés
+television	televízió
+the travel industry	utazási ipar
+
+#Zene
+
+beat	ütem
+harmony	harmónia
+lyrics	dalszöveg
+melody vagy tune	melódia
+note	hang
+rhythm	ritmus
+scale	skála
+solo	szóló
+duet	duett
+in tune	behangolva
+out of tune	hamis
+amplifier	erősítő
+cd	cd
+cd player	cd lejátszó
+headphones	fülhallgató
+hi-fi vagy hi-fi system	hi-fi
+instrument	hangszer
+mic (a következő rövidítése: microphone)	mikrofon
+mp3 player	mp3 lejátszó
+music stand	kottatartó állvány
+record player	lemezjátszó
+speakers	hangszórók
+stereo vagy stereo system	sztereo magnó
+blues	blues
+classical	klasszikus
+country	country
+dance	dance
+easy listening	könnyűzene
+electronic	elektronikus
+folk	népzene
+heavy metal	heavy metal
+hip hop	hip hop
+jazz	jazz
+latin	latin
+opera	opera
+pop	pop
+rap	rap
+reggae	reggae
+rock	rock
+techno	techno
+band	banda / csapat / zenekar
+brass band	trombitaegyüttes
+choir	kórus
+concert band	koncertzenekar
+jazz band	jazz együttes
+orchestra	szimfonikus zenekar
+pop group	popegyüttes
+rock band	rockegyüttes
+string quartet	vonósnégyes
+composer	dalszerző
+musician	zenész
+performer	előadó
+bassist, bass player	basszusgitáros
+cellist	csellista
+conductor	karmester
+dj	dj
+drummer	dobos
+flautist	fuvolás
+guitarist	gitáros
+keyboard player	billentyűs
+organist	orgonaművész
+pianist	zongoraművész
+pop star	popsztár
+rapper	rapper
+saxophonist	szakszofonos
+trumpeter	trombitás
+trombonist	harsonás
+violinist	hegedűművész
+singer	énekes
+alto	alt
+soprano	szoprán
+bass	basszus
+tenor	tenor
+baritone	bariton
+loud	hangos
+quiet	halk
+soft	csendes
+to listen to music	zenét hallgatni
+to play an instrument	hangszeren játszani
+to record	felvenni
+to sing	énekelni
+audience	hallgatóság
+concert	koncert
+hymn	himnusz
+love song	szerelmes dal
+national anthem	nemzeti himnusz
+symphony	szimfónia
+record	felvétel
+record label	lemezkiadó
+recording	felvétel
+recording studio	stúdió
+song	ének / dal
+stage	színpad
+track	zeneszám
+voice	hang
+accordion	harmonika
+grand piano	versenyzongora
+electronic keyboard (gyakran úgy rövidítik, hogy keyboard)	billentyűs hangszer / szintetizátor
+organ	orgona
+piano	zongora
+banjo	bendzsó
+double bass	nagybőgő
+cello	cselló / gordonka
+guitar	gitár
+acoustic guitar	akusztikus gitár
+bass guitar, bass	basszusgitár
+classical guitar (más néven spanish guitar)	klasszikus gitár / akusztikus gitár
+electric guitar	elektromos gitár
+harp	hárfa
+ukulele	ukulele
+viola	brácsa
+violin	hegedű
+bugle	trombita
+cornet	kürt
+horn vagy french horn	kürt
+trombone	harsona
+trumpet	trombita
+tuba	tuba
+bagpipes	skót duda
+bassoon	fagott
+clarinet	klarinét
+flute	fuvola
+harmonica / mouth organ	szájharmonika
+oboe	oboa
+piccolo	pikoló
+recorder	furulya
+saxophone	szakszofon
+bass drum	nagydob
+cymbals	cintányérok
+drums	dobok / dobszerelés
+drum kit	dobfelszerelés
+gong	gong
+snare drum	pergődob
+tambourine	tamburin (csörgődob)
+triangle	háromszög
+xylophone	szilofon
+

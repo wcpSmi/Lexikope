@@ -1,0 +1,176 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lexikope.MainPage"
+             Title="Dictionary"
+             BackgroundColor="{AppThemeBinding Light={StaticResource BackgroundLight}, Dark={StaticResource BackgroundDark}}">
+
+    <!-- Grid a dinamikus elosztás érdekében -->
+    <Grid RowDefinitions="Auto, *, Auto" Padding="10">
+
+        <!-- 🔹 FELSŐ VEZÉRLŐK (Fix magasságú) -->
+        <VerticalStackLayout Grid.Row="0" Spacing="10">
+            <!-- Egy közös Grid a címkéknek és a Pickereknek -->
+            <Grid ColumnDefinitions="80, 80, 300"
+                RowDefinitions="Auto, Auto">
+                <!-- Két sor: 1. a címkéknek, 2. a Pickereknek -->
+
+                <!-- Szótárak címke -->
+                <Label Grid.Row="0" Grid.Column="0" Text="Szótárak"
+                       FontSize="12"
+                       FontAttributes="Italic"
+                       HorizontalOptions="Start"
+                       TextColor="Gray"/>
+
+                <!-- Nyelv címke -->
+                <Label Grid.Row="0" Grid.Column="1" Text="Nyelv"
+                       FontSize="12"
+                       FontAttributes="Italic"
+                       HorizontalOptions="Start"
+                       TextColor="Gray"/>
+
+                <!-- Kategóriák címke -->
+                <Label Grid.Row="0" Grid.Column="2" Text="Kategóriák"
+                       FontSize="12"
+                       FontAttributes="Italic"
+                       HorizontalOptions="Start"
+                       TextColor="Gray"/>
+
+                <!-- Szótárak Picker -->
+                <Picker Grid.Row="1" Grid.Column="0"
+                x:Name="DictionaryPicker"
+                        FontSize="18"
+                SelectedIndexChanged="DictionaryPicker_SelectedIndexChanged"
+                TextColor="{AppThemeBinding Light=Black, Dark=White}"
+                WidthRequest="70" HeightRequest="40"/>
+
+                <!-- Nyelv Picker -->
+                <Picker Grid.Row="1" Grid.Column="1"
+                x:Name="LanguagePicker"
+                        FontSize="18"
+                SelectedIndexChanged="LanguagePicker_SelectedIndexChanged"
+                TextColor="{AppThemeBinding Light=Black, Dark=White}"
+                WidthRequest="70" HeightRequest="40"/>
+
+                <!-- Kategóriák Picker -->
+                <Picker Grid.Row="1" Grid.Column="2"
+                x:Name="CategoryPicker"   
+                SelectedIndexChanged="CategoryPicker_SelectedIndexChanged"
+                TextColor="{AppThemeBinding Light=Black, Dark=White}"
+                WidthRequest="290" HeightRequest="40"/>
+            </Grid>
+
+            <Entry x:Name="SearchEntry" Placeholder="Keresés..." 
+                   TextChanged="OnSearchTextChanged"
+                   FontSize="22" 
+                   HorizontalTextAlignment="Center"
+                   TextColor="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"/>
+
+            <Frame BackgroundColor="Gray" 
+                   CornerRadius="10"
+                   Padding="10"
+                   HasShadow="True">
+                <Label x:Name="SelectedLabel" 
+                   Text="???"
+                   FontSize="22" 
+                   FontAttributes="Bold"
+                   HorizontalOptions="Fill"
+                   HorizontalTextAlignment="Center"
+                   VerticalOptions="Center"/>
+            </Frame>
+        </VerticalStackLayout>
+
+        <!-- 🔹 KÖZÉPSŐ RÉSZ (ListView, ami görgethető) -->
+        <Grid Grid.Row="1">
+
+            <!-- Ez tölti ki a fennmaradó helyet -->
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <!-- Címke -->
+                <RowDefinition Height="*"/>
+                <!-- A ListView kitölti a fennmaradó helyet -->
+            </Grid.RowDefinitions>
+
+            <Label Grid.Row="0" x:Name="ListTitle"
+                   Text="Találatok" 
+                   FontSize="20"
+                   FontAttributes="Bold"
+                   TextColor="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"
+                   Margin="10"/>
+            <CollectionView Grid.Row="1" x:Name="ResultsList"
+                SelectionMode="Single"
+                SelectionChanged="OnItemSelected"                         
+                VerticalOptions="FillAndExpand">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout>
+                            <Label Text="{Binding}" FontSize="22"
+                    TextColor="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"/>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+
+        </Grid>
+
+        <!-- 🔹 ALSÓ RÖGZÍTETT GOMBOK (Fix magasságú) -->
+        <Grid Grid.Row="2" Padding="10">
+            <VerticalStackLayout HorizontalOptions="Center">
+                <Grid ColumnDefinitions="*,*,Auto,*,*" ColumnSpacing="20" Padding="10">
+                    <Button x:Name="PrevButton" 
+                    Text="◀"
+                    TextColor="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"
+                    Clicked="OnPrevClicked"
+                    Grid.Column="0" 
+                    HorizontalOptions="FillAndExpand"/>
+
+                     <Button x:Name="SpeakerButton" 
+                    Text="🔊" 
+                    Clicked="OnSpeakerClicked"
+                    TextColor="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"
+                    Grid.Column="1" 
+                    HorizontalOptions="FillAndExpand"/>
+
+                    <Button x:Name="PlayButton" 
+                    Text="Play"
+                    TextColor="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"
+                    Clicked="OnPlayClicked"
+                    Grid.Column="2" 
+                    HorizontalOptions="FillAndExpand"/>
+
+                    <Button x:Name="PauseButton" 
+                    Text="⏸"
+                    TextColor="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"
+                    Clicked="OnPauseClicked"
+                    Grid.Column="3" 
+                    HorizontalOptions="FillAndExpand"/>
+
+                    <Button x:Name="NextButton" 
+                    Text="▶"
+                    TextColor="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"
+                    Clicked="OnNextClicked"
+                    Grid.Column="4" 
+                    HorizontalOptions="FillAndExpand"/>
+                </Grid>
+
+                <HorizontalStackLayout HorizontalOptions="Center" Spacing="30" Padding="20" >
+                    <Button x:Name="EditButton" 
+                        Text="Szerkeszt" 
+                        TextColor="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"
+                        Clicked="OnEditClicked"/>
+                    <Button x:Name="QuizButton" 
+                        Text="Quiz" 
+                        TextColor="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"
+                        Clicked="OnQuizClicked"/>
+                    <Button x:Name="TranslateButton" 
+                        Text="Translate" 
+                        TextColor="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"
+                        Clicked="OnTranslateClicked"/>
+                </HorizontalStackLayout>
+            </VerticalStackLayout>
+        </Grid>
+
+    </Grid>
+</ContentPage>
+
+

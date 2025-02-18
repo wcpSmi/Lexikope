@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class= "Lexikope.QuizFrm"
+             Title="QuizFrm"
+             BackgroundColor="Black">
+    <Grid>
+        <Grid RowDefinitions="Auto, *, Auto" Padding="10">
+            <VerticalStackLayout>
+                <Label 
+                x:Name="Score"
+                Text="Eredmény"
+                    TextColor="White"
+                VerticalOptions="Center" 
+                HorizontalOptions="StartAndExpand" />
+                <Frame BackgroundColor="Azure"
+                       CornerRadius="10"
+                       Padding="10"
+                       HasShadow="True">
+                    <Label x:Name="AskWorld" 
+                       Text="{Binding QuestionTxt}"
+                       FontSize="22" 
+                       FontAttributes="Bold"
+                       HorizontalOptions="Fill"
+                       HorizontalTextAlignment="Center"
+                       VerticalOptions="Center"/>
+                </Frame>
+                
+            </VerticalStackLayout>
+        </Grid>
+
+
+    </Grid>
+</ContentPage>

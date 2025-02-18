@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lexikope.App">
+
+    <Application.Resources>
+        <!-- Világos mód színei -->
+        <Color x:Key="BackgroundLight">#FFFFFF</Color>
+        <Color x:Key="TextLight">#000000</Color>
+
+        <!-- Sötét mód színei -->
+        <Color x:Key="BackgroundDark">#121212</Color>
+        <Color x:Key="TextDark">#FFFFFF</Color>
+
+        <Style TargetType="ContentPage">
+            <Setter Property="BackgroundColor" Value="{AppThemeBinding Light={StaticResource BackgroundLight}, Dark={StaticResource BackgroundDark}}"/>
+        </Style>
+
+        <Style TargetType="Label">
+            <Setter Property="TextColor" Value="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"/>
+        </Style>
+
+        <Style TargetType="Entry">
+            <Setter Property="TextColor" Value="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"/>
+        </Style>
+
+        <Style TargetType="ListView">
+            <Setter Property="BackgroundColor" Value="{AppThemeBinding Light={StaticResource BackgroundLight}, Dark={StaticResource BackgroundDark}}"/>
+        </Style>
+    </Application.Resources>
+</Application>
+

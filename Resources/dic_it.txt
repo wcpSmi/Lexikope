@@ -1,0 +1,1229 @@
+$Italian - Magyar 2
+#Számok
+zero	nulla
+uno	egy
+due	kettő
+tre	három
+quattro	négy
+cinque	öt
+sei	hat
+sette	hét
+otto	nyolc
+nove	kilenc
+dieci	tíz
+undici	tizenegy
+dodici	tizenkettő
+tredici	tizenhárom
+quattordici	tizennégy
+quindici	tizenöt
+sedici	tizenhat
+diciassette	tizenhét
+diciotto	tizennyolc
+diciannove	tizenkilenc
+venti	húsz
+ventuno	huszonegy
+ventidue	huszonkettő
+ventitré	huszonhárom
+trenta	harminc
+quaranta	negyven
+cinquanta	ötven
+sessanta	hatvan
+settanta	hetven
+ottanta	nyolcvan
+novanta	kilencven
+cento	száz
+centouno	százegy
+duecento	kettőszáz
+trecento	háromszáz
+mille	ezer
+duemila	kétezer
+tremila	háromezer
+un milione	egy millió, egymillió
+un miliardo	egy billió, egybillió
+una volta	egyszer
+due volte	kétszer
+tre volte	háromszor
+quattro volte	négyszer
+cinque volte	ötször
+primo	első
+secondo	második
+terzo	harmadik
+quarto	negyedik
+quinto	ötödik
+sesto	hatodik
+settimo	hetedik
+ottavo	nyolcadik
+nono	kilencedik
+decimo	tizedik
+undicesimo	tizenegyedik
+dodicesimo	tizenkettedik
+tredicesimo	tizenharmadik
+quattordicesimo	tizennegyedik
+quindicesimo	tizenötödik
+sedicesimo	tizenhatodik
+diciassettesimo	tizenhetedik
+diciottesimo	tizennyolcadik
+diciannovesimo	tizenkilencedik
+ventesimo	huszadik
+ventunesimo	huszonegyedik
+ventiduesimo	huszonkettedik
+ventitreesimo	huszonharmadik
+trentesimo	harmincadik
+quarantesimo	negyvenedik
+cinquantesimo	ötvenedik
+sessantesimo	hatvanadik
+settantesimo	hetvenedik
+ottantesimo	nyolcvanadik
+novantesimo	kilencvenedik
+centesimo	századik
+circa	mintegy, körülbelül
+più di	több mint
+meno di	kevesebb mint
+
+#Tulajdonságok
+bianco	fehér
+giallo	sárga
+arancione	narancssárga
+rosa	rózsaszínű
+rosso	piros
+marrone	barna
+verde	zöld
+blu	kék
+viola	lila
+grigio	szürke
+nero	fekete
+argento	ezüst/ezüstszínű
+oro	arany/aranyszínű
+multicolore	többszínű
+marrone chiaro	világosbarna
+verde chiaro	világoszöld
+azzurro	világoskék
+marrone scuro	sötétbarna
+verde scuro	sötétzöld
+blu scuro	sötétkék
+rosso brillante	világospiros
+verde brillante	világoszöld
+azzurro brillante	világoskék
+alto	magas
+basso	alacsony
+snello	karcsú
+magro	vékony
+grasso	kövér
+obeso	elhízott
+ben piazzato	jó felépítésű
+sovrappeso	túlsúlyos
+di media altezza	közepes magasságú
+ben vestito	jól öltözött
+elegante	sikkes
+trasandato	ápolatlan
+di bell'aspetto	jóképű
+attraente	vonzó
+bella	gyönyörű
+carina	szép
+bello	jóvágású
+brutto	csúnya
+giovane	fiatal
+di mezza età	középkorú
+calvo	kopasz
+senza capelli	kopasz fejű
+barba	szakáll
+baffi	bajusz
+capelli lunghi	hosszú haj
+capelli corti	rövid haj
+capelli lisci	egyenes haj
+capelli ricci	göndör haj
+biondo	világos hajú
+biondo vagy bionda	szőke hajú
+castano	barna hajú
+capelli scuri	sötét hajú
+capelli rossi	vörös hajú
+bionda	szőke
+bruna	barna
+rossa	vörös
+
+
+#Dátum,Idő és gyakoriság
+secondo	másodperc
+minuto	perc
+ora	óra
+giorno	nap
+settimana	hét
+quindici giorni	két hét
+mese	hónap
+anno	év
+decennio	évtized
+secolo	évszázad
+fine settimana	hétvége
+anno bisestile	szökőév
+mattina	reggel
+pomeriggio	délután
+sera	este
+notte	éjjel/éjszaka
+mezzogiorno	dél
+mezzanotte	éjfél
+alba	hajnal
+crepuscolo	szürkület
+alba	napfelkelte
+tramonto	naplemente
+adesso	most
+allora	akkor
+immediatamente vagy subito	haladéktalanul, azonnal
+presto	hamarosan
+prima	korábban
+dopo	később
+mai	soha
+raramente	ritkán
+occasionalmente	alkalmanként
+a volte	néha
+spesso	sokszor, gyakran
+di solito vagy normalmente	rendszerint, általában
+sempre	mindig
+ogni giorno vagy quotidianamente	minden nap, naponta
+ogni settimana vagy settimanalmente	minden héten, hetente
+ogni mese vagy mensilmente	minden hónapban, havonta
+ogni anno vagy annualmente	minden évben, évente
+oggi	ma
+ieri	tegnap
+domani	holnap
+lunedì	Hétfő
+martedì	Kedd
+mercoledì	Szerda
+giovedì	Csütörtök
+venerdì	Péntek
+sabato	szombat
+domenica	Vasárnap
+settimana	hét
+mese	hónap
+stagione	évszak
+gennaio	január
+febbraio	február
+marzo	március
+aprile	április
+maggio	május
+giugno	június
+luglio	július
+agosto	augusztus
+settembre	szeptember
+ottobre	október
+novembre	november
+dicembre	december
+
+a gennaio	januárban
+a febbraio	februárban
+a marzo	márciusban
+ad aprile	áprilisban
+a maggio	májusban
+a giugno	júniusban
+a luglio	júliusban
+ad agosto	augusztusban
+a settembre	szeptemberben
+ad ottobre	októberben
+a novembre	novemberben
+a dicembre	decemberben
+
+primavera	tavasz
+estate	nyár
+autunno	ősz
+inverno	tél
+
+in primavera	tavasszal
+in estate	nyáron
+in autunno	ősszel
+in inverno	télen
+
+Capodanno	új év napja
+Pesce d’aprile	április elseje, a bolondok napja
+Pasqua	húsvét
+Venerdì Santo	nagypéntek
+Lunedì dell’Angelo (Pasquetta)	húsvét hétfő
+Festa dei lavoratori (Primo Maggio)	május 1 - a munka ünnepe
+Natale	karácsony
+Vigilia di Natale	szent este
+Giorno di Natale	karácsony napja
+
+
+#Család
+compleanno	születésnap
+padre	apa
+madre	anya
+figlio	fiú
+figlia	lány
+genitore	szülő
+bambino, bambini	gyermek, gyerekek
+marito	férj
+moglie	feleség
+fratello	fiútestvér
+sorella	lánytestvér
+zio	nagybácsi
+zia	nagynéni
+nipote	unokaöcs
+nipote	unokahúg
+cugino, cugina	unokatestvér
+nonna	nagymama
+nonno	nagypapa
+nonni	nagyszülők
+nipote	fiú unoka
+nipote	lány unoka
+fidanzato	barát
+fidanzata	barátnő
+partner	partner
+fidanzato	vőlegény
+fidanzata	menyasszony
+padrino	keresztapa
+madrina	keresztanya
+figlioccio	keresztfiú
+figlioccia	keresztlány
+patrigno	mostoha apa
+matrigna	mostoha anya
+figliastro	mostoha fiú
+figliastra	mostoha lány
+fratellastro	mostoha fiútestvér
+sorellastra	mostoha lánytestvér
+sorellastra	lány féltestvér
+fratellastro	fiú féltestvér
+suocera	anyós
+suocero	após
+genero	vő
+nuora	meny
+cognata	sógornő
+cognato	sógor
+parente	rokon
+gemello, gemella	iker
+nascere	megszületni
+morire	meghalni
+sposarsi	megházasodni
+divorziare	elválni
+
+
+#Időjárás
+sole	nap
+luce del sole	napsütés
+pioggia	eső
+neve	hó
+grandine	jégeső
+pioggerellina	szitálás
+nevischio	havas eső
+rovescio	zuhé
+foschia	pára
+nebbia	köd
+nuvola	felhő
+arcobaleno	szivárvány
+vento	szél
+brezza	szellő
+venti forti	erős szél
+tuono	mennydörgés
+fulmine	villámlás
+tempesta	vihar
+temporale	vihar
+burrasca	erős szél
+tornado	tornádó
+uragano	hurrikán
+alluvione	árvíz
+gelo	fagy
+ghiaccio	jég
+siccità	szárazság
+ondata di caldo	melegfront
+ventoso	szeles
+nuvoloso	felhős
+nebbioso	ködös
+foschioso	párás
+ghiacciato	jeges
+gelido	fagyos
+tempestoso	viharos
+secco	száraz
+bagnato	nedves
+caldo	meleg
+freddo	hideg
+fresco	hűvös
+soleggiato	napos
+piovoso	esős
+bello	szép
+grigio	szomorkás
+coperto	borús
+umido	nedves
+goccia di pioggia	esőcsepp
+fiocco di neve	hópehely
+chicco di grandine	jégesőszem / jégszem
+sciogliere	olvasztani
+congelare	fagyni
+disgelare	olvadni
+nevicare	havazni
+piovere	esőnek esni
+grandinare	jégesőnek esni
+previsioni del tempo	időjárás előrejelzés
+precipitazioni	csapadék
+temperatura	hőmérséklet
+umidità	nedvesség, páratartalom
+termometro	hőmérő
+alta pressione	nagy nyomás
+bassa pressione	kis nyomás
+barometro	barométer
+grado	fok
+
+#Érzések, érzelem
+felice	boldog
+triste	szomorú
+infelice	boldogtalan
+preoccupato	aggódó
+depresso	depressziós
+eccitato	izgatott
+annoiato	unatkozó
+stufo	megcsömörlött
+contento	örömteli
+deliziato	elragadtatott
+sorpreso	meglepett
+stupito	elámult
+deluso	csalódott
+entusiasta	lelkes
+rilassato	relaxált
+stressato	stresszelt
+ansioso	szorongó
+stanco	fáradt
+sfinito	elcsigázott
+esausto	kimerült
+infastidito	bosszús
+arrabbiato	mérges
+furioso	haragos
+furibondo	felrobban a haragtól
+disgustato	undorodó
+fiducioso	magabiztos
+sensibile	érzékeny
+calmo	nyugodt
+testardo	forró fejű
+impulsivo	lobbanékony
+allegro	vidám
+generoso	bőkezű
+gentile	kedves
+cattivo	gonosz
+pazzo	bolond
+sensato	ésszerű
+serio	komoly
+onesto	őszinte
+disonesto	nem becsületes, tisztességtelen
+amare	szeretni
+ti amo	szeretlek (romantikus értelemben)
+ti voglio bene	szeretlek (családtag, barát iránti szeretet)
+innamorarsi	beleszeretni
+adorare	imádni
+volere bene	kedvelni, szeretni
+provare emozioni	érzéseket átélni
+essere felice	boldognak lenni
+essere triste	szomorúnak lenni
+soffrire	szenvedni
+piangere	sírni
+ridere	nevetni
+sorridere	mosolyogni
+essere geloso	féltékenynek lenni
+essere fiero	büszkének lenni
+vergognarsi	szégyellni magát
+avere paura	félni
+odiare	gyűlölni
+detestare	megvetni, utálni
+provare compassione	együttérezni
+essere grato	hálásnak lenni
+essere nervoso	idegesnek lenni
+essere confuso	zavarodottnak lenni
+provare sollievo	megkönnyebbülni
+essere annoiato	unatkozni
+essere euforico	euforikusnak lenni
+essere speranzoso	reménykedni
+avere nostalgia	hiányérzetet érezni, honvágy
+rimpiangere	megbánni
+pentirsi	megbánni (erkölcsi értelemben)
+
+
+
+#Ruházat Személyes tárgyak
+anorak	anorák
+grembiule	kötény
+berretto da baseball	baseball sapka
+cintura	öv
+bikini	bikini
+blazer	blézer
+blusa	blúz
+stivali	csizma
+papillon	csokor nyakkendő
+boxer	boxer alsó
+reggiseno	melltartó
+cardigan	kardigán
+cappotto	kabát
+smoking	szmoking
+vestito	ruha
+vestaglia	fürdőköpeny
+guanti	kesztyű
+cappello	sapka
+tacchi alti	magas sarkú cipő
+giacca	dzseki
+jeans	farmer
+maglione	pulóver
+mutandine	bugyi
+giacca di pelle	bőrdzseki
+minigonna	miniszoknya
+camicia da notte	pizsama
+tuta da lavoro	kezeslábas
+soprabito	kabát
+pullover	pulóver
+pigiama	pizsama
+impermeabile	esőkabát
+sandali	szandál
+sciarpa	sál
+camicia	ing
+laccio da scarpe	cipőfűző
+scarpe	cipő
+paio di scarpe	egy pár cipő
+pantaloncini	rövidnadrág
+gonna	szoknya
+pantofole	papucs
+calzini	zokni
+scarpe con tacco a spillo	tűsarkú cipő
+calze	combfix
+completo / abito	öltöny
+felpa	melegítőfelső
+costume da bagno	fürdőruha
+costume da bagno da uomo	úszónadrág
+perizoma	tanga bugyi
+cravatta	nyakkendő
+collant	harisnya
+top	felső / top
+tuta	melegítő
+scarpe da ginnastica	edzőcipő
+pantaloni	nadrág
+paio di pantaloni	egy nadrág
+maglietta	póló
+mutande	alsónadrág
+gilet	mellény
+stivali di gomma	gumicsizma
+
+braccialetto	karkötő
+gemelli da polso	mandzsetta gomb
+pettine	fésű
+orecchini	fülbevaló
+anello di fidanzamento	kísérő gyűrű / jegygyűrű
+occhiali	szemüveg
+borsetta	kézitáska
+fazzoletto	zsebkendő
+elastico per capelli vagy fascia per capelli	hajgumi/hajpánt
+spazzola per capelli	hajkefe
+chiavi	kulcsok
+portachiavi	kulcstartó
+accendino	öngyújtó
+rossetto	ajakrúzs
+trucco	smink
+specchio	tükör
+collana	nyaklánc
+piercing	piercing (testékszer)
+portafoglio	pénztárca
+anello	gyűrű
+occhiali da sole	napszemüveg
+ombrello	esernyő
+bastone da passeggio	sétabot
+portafoglio	tárca
+orologio	óra
+fede nuziale	jegygyűrű
+taglia	méret
+largo	laza
+stretto	szoros
+indossare	hordani
+mettere	felvenni
+togliere	levenni
+vestirsi	felöltözni
+spogliarsi	levetkőzni
+bottone	gomb
+tasca	zseb
+cerniera	cipzár
+annodare	megkötni
+slacciare	kioldozni
+
+
+
+#Természet
+campagna	vidék
+collina	domb
+montagna	hegy
+valle	völgy
+boschetto	liget
+foresta	erdő
+bosco	szigetszerű kis erdő
+campo	rét
+prato	mező
+pianura	síkság
+brughiera	ingovány
+torbiera	láp
+palude	mocsár
+siepe	sövény
+sentiero	ösvény
+recinzione	kerítés
+muro	fal
+fossato	árok
+cancello	kapu
+fattoria	farm
+ponte	híd
+deserto	sivatag
+ghiacciaio	gleccser
+giungla	dzsungel
+foresta pluviale	esőerdő
+vulcano	vulkán
+ruscello	patak
+fiume	folyó
+cascata	vízesés
+oceano	óceán
+mare	tenger
+costa vagy riva	partvidék
+spiaggia	tengerpart
+scogliera	szikla
+isola	sziget
+penisola	félsziget
+roccia	kő
+marea	árapály
+onda	hullám
+molo	móló
+faro	világítótorony
+porto	kikötő
+piattaforma petrolifera	olajfúrótorony
+paese	vidék
+città	város
+villaggio	falu
+eruzione	kitörés
+terremoto	földrengés
+tsunami	cunami
+valanga	lavina
+frana	földcsuszamlás
+lava	láva
+capitale	főváros
+confine	határ
+parco nazionale	nemzeti park
+
+
+#Ház és kert
+bagno	fürdőszoba
+camera da letto	hálószoba
+cantina	pince
+serra	üvegház
+sala da pranzo	étkező
+ingresso	előszoba
+cucina	konyha
+pianerottolo	lépcsőforduló
+gabinetto	mosdó
+soggiorno	nappali
+soffitta	padlás
+salotto	társalgó
+bagno con doccia	zuhanyzó helyiség
+studio	dolgozószoba
+veranda	napos helyiség
+toilette	toalett
+lavanderia	mosókonyha
+WC	WC
+porta sul retro	hátsó ajtó
+vasca da bagno	fürdő
+soffitto	plafon
+riscaldamento centralizzato	központi fűtés
+porta	ajtó
+campanello	ajtócsengő
+camino	kandalló
+pavimento	padló
+porta d’ingresso	bejárati ajtó
+grondaia	ereszcsatorna
+tetto	tető
+doccia	zuhany
+scale	lépcső
+scala	lépcső
+muro	fal
+finestra	ablak
+piano terra	földszint
+piano superiore	emelet
+
+tagliere	vágódeszka
+scolapasta	szűrőedény
+cavatappi	dugóhúzó
+padella	serpenyő
+grattugia	reszelő, sajtreszelő
+spremiagrumi	facsaró
+foglio di alluminio	alufólia
+bilancia da cucina	konyhai mérleg
+mestolo	merőkanál
+ciotola per mescolare	keverőtál
+strofinaccio da forno	konyharuha sütőhöz
+guanti da forno	sütőkesztyű
+matterello	sodrófa
+pentola	lábos
+setaccio	szita
+apriscatole	konzervnyitó
+pinze da cucina	konyhai fogó
+vassoio	tálca
+frusta	habverő
+cucchiaio di legno	fakanál
+coltello	kés
+forchetta	villa
+cucchiaio	kanál
+cucchiaino da dessert	kiskanál
+cucchiaio da minestra	evőkanál
+cucchiaio da tavola	evőkanál
+cucchiaino da tè	kiskanál
+coltello da intaglio	metszőkés
+bacchette	evőpálcika
+tazza	csésze
+ciotola	tál
+stoviglie	étkészlet
+bicchiere	pohár
+barattolo	befőttes üveg
+brocca	kancsó
+tazza grande	bögre
+piatto	tányér
+piattino	csészealj
+zuccheriera	cukortartó
+teiera	teáskanna
+bicchiere da vino	boros pohár
+pattumiera	szemetes
+
+poltrona	karosszék
+letto	ágy
+comodino	éjjeliszekrény
+libreria	könyvesszekrény
+mensola per libri	könyvespolc
+sedia	szék
+cassettiera	fiókos szekrény
+orologio	óra
+attaccapanni	fogas
+tavolino da caffè	kávézóasztal
+armadietto	fali szekrény
+scrivania	íróasztal
+letto matrimoniale	franciaágy
+mobile bar	bárszekrény
+schedario	iratszekrény
+specchio	tükör
+pianoforte	zongora
+credenza	tálaló
+letto singolo	ágy
+divano	kanapé
+divano letto	rekamié
+sgabello	támlátlan szék, zsámoly
+tavolo	asztal
+guardaroba	szekrény
+sveglia	ébresztőóra
+
+piumino	paplan
+materasso	matrac
+cuscino	párna
+federa	párnahuzat
+tappeto piccolo	kisszőnyeg
+lenzuolo	lepedő
+tovaglia	terítő
+asciugamano	törülköző
+carta da parati	tapéta
+vasca da bagno	fürdőkád
+cestino della spazzatura	szemeteskosár
+scopa	partvis
+secchio	vödör
+interruttore della luce	villanykapcsoló
+spugna	szivacs
+rubinetto	csap
+torcia elettrica	zseblámpa
+vaso	váza
+cestino per la carta	papírkosár
+batteria	elem
+candela	gyertya
+cotone	vatta
+lampadina	villanykörte
+accendino	öngyújtó
+fiammiferi	gyufa
+ago	tű
+spilla di sicurezza	biztosítótű
+forbici	olló
+nastro adesivo	cellux
+francobolli	bélyeg
+penna	toll
+matita	ceruza
+fazzoletti di carta	papírzsebkendő
+carta igienica	WC papír
+dentifricio	fogkrém
+tubetto di dentifricio	fogkrémes tubus
+carta da lettere	írólap
+sacco della spazzatura	szemeteszsák
+candeggina	fehérítő / hipó
+detersivo	tisztítószer
+disinfettante	fertőtlenítő
+sacco per la spazzatura	szemeteszsák
+panno per la polvere	porrongy
+ammorbidente	öblítő
+straccio da pavimento	felmosórongy
+lucidante per mobili	bútorfényező
+sacco per aspirapolvere	porszívózsák
+lucido per scarpe	cipőkrém, cipőpaszta
+sapone	szappan
+detersivo in polvere	mosópor
+
+
+
+#Utazás
+by bicycle 	kerékpárral
+by boat 	hajóval
+by bus 	busszal
+by car 	autóval
+by coach 	távolsági busszal
+by ferry 	komppal
+by motorcycle 	motorkerékpárral
+by plane 	repülővel
+by train 	vonattal
+on foot 	gyalog
+ticket office 	jegyiroda
+travel agent 	utazási iroda
+brochure 	brossúra
+price 	ár
+fare 	útiköltség
+ticket 	jegy
+booking 	foglalás
+reservation 	rezerváció
+passenger 	utas
+destination 	úti cél
+itinerary 	útvonal
+journey 	utazás
+travel insurance 	utazásbiztosítás
+holiday 	szabadság
+sightseeing 	városnézés
+business trip 	üzleti út
+to book 	foglalni
+to cancel a booking 	lemondani a foglalást
+to arrive 	megérkezni
+to leave 	elhagyni
+to depart 	eltávozni
+to travel 	utazni
+to visit 	ellátogatni
+cancellation 	törlés
+customs 	vám
+delay 	késés
+information desk 	információspult
+luggage vagy baggage 	csomag
+map 	térkép
+passport control 	útlevél-ellenőrzés
+suitcase 	bőrönd
+cancelled 	törölt
+delayed 	késik
+bypass 	elkerülő út
+country lane 	vidéki út
+dual carriageway 	kétsávos út
+main road 	főút
+motorway 	autópálya
+one-way street 	egyirányú út
+ring road 	körút
+road 	út
+toll road 	vámköteles út
+corner 	sarok
+crossroads 	útkereszteződés
+kerb 	járda
+fork 	útelágazás
+hard shoulder 	leállósáv
+junction 	csomópont
+lay-by 	leállósáv
+level crossing 	vasúti átjáró
+pavement (amerikai angol: sidewalk) 	járda
+pedestrian crossing 	gyalogosátkelő
+road sign 	közlekedési jelzőtábla
+roadside 	országúti
+roadworks 	közúti munka
+roundabout 	körforgalom
+services 	szolgáltatások
+signpost 	útjelzőtábla
+speed limit 	sebességkorlátozás
+T-junction 	T - elágazás
+toll 	úthasználati díj
+traffic light 	közlekedési jelzőlámpa
+turning 	kanyar
+
+
+#Utazás
+viaggio	utazás
+turista	turista
+vacanza	nyaralás
+gita	kirándulás
+escursione	túra
+itinerario	útvonal
+mappa	térkép
+guida turistica	útikönyv, idegenvezető
+passaporto	útlevél
+visto	vízum
+dogana	vám
+frontiera	határ
+assicurazione di viaggio	utazási biztosítás
+prenotazione	foglalás
+biglietto	jegy
+andata e ritorno	oda-vissza út
+solo andata	egyirányú út
+aeroporto	repülőtér
+volo	Repülőjárat
+biglietto aereo	repülőjegy
+compagnia aerea	légitársaság
+imbarco	beszállás
+atterraggio	leszállás
+decollo	felszállás
+ritardo	késés
+bagaglio	poggyász
+valigia	bőrönd
+zaino	hátizsák
+check-in	bejelentkezés
+controllo passaporti	útlevél-ellenőrzés
+controllo di sicurezza	biztonsági ellenőrzés
+carrello portabagagli	poggyászkocsi
+uscita di imbarco	beszállókapu
+terminal	terminál
+cintura di sicurezza	biztonsági öv
+noleggio auto	autóbérlés
+fermata dell'autobus	buszmegálló
+stazione ferroviaria	vasútállomás
+biglietteria	jegypénztár
+treno	vasút
+binario	vágány
+carrozza	vagon
+posto a sedere	ülőhely
+metropolitana	metró
+taxi	taxi
+nave	hajó
+traghetto	komp
+porto	kikötő
+crociera	hajóút
+campeggio	kemping
+tenda	sátor
+ostello	hosztel
+albergo	szálloda
+hotel	szálloda
+reception	porta, recepció
+prenotazione	foglalás
+chiave della camera	szobakulcs
+camera singola	egyágyas szoba
+camera doppia	kétágyas szoba
+suite	lakosztály
+mezza pensione	félpanzió
+pensione completa	teljes panzió
+colazione	reggeli
+pranzo	ebéd
+cena	vacsora
+ristorante	étterem
+menu	étlap
+conto	számla
+mancia	borravaló
+souvenir	szuvenír
+escursione organizzata	szervezett kirándulás
+ufficio turistico	turistainformáció
+vista panoramica	kilátás
+spiaggia	tengerpart
+mare	tenger
+montagna	hegy
+lago	tó
+città	város
+centro storico	óváros
+museo	múzeum
+chiesa	templom
+castello	vár, kastély
+monumento	emlékmű
+parco	nagykert, park
+mercato	piac
+negozio	bolt
+shopping	vásárlás
+cartolina	képeslap
+fotocamera	fényképezőgép
+telefono cellulare	mobiltelefon
+caricabatterie	töltő
+presa di corrente	konnektor
+Wi-Fi	Wi-Fi
+connessione Internet	internetkapcsolat
+app di navigazione	navigációs alkalmazás
+prenotare	foglalni
+partire	indulni
+arrivare	megérkezni
+viaggiare	utazni
+perdere il volo	lekésni a járatot
+fare le valigie	bepakolni a bőröndöt
+disfare le valigie	kicsomagolni
+visitare	megtekinteni
+esplorare	felfedezni
+camminare	sétálni
+guidare	vezetni
+scattare foto	fotózni
+fare shopping	vásárolni
+rilassarsi	pihenni
+prenotare un viaggio	lefoglalni egy utazást
+navigare su Internet	internetezni
+
+
+#Shopping
+economico	olcsó
+cliente	vásárló
+sconto	leárazás
+costoso	drága
+prezzo	ár
+svendita	kiárusítás
+negozio	üzlet
+borsa della spesa	bevásárlószatyor/-tasak
+lista della spesa	bevásárlólista
+offerta speciale	különleges ajánlat
+comprare	vásárolni
+vendere	eladni
+ordinare	megrendelni
+andare a fare shopping	vásárolni menni
+corridoio	áruházi folyosó a polcok között
+cestino	kosár
+bancone	pult
+camerino	öltöző
+responsabile	üzletvezető/menedzser
+scaffale	polc
+commesso/eladó	eladó
+vetrina	kirakat
+magazzino	raktár
+carrello della spesa	bevásárlókocsi
+cassiere	pénztáros
+contanti	készpénz
+resto	apró
+cassa	fizetés
+reclamo	panasz
+carta di credito	hitelkártya
+disponibile in magazzino	raktáron
+esaurito	nincs raktáron
+sacchetto di plastica	műanyag szatyor/tasak
+borsellino	erszény
+fila	sor
+scontrino	nyugta
+rimborso	visszatérítés
+registratore di cassa	pénztár
+portafoglio	pénztárca
+
+#Piperecikkek, Kozmetikum
+dopobarba	borotválkozás utáni arcszesz
+pettine	fésű
+balsamo	hajkondicionáló
+filo interdentale	fogselyem
+deodorante	dezodor
+spazzola per capelli	hajkefe
+collutorio	szájvíz
+limetta per unghie	körömreszelő
+forbicine per unghie	körömvágó olló
+salvaslip	tisztasági betét
+profumo	parfüm
+rasoio	borotva
+lama da rasoio	borotvapenge
+assorbenti	egészségügyi betét
+pennello da barba	borotvapamacs
+crema da barba	borotvakrém
+schiuma da barba	borotvahab
+gel da barba	borotvagél
+shampoo	sampon
+bagnoschiuma	fürdő-gél
+sapone	szappan
+assorbenti interni	tampon
+spazzolino da denti	fogkefe
+dentifricio	fogkrém
+pinzetta	csipesz
+ovatta	vatta
+eyeliner	szemceruza
+ombretto	szemhéjfesték
+cipria	arcpúder
+fondotinta	alapozó
+tinta per capelli	hajfesték
+gel per capelli	hajzselé
+lacca per capelli	hajlakk
+cera per capelli	hajvax
+crema per le mani	kézkrém
+lucidalabbra	szájfény
+rossetto	rúzs
+trucco	smink
+mascara	szempillafesték
+crema idratante	testápoló krém
+smalto per unghie	körömlakk
+solvente per smalto	körömlakklemosó
+
+
+#Orvos, egészség
+incidente	baleset
+ferita	sérülés
+taglio	vágás
+abrasione	horzsolás
+ustione	égési sérülés
+livido	zúzódás
+frattura	törés
+slogatura	rándulás
+distorsione	ficam
+sanguinamento	vérzés
+commozione cerebrale	agyrázkódás
+punto di sutura	varrat
+pronto soccorso	sürgősségi osztály
+ambulanza	mentőautó
+chiamare un'ambulanza	mentőt hívni
+rianimazione	újraélesztés
+massaggio cardiaco	szív masszázs
+respirazione bocca a bocca	szájból szájba lélegeztetés
+intossicazione da alcol	alkoholmérgezés
+soffocamento	fulladás
+avere un incidente	balesetet szenvedni
+cadere	leesni
+scivolare	elcsúszni
+bruciarsi	megégetni magát
+tagliarsi	elvágni magát
+slogarsi una caviglia	kibicsaklik a bokája
+
+
+#Testrészek
+corpo	test
+testa	fej
+viso vagy faccia	arc
+fronte	homlok
+occhio	szem
+occhi	szemek
+sopracciglia	szemöldök
+ciglia	szempilla
+naso	orr
+guancia	orca, pofa
+bocca	száj
+labbra	ajkak
+dente	fog
+denti	fogak
+lingua	nyelv
+orecchio	fül
+orecchie	fülek
+mento	áll
+collo	nyak
+spalla	váll
+braccio	kar
+braccia	karok
+gomito	könyök
+polso	csukló
+mano	kéz
+mani	kezek
+dito	ujj
+dita	ujjak
+unghia	köröm
+petto	mellkas
+seno	mell (női)
+schiena	hát
+addome vagy pancia	has
+ombelico	köldök
+vita	derék
+fianco	csípő
+natica	fenék (egyik fele)
+glutei	fenekek
+inguine	ágyék
+gamba	láb (egész)
+gambe	lábak
+coscia	comb
+ginocchio	térd
+ginocchia	térdek
+polpaccio	vádli
+caviglia	boka
+piede	lábfej
+piedi	lábfejek
+tallone	sarok
+
+
+#Érzékelés
+olfatto	szaglás
+tatto	érintés
+vista	látás
+udito	hallás
+gusto	ízlelés
+annusare	szagolni
+toccare	érinteni
+vedere	látni
+sentire	hallani
+assaporare vagy gustare	ízlelni
+
+#Mondatok, kifejezések
+Ciao! , Salve!	Szia! , Üdv!
+Buongiorno!	Jó napot!
+Buonasera!	Jó estét!
+Buonanotte!	Jó éjszakát!
+Arrivederci!	Viszontlátásra!
+A dopo! , A presto!	Később találkozunk! , Hamarosan találkozunk!
+Mi scusi , Scusa!	Elnézést!
+Per favore , Per cortesia	Kérem , Legyen szíves
+Grazie!	Köszönöm!
+Grazie mille!	Nagyon szépen köszönöm!
+Prego!	Szívesen!
+Sì	Igen
+No	Nem
+Forse	Talán
+Non lo so	Nem tudom
+Va bene!	Rendben!
+D'accordo!	Egyetértek!
+Non capisco!	Nem értem!
+Può ripetere, per favore?	Megismételné, kérem?
+Parla inglese?	Beszél angolul?
+Parlo solo un po' di italiano	Csak egy kicsit beszélek olaszul
+Mi chiamo	A nevem
+Sono un turista	Turista vagyok
+Ho bisogno di aiuto!	Segítségre van szükségem!
+Dov'è il bagno?	Hol van a mosdó?
+Quanto costa?	Mennyibe kerül?
+Accettate carte di credito?	Elfogadnak hitelkártyát?
+Posso pagare con la carta?	Fizethetek kártyával?
+Il conto, per favore!	A számlát, kérem!
+
+Dov'è la stazione ferroviaria?	Hol van a vasútállomás?
+Dov'è la fermata dell’autobus?	Hol van a buszmegálló?
+Dov'è la metropolitana?	Hol van a metró?
+Vorrei un biglietto per …	Szeretnék egy jegyet … (hely megnevezése)
+Quanto costa un biglietto?	Mennyibe kerül egy jegy?
+A che ora parte il treno?	Mikor indul a vonat?
+A che ora arriva l’autobus?	Mikor érkezik a busz?
+Dov’è il terminal dei taxi?	Hol van a taxiállomás?
+Può portarmi a …?	El tud vinni …? (hely megnevezése)
+Quanto costa il viaggio fino a …?	Mennyibe kerül az út …-ig?
+Mi può dire dove scendere?	Meg tudja mondani, hol kell leszállnom?
+
+Avete un tavolo libero?	Van szabad asztaluk?
+Vorrei prenotare un tavolo per due.	Szeretnék foglalni egy asztalt két főre.
+Il menù, per favore!	Az étlapot, kérem!
+Qual è la specialità della casa?	Mi a ház specialitása?
+Vorrei ordinare …	Szeretnék rendelni … (étel neve)
+C'è qualcosa di vegetariano?	Van valami vegetáriánus étel?
+Senza glutine, per favore!	Gluténmentesen, kérem!
+Senza lattosio, per favore!	Laktózmentesen, kérem!
+Un bicchiere d’acqua, per favore!	Egy pohár vizet, kérem!
+Un caffè, per favore!	Egy kávét, kérem!
+Il conto, per favore!	A számlát, kérem!
+Accettate carte di credito?	Elfogadnak bankkártyát?
+Il servizio è incluso?	Benne van a szervizdíj?
+Manca una portata!	Hiányzik egy fogás!
+Era tutto delizioso!	Minden nagyon finom volt!
+
+Quanto costa questo?	Mennyibe kerül ez?
+Posso provarlo?	Felkaphatom? (pl. ruhára)
+Avete una taglia più grande/più piccola?	Van nagyobb/kisebb méret?
+C’è uno sconto?	Van valami kedvezmény?
+Accettate carte di credito?	Elfogadnak bankkártyát?
+Mi fa lo scontrino, per favore?	Kaphatok nyugtát?
+Vorrei una ricevuta fiscale.	Kérek egy számlát.
+Posso pagare in contanti?	Fizethetek készpénzzel?
+
+Aiuto!	Segítség!
+Chiamate un’ambulanza!	Hívjanak mentőt!
+Mi sono perso(a).	Elvesztem.
+Può aiutarmi?	Tud segíteni nekem?
+Dov'è la farmacia più vicina?	Hol van a legközelebbi gyógyszertár?
+C’è un medico qui vicino?	Van itt egy orvos a közelben?
+Ho bisogno di un dottore.	Orvosra van szükségem.
+Non mi sento bene.	Nem érzem jól magam.
+Mi hanno rubato …	Ellopták a …-mat.
+Ho perso il mio portafoglio.	Elvesztettem a pénztárcámat.
+C’è una stazione di polizia qui vicino?	Van itt a közelben egy rendőrség?
+Il mio telefono è scarico.	Le van merülve a telefonom.
+
+Dove si trova …?	Hol található …? (pl. egy múzeum, templom stb.)
+Quali sono i posti migliori da visitare?	Melyek a legjobb helyek, amiket érdemes meglátogatni?
+Quanto costa l’ingresso?	Mennyibe kerül a belépő?
+C’è una guida turistica disponibile?	Elérhető idegenvezető?
+Posso scattare delle foto?	Készíthetek fényképeket?
+A che ora chiude il museo?	Mikor zár a múzeum?
+
+Che tempo fa oggi?	Milyen az idő ma?
+Fa caldo.	Meleg van.
+Fa freddo.	Hideg van.
+Piove.	Esik az eső.
+C’è il sole.	Napos idő van.
+È nuvoloso.	Felhős az idő.
+C’è vento.	Fúj a szél.
+
+Avete una camera libera?	Van szabad szobájuk?
+Vorrei prenotare una camera per due notti.	Szeretnék foglalni egy szobát két éjszakára.
+Quanto costa a notte?	Mennyibe kerül egy éjszaka?
+La colazione è inclusa?	A reggeli benne van?
+A che ora è il check-in / check-out?	Mikor van a bejelentkezés/kijelentkezés?
+La mia camera non è pulita.	A szobám nincs kitakarítva.
+Potrei avere un altro cuscino?	Kaphatnék egy másik párnát?
+
