@@ -68,6 +68,21 @@ public partial class EditFrm : ContentPage
 		}
 	}
 
+	private void OnCategoryEntryChange(object sender, EventArgs e)
+	{
+			Category = CategoryEntry.Text;
+	}
+
+	private void OnOtherLangEntryChange(object sender, EventArgs e)
+	{
+		OtherLang=OtherLangEntry.Text;
+	}
+
+	private void OnHunLangEntryChange(object sender ,EventArgs e)
+	{
+		HunLang = HunLangEntry.Text;
+	}
+
 
 
 	private async void OnCancelClicked(object sender, EventArgs e)
@@ -130,7 +145,7 @@ public partial class EditFrm : ContentPage
 			return;
 		}
 
-		if (string.IsNullOrWhiteSpace(OtherLangEntry.Text) || string.IsNullOrWhiteSpace(HunLangEntry.Text) || string.IsNullOrWhiteSpace(CategoryEntry.Text))
+		if (string.IsNullOrWhiteSpace(OtherLang) || string.IsNullOrWhiteSpace(HunLang) || string.IsNullOrWhiteSpace(Category))
 		{
 			await DisplayAlert("Hiba", "Minden mezõ kitöltése kötelezõ!", "OK");
 			return;
@@ -138,9 +153,9 @@ public partial class EditFrm : ContentPage
 
 		try
 		{
-			szotarBejegyzes.OtherLanguage = OtherLangEntry.Text.Trim();
-			szotarBejegyzes.Hungarian = HunLangEntry.Text.Trim();
-			szotarBejegyzes.Category = CategoryEntry.Text.Trim();
+			szotarBejegyzes.OtherLanguage = OtherLang;
+			szotarBejegyzes.Hungarian = HunLang;
+			szotarBejegyzes.Category = Category;
 
 			FileHandler.SaveDictionary(dicName);
 			await Navigation.PopModalAsync(); // Bezárás és visszalépés

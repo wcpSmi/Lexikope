@@ -7,7 +7,7 @@
     <!-- Grid a dinamikus elosztás érdekében -->
     <Grid RowDefinitions="Auto, *, Auto" Padding="10">
 
-        <!-- 🔹 FELSŐ VEZÉRLŐK (Fix magasságú) -->
+        <!--  FELSŐ VEZÉRLŐK (Fix magasságú) -->
         <VerticalStackLayout Grid.Row="0" Spacing="10">
             <!-- Egy közös Grid a címkéknek és a Pickereknek -->
             <Grid ColumnDefinitions="80, 80, 300"
@@ -79,7 +79,7 @@
             </Frame>
         </VerticalStackLayout>
 
-        <!-- 🔹 KÖZÉPSŐ RÉSZ (ListView, ami görgethető) -->
+        <!--  KÖZÉPSŐ RÉSZ (ListView, ami görgethető) -->
         <Grid Grid.Row="1">
 
             <!-- Ez tölti ki a fennmaradó helyet -->
@@ -113,7 +113,7 @@
 
         </Grid>
 
-        <!-- 🔹 ALSÓ RÖGZÍTETT GOMBOK (Fix magasságú) -->
+        <!--  ALSÓ RÖGZÍTETT GOMBOK (Fix magasságú) -->
         <Grid Grid.Row="2" Padding="10">
             <VerticalStackLayout HorizontalOptions="Center">
                 <Grid ColumnDefinitions="*,*,Auto,*,*" ColumnSpacing="20" Padding="10">

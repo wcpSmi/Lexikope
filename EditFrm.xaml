@@ -19,6 +19,7 @@
 
             <Entry x:Name="CategoryEntry"
                Placeholder="Vagy írj be újat..."
+               TextChanged="OnCategoryEntryChange"
                HorizontalOptions="FillAndExpand"/>
         </VerticalStackLayout>
 
@@ -32,6 +33,7 @@
             <Entry x:Name="OtherLangEntry"
                    Placeholder="Írd be a szót/mondatot..."
                    FontSize="18"
+                   TextChanged="OnOtherLangEntryChange"
                    HeightRequest="100"
                    VerticalOptions="FillAndExpand"/>
 
@@ -39,6 +41,7 @@
             <Entry x:Name="HunLangEntry"
                    Placeholder="Írd be a magyar megfelelőjét..."
                    FontSize="18"
+                   TextChanged="OnHunLangEntryChange"
                    HeightRequest="100"
                    VerticalOptions="FillAndExpand"/>
         </VerticalStackLayout>
