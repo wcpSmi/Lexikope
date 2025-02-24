@@ -162,41 +162,38 @@ namespace Lexikope
 
 		}
 
-		public static void SaveDictionary(string dictionaryName)
+		public static async Task SaveDictionary(string dictionaryName)
 		{
 			var outtext = Szotar.ToLexiKopeFormat();
 			string fileFullName = GetCurrentFileFullName( dictionaryName);
-			AppendOrCreateFile(fileFullName, outtext);
+			await AppendOrCreateFile(fileFullName, outtext);
 
 #if WINDOWS
 			//Teszt ellenörző fájl
 			string appFolder = AppDomain.CurrentDomain.BaseDirectory;
 			string filePath = Path.Combine(appFolder, $"Lexikope_{dictionaryName}.txt");
 			Debug.Print(filePath);
-			AppendOrCreateFile(filePath, outtext);
+			await AppendOrCreateFile(filePath, outtext);
 #endif
 #if ANDROID
 			string filePath = Path.Combine("/storage/emulated/0/Download", $"Lexikope_{dictionaryName}.txt");
 			Debug.Print(filePath);
-			AppendOrCreateFile(filePath, outtext);
+			await AppendOrCreateFile(filePath, outtext);
 #endif
 		}
 
-		public static void AppendOrCreateFile(string filePath, string content)
+		public static async Task AppendOrCreateFile(string filePath, string content)
 		{
 			try
 			{
-				using (StreamWriter writer = new StreamWriter(filePath, append: false))
-				{
-					writer.WriteLine(content);
-				}
-				
+				await File.WriteAllTextAsync(filePath, content);
 			}
 			catch (Exception ex)
 			{
-				throw new Exception(ex.Message, ex);
+				throw new Exception($"Hiba történt a fájl írása közben: {ex.Message}", ex);
 			}
 		}
+
 
 
 	}

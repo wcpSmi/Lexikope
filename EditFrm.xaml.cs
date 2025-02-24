@@ -107,6 +107,7 @@ public partial class EditFrm : ContentPage
 		}
 		catch (Exception ex)
 		{
+			Debug.Print(ex.Message, ex);
 			await DisplayAlert("Hiba", $"Nem sikerült menteni: {ex.Message}", "OK");
 		}
 	}
