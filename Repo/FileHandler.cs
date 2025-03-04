@@ -133,7 +133,7 @@ namespace Lexikope
 #elif WINDOWS
     return Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
 #else
-    return FileSystem.AppDataDirectory);
+    return FileSystem.AppDataDirectory;
 #endif
 		}
 
