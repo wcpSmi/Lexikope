@@ -12,17 +12,22 @@ using System.Diagnostics;
 using System.Web;
 using System.Windows.Input;
 
+using Lexikope.Services;
+
+
 
 namespace Lexikope
 {
 	public partial class MainPage : ContentPage
 	{
 		private ObservableCollection<SzotarBejegyzes> DisplayedItems = new ObservableCollection<SzotarBejegyzes>();
-		//"Book" 
+
 		Dictionary<int, List<SzotarBejegyzes>> book = new Dictionary<int, List<SzotarBejegyzes>>();
 
 		private List<SzotarBejegyzes> FilteredList = new List<SzotarBejegyzes>();
 
+		private readonly ScreenAwakeService screenAwakeService = new ScreenAwakeService();
+		
 		private const int PAGESIZE = 25; // Egyszerre betöltött elemek száma
 		private int currentPage = 1;
 		private int row = 0;
@@ -65,9 +70,7 @@ namespace Lexikope
 			// 🔹 A BindingContext beállítása (Fontos!)
 			BindingContext = this;
 
-
 		}
-
 
 
 		private void SetDictionaryChoicePicker()
@@ -330,7 +333,7 @@ namespace Lexikope
 
 		private bool enabelPlay = false;
 
-		private void OnPlayClicked(object sender, EventArgs e)
+		private async void OnPlayClicked(object sender, EventArgs e)
 		{
 			//"▶" = &#x25B6;
 			//	⏹ = &#x23F9;
@@ -341,6 +344,11 @@ namespace Lexikope
 				enabelPlay = true;
 				PlayButton.Text = "Stop";
 
+				var answer=await ShowDialog("Ébrentartás", "Akarod, hogy a felolvasás közben a képernyőt ébrentartsuk?", "Nem", "Igen");
+				if(answer)
+				{
+					screenAwakeService.KeepScreenOn();
+				}
 
 				//beállítja az elmentett szűrőket
 				CategoryPicker.SelectedIndex = AppState.ReaderOnPause ? AppState.ReaderCategoryIndex : CategoryPicker.SelectedIndex;
@@ -362,7 +370,7 @@ namespace Lexikope
 		private void OnPauseClicked(object sender, EventArgs e)
 		{
 			ReadingPause();
-			DisplayAlert("Figyelem", "Az jelenlegi oldal rögzítve lett. A felolvasást innen folytathatod a 'Play' gomb megnyomásával.", "ok");
+			ShowDialog("Figyelem", "Az jelenlegi oldal rögzítve lett. A felolvasást innen folytathatod a 'Play' gomb megnyomásával.", "ok");
 		}
 
 		private async void ReadingStart(int page)
@@ -418,6 +426,9 @@ namespace Lexikope
 			PlayButton.Text = "Play";
 			SelectedLabel.Text = "";
 			ResultsList.SelectedItem = null;
+
+			//Elengedjük a képernyő ébrentartását ha az be volt kapcsolva
+			screenAwakeService.AllowScreenOff();
 		}
 
 		private void ReadingPause()
@@ -445,6 +456,20 @@ namespace Lexikope
 			AppState.ReaderOnPause = false;
 			SetThemeColors();
 			ShowPage();
+		}
+
+		public async Task<bool> ShowDialog(string title,string text,string buttonCancel,string buttonOk="")
+		{
+			
+			if(string.IsNullOrWhiteSpace(buttonOk))
+			{
+				await DisplayAlert(title, text, buttonCancel);
+				return false;
+			}
+			else
+			{
+				return await DisplayAlert(title, text, buttonOk, buttonCancel);
+			}
 		}
 
 		protected override void OnAppearing()
