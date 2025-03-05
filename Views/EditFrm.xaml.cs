@@ -48,6 +48,7 @@ public partial class EditFrm : ContentPage
 		OtherLangEntry.Text = bejegyzes.OtherLanguage;
 		HunLangEntry.Text = bejegyzes.Hungarian;
 		CategoryPicker.SelectedItem = bejegyzes.Category;
+		
 
 		dicName = dictionaryName ?? string.Empty;
 	}
@@ -66,6 +67,7 @@ public partial class EditFrm : ContentPage
 		{
 			CategoryEntry.Text = CategoryPicker.SelectedItem?.ToString() ?? string.Empty;
 		}
+		Category = CategoryPicker.SelectedItem.ToString();
 	}
 
 	private void OnCategoryEntryChange(object sender, EventArgs e)
