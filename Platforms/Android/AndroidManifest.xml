@@ -5,6 +5,12 @@
 	<!-- Külső tárhely olvasás és írás -->
 	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
 	<!-- Android 10+ támogatás (Scoped Storage engedélyezése) -->
-	<application android:requestLegacyExternalStorage="true" android:allowBackup="true" android:supportsRtl="true" android:icon="@mipmap/okosagy"></application>
+	<application android:requestLegacyExternalStorage="true" 
+				 android:allowBackup="true" 
+				 android:supportsRtl="true" 
+				 android:icon="@mipmap/okosagy"
+					android:theme="@style/Maui.SplashTheme"
+				 ></application>
 </manifest>

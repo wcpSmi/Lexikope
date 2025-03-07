@@ -1,4 +1,3 @@
-$English - Magyar
 #Az utcán
 
 avenue	sugárút
@@ -19,12 +18,12 @@ telephone box vagy telephone booth	telefonfülke
 
 #Család
 
-father (családon belül úgy mondják, hogy dad)	apa
-mother (családon belül úgy mondják, hogy mum)	anya
+father	apa
+mother	anya
 son	fiú
 daughter	lány
 parent	szülő
-child (többesszáma: children)	gyermek
+child, children	gyermek, gyerekek
 husband	férj
 wife	feleség
 brother	fiútestvér
@@ -34,12 +33,12 @@ aunt	nagynéni
 nephew	unokaöcs
 niece	unokahúg
 cousin	unokatestvér
-grandmother, granny, grandma	nagymama, nagyi, nagymami
-grandfather, granddad, grandpa	nagypapa,nagypapi
+grandmother, granny, grandma	nagymama (nagyi, nagymami)
+grandfather, granddad, grandpa	nagypapa (nagypapi)
 grandparents	nagyszülők
 grandson	fiú unoka
 granddaughter	lány unoka
-grandchild, grandchildren	unoka
+grandchild, grandchildren	unokam unokák
 boyfriend	barát
 girlfriend	barátnő
 partner	partner
@@ -142,7 +141,7 @@ to cut	vágni
 to loosen	meglazítani
 to measure	mérni
 to paint	festeni
-to repair, to mend	javítani, rendbehozni
+to repair vagy to mend	javítani, rendbehozni
 to screw in	becsavarni
 to tighten	meghúzni
 to unscrew	kicsavarni
@@ -227,6 +226,7 @@ concert hall	koncertterem
 dentists	fogorvosok
 doctors	orvosok
 fire station	tűzoltóság
+fish and chip shop	elsősorban halat és sült krumplit áruló létesítmény
 garage	autószervíz
 gym	fitness terem
 health centre	egészségügyi központ
@@ -241,7 +241,7 @@ office block	irodaépület
 petrol station	benzinkút
 police station	rendőrőrs
 post office	posta
-pub, public house	kocsma
+pub (a következő rövidítése: public house)	kocsma
 restaurant	étterem
 school	iskola
 shopping centre	bevásárlóközpont
@@ -321,7 +321,7 @@ crazy	bolond
 sensible	ésszerű
 serious	komoly
 honest	őszinte
-dishonest	nem becsületes, tisztességtelen
+dishonest	nem becsületes / tisztességtelen
 good-humoured	jó humorú
 bad-tempered	összeférhetetlen
 moody	szeszélyes
@@ -418,7 +418,7 @@ water bill	víz számla
 to do the housework	elvégezni a házimunkát
 back garden	hátsó kert
 clothes line	ruhaszárító kötél
-drain	csatorna, eresz
+drain	csatorna / eresz
 drive	kocsifeljáró
 dustbin	kuka
 fence	kerítés
@@ -439,8 +439,8 @@ orchard	gyümölcsös
 path	kerti ösvény
 patio	terasz
 plants	növények
-pond	tavacska, kis tó
-shed	kerti fabódé, kerti szerszámok raktára
+pond	tavacska / kis tó
+shed	kerti fabódé / kerti szerszámok raktára
 swimming pool	úszómedence
 swing	hinta
 trampoline	trambulin
@@ -448,7 +448,7 @@ vegetable garden	zöldségek
 weeds	gaz
 to mow the lawn	megnyírni a füvet
 axe	balta
-fork	villa, vasvilla
+fork	villa / vasvilla
 hoe	kapa
 hose vagy hosepipe	öntözőcső
 lawn mower	fűnyíró
@@ -459,7 +459,7 @@ spade	ásó
 trowel	ültetőkanál
 watering can	öntözőkanna
 wheelbarrow	talicska
-fridge, refrigerator	hűtő
+fridge	hűtő
 coffee pot	kávéfőző
 cooker	sütő
 dishwasher	mosogatógép
@@ -474,7 +474,7 @@ chopping board	vágódeszka
 colander	szűrőedény
 corkscrew	dugóhúzó
 frying pan	serpenyő
-grater, cheese grater	reszelő/sajtreszelő
+grater vagy cheese grater	reszelő/sajtreszelő
 juicer	facsaró
 kitchen foil	alufólia
 kitchen scales	konyhai mérleg
@@ -484,7 +484,7 @@ oven cloth	konyharuha sütőhöz
 oven gloves	sütőkesztyű
 rolling pin	sodrófa
 saucepan	lábos
-scouring pad, scourer	mosogatószivacs, dörzsi
+scouring pad / scourer	mosogatószivacs/dörzsi
 sieve	szita
 tin opener	konzervnyitó
 tongs	konyhai fogó
@@ -528,7 +528,7 @@ washing-up liquid	mosogatószer
 to do the dishes	elmosogatni
 to do the washing up	elmosogatni
 to clear the table	leszedni az asztalt
-to set the table, to lay the table	megteríteni az asztalt
+to set the table vagy to lay the table	megteríteni az asztalt
 armchair	karosszék
 bed	ágy
 bedside table	éjjeliszekrény
@@ -562,7 +562,7 @@ dvd player	dvd lejátszó
 electric fire	elektromos kandalló
 games console	játékkonzol
 gas fire	gáz kandalló
-hoover, vacuum cleaner	porszívó
+hoover vagy vacuum cleaner	porszívó
 iron	vasaló
 lamp	lámpa
 radiator	radiátor
@@ -571,6 +571,7 @@ record player	lemezjátszó
 spin dryer	szárítógép
 stereo	magnó
 telephone	telefon
+tv (a következő rövidítése: television)	tv (televízió)
 washing machine	mosógép
 blanket	pokróc
 blinds	ablakredőny
@@ -609,7 +610,7 @@ painting	festmény
 picture	kép
 plug	konnektor
 plug	lefolyódugó
-plug socket, power socket	csatlakozó aljzat, konnektor
+plug socket vagy power socket	csatlakozó aljzat/konnektor
 plughole	lefolyó
 poster	poszter
 sponge	szivacs
@@ -634,7 +635,7 @@ stamps	bélyeg
 pen	toll
 pencil	ceruza
 tissues	papírzsebkenő
-toilet paper, toilet roll	wc papír
+toilet paper vagy toilet roll	wc papír
 toothpaste	fogkrém
 tube of toothpaste	fogkrémes tubus
 writing paper	írólap
@@ -730,7 +731,7 @@ nursery school	óvoda
 primary school	általános iskola
 secondary school	középiskola
 state school	állami iskola
-private school, independent school	privát iskola
+private school vagy independent school	privát iskola
 boarding school	bentlakásos iskola
 sixth-form college	a középiskola szabadon választható utolsó általában két éve
 technical college	műszaki főiskola
@@ -743,7 +744,7 @@ desk	iskolapad
 blackboard	iskolatábla
 whiteboard	fehértábla
 chalk	kréta
-marker pen, marker	filctoll
+marker pen vagy marker	filctoll
 pen	toll
 pencil	ceruza
 exercise book	füzet
@@ -778,10 +779,12 @@ school dinners	menza
 computer room	számítógépes terem
 cloakroom	ruhatár
 changing room	öltöző
+gym (a következő rövidítése: gymnasium)	tornaterem
 playground	játszótér
 library	könyvtár
 lecture hall	előadóterem
 laboratory	laboratórium
+language lab	nyelvi labor
 hall of residence	kollégium
 locker	öltözőszekrény
 playing field	sportpálya
@@ -792,7 +795,7 @@ researcher	kutató
 research	kutatás
 undergraduate	egyetemi hallgató
 graduate	egyetemet végzett
-post-graduate, post-graduate student	posztgraduális hallgató
+post-graduate vagy post-graduate student	posztgraduális hallgató
 masters student	mester hallgató
 phd student	doktorandusz
 master's degree	mesterfokozat
@@ -810,7 +813,7 @@ tuition fees	tandíj
 university campus	egyetemi campus
 exam, examination	vizsga
 to sit an exam	vizsgázni
-essay, paper	esszé
+essay vagy paper	esszé
 to fail an exam	megbukni a vizsgán
 to pass an exam	levizsgázni
 to study	tanulni
@@ -831,8 +834,8 @@ projector	kivetítő
 textbook	tankönyv
 question	kérdés
 answer	válasz
-mistake, error	hiba
-right, correct	jó
+mistake vagy error	hiba
+right vagy correct	jó
 wrong	hibás
 art	művészet
 classics	klasszikusok
@@ -869,8 +872,9 @@ business studies	kereskedelmi szak
 geography	földrajz
 design and technology	tervezés és technológia
 law	jog
-maths, mathematics)	matek, matematika
+maths, mathematics	matek, matematika
 nursing	ápolás
+pe. physical education	testnevelés
 religious studies	vallástudomány
 sex education	szexuális felvilágosítás
 
@@ -891,7 +895,7 @@ traffic jam	forgalmi dugó
 to crash	összetörik
 to have an accident	balesetet szenved
 to skid	megcsúszni
-to stall	elakadni / lefulladni
+to stall	elakadni, lefulladni
 to swerve	elkanyarodni
 driving instructor	autóvezető oktató
 driving lesson	autóvezetői óra
@@ -924,7 +928,7 @@ coach	távolsági busz
 lorry	teherautó
 minibus	minibusz
 moped	moped
-motorbike, motorcycle	motorkerékpár
+motorbike	motorkerékpár
 scooter	robogó
 taxi	taxi
 tractor	traktor
@@ -983,6 +987,7 @@ automatic	autómata sebváltó
 central locking	központi zár
 manual	manuális sebváltó
 tax disc	gépjárműadó matrica
+sat nav, satellite navigation	műholdas navigáció
 brake light	féklámpa
 hazard lights	vészjelző lámpa
 headlamp	első lámpa
@@ -1040,7 +1045,7 @@ off the hook	félretéve
 operator	telefonkezelő
 outside line	külső vonal
 personal call	személyes hívás
-phone (a következő rövidítése: telephone)	telefon
+phone, telephone	telefon
 phone book vagy telephone directory	telefonkönyv
 phone box vagy call box	telefonfülke
 phone card	telefonkártya
@@ -1048,14 +1053,14 @@ phone number	telefonszám
 receiver	telefonkagyló
 switchboard	telefonközpont
 wrong number	rossz szám
-mobile	mobil, mobilszám
+mobile	mobil / mobilszám
 smartphone	okostelefon
 missed call	nem fogadott hívás
 mobile phone charger	mobiltelefon-töltő
 ringtone	csengőhang
 signal	jelzés
 text message	sms
-to call, to phone	hívni
+to call vagy to phone	hívni
 to be cut off	a vonal megszakadt
 to dial a number	tárcsázni egy számot
 to hang up	lerakni a kagylót
@@ -1152,7 +1157,7 @@ appointment	időpont
 cv, curriculum vitae	önéletrajz
 job description	munka leírás
 interview	meghallgatás
-job offer, offer of employment	munkahely felajánlás
+job offer vagy offer of employment	munkahely felajánlás
 qualifications	végzettségek
 to apply for a job	jelentkezni egy munkahelyre
 to accept an offer	elfogadni egy ajánlatot
@@ -1336,7 +1341,7 @@ backache	hátfájás
 bleeding	vérzés
 blister	hólyag
 boil	furunkulus
-broken, broken bone, broken arm, broken leg)	törött (csont / kar / láb)
+broken bone, broken arm, broken leg)	törött csont,törött kar,törött láb
 bronchitis	hörghurut
 bruise	zúzódás
 cancer	rák
@@ -1434,7 +1439,7 @@ medicine	orvosság
 pill	pirula
 tablet	tabletta
 doctor	orvos
-gp, practitioner	háziorvos
+gp, general practitioner	háziorvos
 consultant	konzulens
 anaesthetist	altatóorvos
 surgeon	sebész
@@ -1535,6 +1540,7 @@ baby wipes	babatörlőkendő
 condoms	óvszerek
 contact lens solution	kontaktlencse tisztító
 disposable nappies	eldobható pelenkák
+hot water bottle	ágymelegítő (melegvíz tároló tasak)
 safety pins	biztosítótű
 sun cream	naptej
 sun block	napozás elleni krém
@@ -1571,7 +1577,7 @@ eyeliner	szemceruza
 eyeshadow	szemhélyfesték
 face powder	arcpúder
 foundation	alapozó
-hair colouring, hair dye	hajfesték
+hair colouring vagy hair dye	hajfesték
 hair gel	hajzselé
 hair spray	hajlakk
 hair wax	hajvax
@@ -1584,196 +1590,6 @@ moisturising cream	testápoló krém
 nail varnish	körömlakk
 nail varnish remover	körömlakklemosó
 
-#Programozás
-
-object reference not set to an instance of an object	az objektumhivatkozás nincs példányosítva.
-value cannot be null	az érték nem lehet null.
-out of range exception	határértéken kívüli kivétel.
-index was outside the bounds of the array	az index kívül esik a tömb határain.
-method not implemented	a metódus nincs megvalósítva.
-access is denied	a hozzáférés megtagadva.
-could not load file or assembly	nem sikerült betölteni a fájlt vagy szerelvényt.
-specified argument was out of the range of valid values	a megadott argumentum kívül esik az érvényes értékeken.
-the process cannot access the file	a folyamat nem fér hozzá a fájlhoz.
-unauthorized access exception	jogosulatlan hozzáférés kivétel.
-the system cannot find the file specified	a rendszer nem találja a megadott fájlt.
-a circular dependency was detected	körkörös függőséget észleltek.
-cannot implicitly convert type	a típus nem konvertálható implicit módon.
-an item with the same key has already been added	egy azonos kulcsú elem már hozzá lett adva.
-invalid operation exception	érvénytelen művelet kivétel.
-sequence contains no elements	a sorozat nem tartalmaz elemeket.
-the type or namespace name could not be found	a típus vagy névtér neve nem található.
-object does not contain a definition for	az objektum nem tartalmaz definíciót.
-invalid cast exception	érvénytelen típuskonverzió kivétel.
-file already exists	a fájl már létezik.
-divide by zero exception	nullával való osztás kivétel
-stack overflow exception	verem túlcsordulás kivétel
-heap corruption detected	kupac sérülést észleltek
-nullreferenceexception	null hivatkozás kivétel
-format exception	formátum kivétel
-arithmetic overflow exception	aritmetikai túlcsordulás kivétel
-insufficient memory exception	elégtelen memória kivétel
-out of memory exception	nincs elég memória kivétel
-key not found exception	kulcs nem található kivétel
-argument null exception	argumentum null kivétel
-timeout expired	időtúllépés történt
-task canceled exception	feladat megszakítva kivétel
-operation canceled exception	művelet megszakítva kivétel
-end of stream exception	a stream vége kivétel
-file not found exception	a fájl nem található kivétel
-directory not found exception	a könyvtár nem található kivétel
-path too long exception	az útvonal túl hosszú kivétel
-stack empty exception	üres verem kivétel
-invalid data exception	érvénytelen adat kivétel
-objectdisposedexception	az objektum már felszabadított kivétel
-io exception	i/o művelet kivétel
-security exception	biztonsági kivétel
-more performant alternative	hatékonyabb alternativa
-addition, in addition	kiegészítés, ráadásul
-indicates	jelöl, mutat
-data bindings	adatkötések
-means	eszközök, erőforrások
-error	hiba
-exception	kivétel
-debug	hibakeresés
-runtime	futásidő
-compile	fordítás
-build	összeállítás
-deploy	telepítés
-test	teszt
-failure	kudarc
-success	siker
-log	napló
-output	kimenet
-input	bemenet
-operation	művelet
-process	folyamat
-validation	érvényesítés
-authentication	hitelesítés
-authorization	jogosultság
-timeout	időtúllépés
-overflow	túlcsordulás
-underflow	alulcsordulás
-stack	verem
-heap	kupac
-pointer	mutató
-reference	hivatkozás
-variable	változó
-constant	állandó
-parameter	paraméter
-argument	argumentum
-function	függvény
-syntax	szintaxis
-null	null (üres hivatkozás)
-reference	hivatkozás
-dependency	függőség
-missing	hiányzó
-unexpected	váratlan
-invalid	érvénytelen
-supported	támogatott
-deprecated	elavult
-mismatch	eltérés
-type	típus
-conversion	átalakítás
-resolved	megoldott
-unresolved	megoldatlan
-implementation	megvalósítás
-library	könyvtár
-package	csomag
-framework	keretrendszer
-module	modul
-project	projekt
-summary	összefoglalás
-description	leírás
-example	példa
-method	metódus
-property	tulajdonság
-remarks	megjegyzések
-definition	definíció
-usage	használat
-return	visszatérés
-throw	dobás (kivétel)
-overload	túlterhelés
-inheritance	öröklődés
-polymorphism	polimorfizmus
-encapsulation	enkapszuláció
-abstraction	absztrakció
-scope	hatókör
-lifetime	élettartam
-context	kontextus
-thread	szál
-trace	nyomkövetés
-breakpoint	töréspont
-stacktrace	veremkövetés
-watch	figyelés
-inspection	ellenőrzés
-diagnostics	diagnosztika
-assertion	állítás
-failure	meghibásodás
-reproduce	reprodukál
-fix	javítás
-asynchronous	aszinkron
-synchronous	szinkron
-memory	memória
-allocation	foglalás
-deallocation	felszabadítás
-garbage collection	szemétgyűjtés
-performance	teljesítmény
-optimization	optimalizálás
-latency	késleltetés
-bandwidth	sávszélesség
-
-#Rendhagyó igék
-
-bring brought brought	hozni
-buy bought bought	venni
-catch caught caught	elkapni
-feel felt felt	érezni
-find found found	találni
-hear heard heard	hallani
-keep kept kept	tartani
-leave left left	elhagyni
-make made made	készíteni
-meet met met	találkozni
-pay paid paid	fizetni
-sell sold sold	eladni
-send sent sent	küldeni
-sit sat sat	ülni
-sleep slept slept	aludni
-spend spent spent	költeni (időt, pénzt)
-stand stood stood	állni
-teach taught taught	tanítani
-tell told told	mondani, mesélni
-cut cut cut	vágni
-hit hit hit	ütni
-let let let	hagyni
-put put put	tenni, rakni
-read read read	olvasni
-set set set	beállítani
-shut shut shut	becsukni
-think thought thought	gondolni
-win won won	nyerni
-drink drank drunk	inni
-ring rang rung	csörögni, csengeni
-sing sang sung	énekelni
-sink sank sunk	elsüllyedni
-blow blew blown	fújni
-grow grew grown	nőni, termeszteni
-know knew known	tudni, ismerni
-throw threw thrown	dobni
-begin began begun	elkezdeni
-swim swam swum	úszni
-break broke broken	eltörni
-speak spoke spoken	beszélni
-steal stole stolen	lopni
-be was,were been	lenni
-come came come	jönni
-do did done	csinálni
-eat ate eaten	enni
-go went gone	menni
-have had had	birtokolni
-see saw seen	látni
-take took taken	venni, vinni
 
 #Ruházat Személyes tárgyak
 
@@ -1877,30 +1693,6 @@ to tie	megkötni
 to untie	kioldozni
 to do up	begombol/becsatol
 to undo	kigombol/kicsatol
-
-#Segédigék
-
-can	lehet, -hat/-het, tud
-could	tudott, -hatott/-hetett, udvarias kérés
-may	lehet, -hat/-het, udvarias engedélykérés
-might	esetleg, talán, -hatna/-hetne
-must	kell, muszáj
-shall	fog (jövő idő), ajánlat, javaslat
-should	kellene, tanács, javaslat
-will	fog (jövő idő)
-would	udvarias kérés, feltételes mód (csinálna)
-do	segédige kérdésekhez, tagadáshoz és nyomatékosításhoz
-does	segédige E/3 személyben (he, she, it)
-did	múlt idejű segédige kérdésekhez és tagadáshoz
-have	segédige a befejezett igeidőkhöz
-has	segédige a befejezett igeidőkhöz E/3 személyben
-had	múlt idejű segédige a befejezett múlt
-be	létezni, segédige a folyamatos igeidőkhöz
-am	létige E/1 személyben
-is	létige E/3 személyben
-are	létige többes számban és E/2 személyben
-was	létige múlt idejű E/1 és E/3 személyben
-were	létige múlt idejű többes számban és E/2 személyben
 
 #Shopping
 
@@ -2770,10 +2562,10 @@ ankle	boka
 anus	végbélnyílás
 belly	has
 big toe	nagylábujj
-bottom (szleng: bum)	fenék
+bottom	fenék
 buttocks	tompor
 calf	vádli
-foot (többesszáma: feet)	lábfej (lábfejek)
+foot, feet)	lábfej,lábfejek
 genitals	nemi szervek
 groin	ágyék
 heel	sarok
@@ -3732,4 +3524,3 @@ snare drum	pergődob
 tambourine	tamburin (csörgődob)
 triangle	háromszög
 xylophone	szilofon
-

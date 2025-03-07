@@ -1,4 +1,3 @@
-$Italian - Magyar 2
 #Számok
 zero	nulla
 uno	egy

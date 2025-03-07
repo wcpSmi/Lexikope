@@ -100,7 +100,7 @@ namespace Lexikope
 		public static void LoadDictionary(string dictionaryName)
 		{
 			Bejegyzesek.Clear();
-			using StreamReader reader = FileHandler.GetFileReader($"dic_{dictionaryName}.txt");// new StreamReader(filePath);
+			using StreamReader reader = FileHandler.GetFileReader($"dic_{dictionaryName}.txt");
 
 			string kategoria = string.Empty;
 			string magyarSzo = string.Empty;

@@ -1,4 +1,5 @@
-﻿using Microsoft.Maui.Storage;
+﻿using Microsoft.Maui.Controls.PlatformConfiguration;
+using Microsoft.Maui.Storage;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -6,6 +7,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+
 
 
 namespace Lexikope
@@ -25,7 +27,7 @@ namespace Lexikope
 				Debug.Print(name);
 			}
 		}
-			
+
 
 		/// <summary>
 		/// Ellenőrzi, hogy egy adott beágyazott fájl létezik-e az erőforrások között.
@@ -52,6 +54,7 @@ namespace Lexikope
 		{
 			string targetFolder = GetDictionaryFolderPath(); // A célmappa meghatározása
 
+			//Forrásfájlok 
 			var assembly = Assembly.GetExecutingAssembly();
 			var resourceNames = assembly.GetManifestResourceNames()
 										.Where(name => name.EndsWith(".txt", StringComparison.OrdinalIgnoreCase))
@@ -59,7 +62,7 @@ namespace Lexikope
 
 			if (!resourceNames.Any())
 			{
-				throw new FileNotFoundException("Nem található beágyazott `.txt` fájl a Resources mappában!");	
+				throw new FileNotFoundException("Nem található beágyazott `.txt` fájl a Resources mappában!");
 			}
 
 			foreach (var resourceName in resourceNames)
@@ -115,14 +118,14 @@ namespace Lexikope
 		public static StreamReader GetFileReader(string fileName)
 		{
 			string filePath = Path.Combine(GetDictionaryFolderPath(), $"{fileName}");
-			Debug.Print($"A program itt keresi a fájlt: {GetDictionaryFolderPath()}");
 
 			if (!File.Exists(filePath))
 			{
 				throw new FileNotFoundException($"A fájl nem található! Elérési út: {filePath}");
 			}
 
-			return new StreamReader(new FileStream(filePath, FileMode.Open, FileAccess.Read, FileShare.ReadWrite));
+			return new StreamReader(new FileStream(filePath, FileMode.Open, FileAccess.Read, FileShare.ReadWrite | FileShare.Delete));
+
 		}
 
 		/// <summary>
@@ -148,7 +151,7 @@ namespace Lexikope
 			// /storage/emulated/0/Documents (felhasználó által elérhető)
 			folderPath = Path.Combine(Android.OS.Environment.GetExternalStoragePublicDirectory(Android.OS.Environment.DirectoryDocuments).AbsolutePath, "Lexikope");
 #elif WINDOWS
-			// \LexiKope\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\AppX\Dictionaries
+			// \LexiKope\dictionaries 
 			folderPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Dictionaries");
 #else
 			 folderPath = FileSystem.AppDataDirectory;
@@ -172,19 +175,19 @@ namespace Lexikope
 		public static List<string> GetDictionaryNames()
 		{
 			List<string> dic = new List<string>();
-			string[] files= Directory.GetFiles(GetDictionaryFolderPath());
+			string[] files = Directory.GetFiles(GetDictionaryFolderPath());
 
 			foreach (string file in files)
 			{
 				Debug.Print(file);
-				string fileName = Path.GetFileName(file).Substring(0,Path.GetFileName(file).Length-4); // Ez csak a fájlnevet adja vissza, elérési út és kiterjesztés nélkül
+				string fileName = Path.GetFileName(file).Substring(0, Path.GetFileName(file).Length - 4); // Ez csak a fájlnevet adja vissza, elérési út és kiterjesztés nélkül
 
 				if (fileName.StartsWith("dic_"))
 				{
 					var e = fileName.Length;
-					dic.Add(fileName.Substring(4, fileName.Length-4));
+					dic.Add(fileName.Substring(4, fileName.Length - 4));
 				}
-				if(fileName=="dic_")
+				if (fileName == "dic_")
 				{
 					File.Delete(file);
 				}
@@ -201,22 +204,8 @@ namespace Lexikope
 		public static async Task SaveDictionary(string dictionaryName)
 		{
 			var outtext = Szotar.ToLexiKopeFormat();
-			string fileFullName = GetCurrentFileFullName( dictionaryName);
+			string fileFullName = GetCurrentFileFullName(dictionaryName);
 			await AppendOrCreateFile(fileFullName, outtext);
-
-#if WINDOWS
-			//Teszt ellenörző fájl
-			string appFolder = AppDomain.CurrentDomain.BaseDirectory;
-			string filePath = Path.Combine(appFolder, $"Lexikope_{dictionaryName}.txt");
-			Debug.Print(filePath);
-			await AppendOrCreateFile(filePath, outtext);
-#endif
-#if ANDROID
-
-			string filePath = Path.Combine("/storage/emulated/0/Download", $"Lexikope_{dictionaryName}.txt");
-			Debug.Print(filePath);
-			await AppendOrCreateFile(filePath, outtext);
-#endif
 		}
 
 		/// <summary>
