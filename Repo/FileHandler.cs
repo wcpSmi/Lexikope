@@ -50,7 +50,7 @@ namespace Lexikope
 		/// <exception cref="FileNotFoundException">
 		/// Dobja ezt a kivételt, ha egy beágyazott `.txt` fájl nem található.
 		/// </exception>
-		public static async Task EnsureWritableFilesExist()
+		public static void EnsureWritableFilesExist()
 		{
 			string targetFolder = GetDictionaryFolderPath(); // A célmappa meghatározása
 
@@ -83,8 +83,7 @@ namespace Lexikope
 
 				// Fájl létrehozása és másolás
 				using FileStream outputStream = File.Create(filePath);
-				await stream.CopyToAsync(outputStream);
-
+				 stream.CopyToAsync(outputStream);
 				Debug.Print($"Fájl másolva: {filePath}");
 			}
 		}

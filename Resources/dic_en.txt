@@ -2026,7 +2026,7 @@ cable	kábel
 hard drive	merevlemez
 speakers	hangszóró/hangfal
 power cable	tápkábel
-email	e-mail (elektronikus levél)
+email	e-mail
 to email	e-mailezi
 to send an email	küldés
 email address	e-mailcím
@@ -2046,7 +2046,6 @@ to restart	újraindítani
 the internet	internet
 website	weboldal
 broadband internet vagy broadband	szélessávú internet/szélessáv
-isp (internet service provider)	internet szolgáltató
 firewall	tűzfal
 web hosting	web hosting / web tárhely
 wireless internet vagy wifi	vezeték nélküli internet /wifi
@@ -2535,7 +2534,7 @@ nose	orr
 nostril	orrlyuk
 moustache	bajusz
 tongue	nyelv
-tooth (többesszáma: teeth)	fog (fogak)
+tooth, teeth	fog, fogak
 wrinkles	rácok
 adam's apple	ádámcsutka
 arm	kar
@@ -2565,7 +2564,7 @@ big toe	nagylábujj
 bottom	fenék
 buttocks	tompor
 calf	vádli
-foot, feet)	lábfej,lábfejek
+foot, feet	lábfej,lábfejek
 genitals	nemi szervek
 groin	ágyék
 heel	sarok
@@ -2896,7 +2895,7 @@ hard shoulder	leállósáv
 junction	csomópont
 lay-by	leállósáv
 level crossing	vasúti átjáró
-pavement (amerikai angol: sidewalk)	járda
+pavement, sidewalk	járda
 pedestrian crossing	gyalogosátkelő
 road sign	közlekedési jelzőtábla
 roadside	országúti
@@ -2910,8 +2909,8 @@ toll	úthasználati díj
 traffic light	közlekedési jelzőlámpa
 turning	kanyar
 timetable	menetrend
-single (a következő rövidítése: single ticket)	egyirányú
-return (a következő rövidítése: return ticket)	kétirányú
+single ticket	egyirányú
+return ticket	kétirányú
 platform	vágány
 waiting room	váróterem
 ticket office vagy booking office	jegypénztár
@@ -2987,7 +2986,7 @@ flight number	járatszám
 aircraft	repülőgép
 helicopter	helikopter
 jet	sugárhajtású repülőgép
-plane (a következő rövidítése: aeroplane)	repülő
+plane, aeroplane	repülő
 to fly	repülni
 to land	leszállni
 to miss a flight	lekésni a repülőt
@@ -3012,7 +3011,7 @@ security	biztonsági személyzet
 trolley	poggyászkocsi
 pilot	pilóta
 captain	kapitány
-first officer (más néven co-pilot)	másodpilóta
+first officer, co-pilot	másodpilóta
 flight attendant	légi utaskísérő
 air steward, air stewardess	légi utaskísérő, légi utaskísérőnő
 aisle seat	folyosó melletti ülés
@@ -3137,9 +3136,8 @@ businesswoman	üzletasszony
 economist	közgazdász
 financial adviser	pénzügyi tanácsadó
 health and safety officer	munkavédelmi felügyelő
-hr manager (a következő rövidítése: human resources manager)	humánerőforrás-menedzser
+hr manager, human resources manager	humánerőforrás-menedzser
 insurance broker	biztosítási ügynök
-pa (a következő rövidítése: personal assistant)	személyi titkár
 investment analyst	befektetési elemző
 project manager	projektmenedzser
 marketing director	marketing igazgató
@@ -3148,7 +3146,7 @@ manager	menedzser
 office worker	irodai dolgozó
 receptionist	recepciós
 recruitment consultant	fejvadász
-sales rep (a következő rövidítése: sales representative)	üzletkötő
+sales rep, sales representative	üzletkötő
 salesman / saleswoman	eladó / eladónő
 secretary	titkár / titkárnő
 stockbroker	bróker
@@ -3236,7 +3234,7 @@ waiter	pincér
 waitress	pincérnő
 air traffic controller	légiforgalmi irányító
 bus driver	buszvezető
-flight attendant (régebben air steward, air stewardess vagy air hostess néven hívták)	légiutas-kísérő
+flight attendant, air steward, air stewardess	légiutas-kísérő
 lorry driver	kamionsofőr
 sea captain vagy ship's captain	hajóskapitány
 taxi driver	taxisofőr
@@ -3275,7 +3273,7 @@ forensic scientist	kriminalisztikai szakértő
 judge	bíró
 lawyer	ügyvéd
 magistrate	magisztrátus
-police officer (régebben policeman vagy policewoman néven hívták)	rendőr
+police officer,policeman	rendőr
 prison officer	börtönőr
 private detective	magánnyomozó
 security officer	biztonsági őr
@@ -3366,7 +3364,6 @@ healthcare	egészségügy
 hotel and catering	szálloda és vendéglátás
 human resources	hr
 insurance	biztosítás
-it (information technology)	információs technológiai szakma
 the legal profession	jogi pálya
 local government	önkormányzat
 manufacturing	gyártás
