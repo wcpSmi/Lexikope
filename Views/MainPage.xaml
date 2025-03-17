@@ -97,14 +97,16 @@
                    TextColor="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"
                    Margin="10"/>
             <CollectionView Grid.Row="1" x:Name="ResultsList"
-                SelectionMode="Single"
-                SelectionChanged="OnItemSelected"                         
+                SelectionMode="Single"              
                 VerticalOptions="FillAndExpand">
                 <CollectionView.ItemTemplate>
                     <DataTemplate>
                         <StackLayout>
                             <Label Text="{Binding}" FontSize="22"
-                    TextColor="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"/>
+                                TextColor="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}"/>
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnItemTapped"/>
+                            </StackLayout.GestureRecognizers>
                         </StackLayout>
                     </DataTemplate>
                 </CollectionView.ItemTemplate>

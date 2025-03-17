@@ -70,6 +70,18 @@ namespace Lexikope.Mmodel
 
 			}
 		}
+		public static int ReaderRowIndex
+		{
+			get
+			{
+				return Preferences.Get("RowIndex", 0);
+			}
+			set
+			{
+				Preferences.Set("RowIndex", value);
+
+			}
+		}
 
 		public static int ReaderCategoryIndex
 		{

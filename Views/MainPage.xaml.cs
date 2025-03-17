@@ -27,7 +27,7 @@ namespace Lexikope
 		private List<SzotarBejegyzes> FilteredList = new List<SzotarBejegyzes>();
 
 		private readonly ScreenAwakeService screenAwakeService = new ScreenAwakeService();
-		
+
 		private const int PAGESIZE = 25; // Egyszerre betöltött elemek száma
 		private int currentPage = 1;
 		private int row = 0;
@@ -206,8 +206,8 @@ namespace Lexikope
 
 		private void ReplaceCollection<T>(ref ObservableCollection<T> target, IEnumerable<T> source)
 		{
-			var tempList = source.ToList(); // 🔹 Átmeneti lista
-			target = new ObservableCollection<T>(tempList); // 🔹 Új lista létrehozása
+			var tempList = source.ToList();
+			target = new ObservableCollection<T>(tempList);
 		}
 
 
@@ -219,7 +219,7 @@ namespace Lexikope
 			Szotar.LoadDictionary(DictionaryPicker.SelectedItem.ToString());
 			//Beálltja a forrásnyelveket
 			SetLanguagesPicker();
-
+			LoadCategory();
 		}
 
 		private void LanguagePicker_SelectedIndexChanged(object sender, EventArgs e)
@@ -255,31 +255,31 @@ namespace Lexikope
 			ShowPage();
 		}
 
-
-		private void OnItemSelected(object sender, SelectionChangedEventArgs e)
+		private void OnItemTapped(object sender, EventArgs e)
 		{
-
-			if (enabelPlay)
+			if (sender is StackLayout layout && layout.BindingContext is SzotarBejegyzes tappedItem)
 			{
-				return;
-			}
-
-			if (e.CurrentSelection != null && e.CurrentSelection.Count > 0)
-			{
-				if (e.CurrentSelection.FirstOrDefault() is SzotarBejegyzes selectedItem)
+				if (enabelPlay)
 				{
-					row = DisplayedItems.IndexOf(selectedItem);
+					//return;
+				}
+				int index = DisplayedItems.IndexOf(tappedItem);
+				row = index;
+				// Az adott elem kiválasztása még akkor is, ha már korábban ki volt választva
+				ResultsList.SelectedItem = tappedItem;
 
-					SelectedLabel.Text = AppState.SourceLanguageIndex == 0 ? selectedItem.Hungarian : selectedItem.OtherLanguage;
-					var speakTxt = AppState.SourceLanguageIndex == 0 ? selectedItem.OtherLanguage : selectedItem.Hungarian;
+				// Kiírjuk a kiválasztott elem szövegét
+				SelectedLabel.Text = AppState.SourceLanguageIndex == 0 ? tappedItem.Hungarian : tappedItem.OtherLanguage;
 
-					if (!string.IsNullOrEmpty(speakTxt))
-					{
-						Speaker.Speech(speakTxt, LanguagePicker.SelectedItem?.ToString());
-					}
+				var speakTxt = AppState.SourceLanguageIndex == 0 ? tappedItem.OtherLanguage : tappedItem.Hungarian;
+
+				if (!string.IsNullOrEmpty(speakTxt))
+				{
+					Speaker.Speech(speakTxt, LanguagePicker.SelectedItem?.ToString());
 				}
 			}
 		}
+
 
 
 		private void OnEditClicked(object sender, EventArgs e)
@@ -344,8 +344,8 @@ namespace Lexikope
 				enabelPlay = true;
 				PlayButton.Text = "Stop";
 
-				var answer=await ShowDialog("Ébrentartás", "Akarod, hogy a felolvasás közben a képernyőt ébrentartsuk?", "Nem", "Igen");
-				if(answer)
+				var answer = await ShowDialog("Ébrentartás", "Akarod, hogy a felolvasás közben a képernyőt ébrentartsuk?", "Nem", "Igen");
+				if (answer)
 				{
 					screenAwakeService.KeepScreenOn();
 				}
@@ -354,6 +354,8 @@ namespace Lexikope
 				CategoryPicker.SelectedIndex = AppState.ReaderOnPause ? AppState.ReaderCategoryIndex : CategoryPicker.SelectedIndex;
 
 				SearchEntry.Text = AppState.ReaderOnPause ? AppState.ReaderFilterText : SearchEntry.Text;
+
+				row = AppState.ReaderRowIndex ;
 
 				//Elindítja a felolvasást a mentett Kategoriából , mentett oldalról
 				currentPage = AppState.ReaderOnPause ? AppState.ReaderPage : currentPage;
@@ -382,7 +384,6 @@ namespace Lexikope
 			string destText = "";
 			string forrasNyelv = LanguagePicker.SelectedItem.ToString();
 			string ellentetesNyelv = LanguagePicker.Items[AppState.SourceLanguageIndex ^ 1].ToString();
-			int r = row;
 			CategoryPicker.SelectedIndex = CategoryPicker.SelectedIndex;
 
 			while (page <= lastPage && enabelPlay)
@@ -390,22 +391,21 @@ namespace Lexikope
 
 				ShowPage(page);
 
-				while (r < DisplayedItems.Count && enabelPlay)
+				while (row < DisplayedItems.Count && enabelPlay)
 				{
-					sourceText = AppState.SourceLanguageIndex == 0 ? DisplayedItems[r].OtherLanguage : DisplayedItems[r].Hungarian;
-					destText = AppState.SourceLanguageIndex == 0 ? DisplayedItems[r].Hungarian : DisplayedItems[r].OtherLanguage;
+					sourceText = AppState.SourceLanguageIndex == 0 ? DisplayedItems[row].OtherLanguage : DisplayedItems[row].Hungarian;
+					destText = AppState.SourceLanguageIndex == 0 ? DisplayedItems[row].Hungarian : DisplayedItems[row].OtherLanguage;
 
-					// 🔹 Kijelölés és görgetés az aktuális elemre
+					//Kijelölés és görgetés az aktuális elemre
 					await MainThread.InvokeOnMainThreadAsync(() =>
 					{
-						ResultsList.SelectedItem = DisplayedItems[r];
-						ResultsList.ScrollTo(DisplayedItems[r], position: ScrollToPosition.Center, animate: true);
+						ResultsList.SelectedItem = DisplayedItems[row];
+						ResultsList.ScrollTo(DisplayedItems[row], position: ScrollToPosition.Center, animate: true);
 						SelectedLabel.Text = destText;
 					});
 
 
-					r++;
-					row = r;
+					row++;
 
 					await Speaker.Speech(sourceText, forrasNyelv);
 
@@ -413,7 +413,7 @@ namespace Lexikope
 
 				}
 
-				r = 0;
+				row = 0;
 				page++;
 			}
 			//Felolvasás végén a gomb és a lista alaphelyzetbe állítás
@@ -439,6 +439,7 @@ namespace Lexikope
 			AppState.ReaderFilterText = SearchEntry.Text;
 			AppState.ReaderPage = currentPage;
 			AppState.ReaderOnPause = true;
+			AppState.ReaderRowIndex = row;
 			SetThemeColors();
 		}
 
@@ -454,14 +455,15 @@ namespace Lexikope
 			AppState.ReaderFilterText = "";
 			AppState.ReaderPage = 1;
 			AppState.ReaderOnPause = false;
+			AppState.ReaderRowIndex = row;
 			SetThemeColors();
 			ShowPage();
 		}
 
-		public async Task<bool> ShowDialog(string title,string text,string buttonCancel,string buttonOk="")
+		public async Task<bool> ShowDialog(string title, string text, string buttonCancel, string buttonOk = "")
 		{
-			
-			if(string.IsNullOrWhiteSpace(buttonOk))
+
+			if (string.IsNullOrWhiteSpace(buttonOk))
 			{
 				await DisplayAlert(title, text, buttonCancel);
 				return false;
@@ -478,6 +480,7 @@ namespace Lexikope
 			ResultsList.SelectedItem = null;
 			SelectedLabel.Text = string.Empty;
 			RefreshList();
+			LoadCategory();
 		}
 
 
