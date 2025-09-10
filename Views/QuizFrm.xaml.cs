@@ -153,7 +153,7 @@ public partial class QuizFrm : ContentPage
 
 	private async void OnChoice(object sender, EventArgs e)
 	{
-		string goodAnswer = AppState.SourceLanguageIndex == 0 ? quiz.Question.OtherLanguage : quiz.Question.Hungarian;
+		string goodAnswer = sourceLangIndex == 0 ?  quiz.Question.Hungarian : quiz.Question.OtherLanguage;
 
 		if (sender is Label button)//(sender is Button button)
 		{
