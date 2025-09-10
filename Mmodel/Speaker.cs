@@ -90,10 +90,6 @@ namespace Lexikope
 
 		private static string GetDeviceInfo()
 		{
-			//Console.WriteLine($"Eszköz: {DeviceInfo.Manufacturer} - {DeviceInfo.Model}");
-			//Console.WriteLine($"Operációs rendszer: {DeviceInfo.VersionString}");
-			//Console.WriteLine($"Architektúra: {DeviceInfo.DeviceType}");
-
 			return DeviceInfo.Manufacturer;
 		}
 	}

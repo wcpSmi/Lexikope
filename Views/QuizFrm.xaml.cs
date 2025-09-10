@@ -153,33 +153,68 @@ public partial class QuizFrm : ContentPage
 
 	private async void OnChoice(object sender, EventArgs e)
 	{
+		string goodAnswer = AppState.SourceLanguageIndex == 0 ? quiz.Question.OtherLanguage : quiz.Question.Hungarian;
+
 		if (sender is Label button)//(sender is Button button)
 		{
 			if (quiz.SuccessfulResponse(button.Text))
 			{ //jóválasz esetén
 				button.Background = Colors.Green;
-				//Add vissza a tanult nyelven a választ
+
 				await Speaker.Speech(quiz.Question.OtherLanguage, langPicker.Items[0].ToString());
 				
-				button.Background = Colors.LightGray;
 				goodResponseCount++;
 			}
 			else
 			{//rossz válasz esetén
 				button.Background = Colors.Red;
-				AskWorld.Text=AppState.SourceLanguageIndex == 0 ? quiz.Question.OtherLanguage : quiz.Question.Hungarian;
+			
 				AskWorld.Background = Colors.LightGreen;
-				await Speaker.Speech(quiz.Question.OtherLanguage, langPicker.Items[0].ToString());
+				SetButtonColor(Colors.LightGreen,goodAnswer);
 
-				button.Background = Colors.LightGray;
-				AskWorld.Background = Colors.Beige;
+				await Speaker.Speech(quiz.Question.OtherLanguage, langPicker.Items[0].ToString());
 			}
+			SetButtonColor();
 		}
 		Score.Text= $"Kérdés : {questionCount} ,	Jó válasz : {goodResponseCount}";
 		NewRound();
 	}
 
+	private void SetButtonColor()
+	{
+		int index = 1;
 
+		foreach (var child in buttonStack.Children) // Végigmegyünk a stackben lévõ elemeken
+		{
+			if (child is Frame frame && frame.Content is Label labelButton) // Ellenõrizzük, hogy a Frame-ben van-e Button
+			{
+				if (labelButton.AutomationId == $"choice_{index}") // Ha az AutomationId egyezik
+				{
+					labelButton.Background = Colors.LightGray;
+				}
+			}
+			index++;
+		}
+		AskWorld.Background = Colors.Beige;
+	}
+
+	private void SetButtonColor(Color color,string searchedText)
+	{
+		int index = 1;
+
+		foreach (var child in buttonStack.Children) // Végigmegyünk a stackben lévõ elemeken
+		{
+			if (child is Frame frame && frame.Content is Label labelButton) // Ellenõrizzük, hogy a Frame-ben van-e Button
+			{
+				if (labelButton.Text == searchedText) // Ha a felirat eggyezik a searchedText-el
+				{
+					labelButton.Background = color;
+				}
+			}
+			index++;
+		}
+		AskWorld.Background = Colors.Beige;
+	}
 
 	private async void OnExitClick(object sender, EventArgs e)
 	{

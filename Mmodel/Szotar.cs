@@ -111,6 +111,12 @@ namespace Lexikope
 			while ((sor = reader.ReadLine()) != null)
 			{
 				sorSzám++;
+				//csak ellenőrzésre
+				if(sorSzám==4152)
+				{
+					Debug.Print(sor);
+				}
+				Debug.Print(sorSzám.ToString());
 				if (!sor.StartsWith('$'))
 				{
 					if (!string.IsNullOrEmpty(sor) && sor != null)
